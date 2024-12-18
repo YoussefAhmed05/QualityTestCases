@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>675e1919-e10a-48cb-9a62-556d0b2219b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.password-wrapper > svg > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>f2d93fd9-9134-4108-90e7-2592c0b407a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M8.11747 4.0665C8.40977 4.02169 8.70509 3.9994 9.0008 3.99983C11.6508 3.99983 14.1425 5.90816 15.5925 8.99983C15.3707 9.47032 15.1202 9.92674 14.8425 10.3665C14.7543 10.503 14.7079 10.6623 14.7091 10.8248C14.711 11.0067 14.7723 11.183 14.8837 11.3267C14.9951 11.4705 15.1505 11.5739 15.3261 11.6211C15.5017 11.6683 15.688 11.6568 15.8565 11.5882C16.0249 11.5197 16.1663 11.3979 16.2591 11.2415C16.6474 10.6314 16.9847 9.99037 17.2675 9.32483C17.3122 9.22085 17.3352 9.10885 17.3352 8.99566C17.3352 8.88248 17.3122 8.77048 17.2675 8.6665C15.5841 4.75816 12.4175 2.33316 9.0008 2.33316C8.60969 2.33119 8.21921 2.36466 7.83414 2.43316C7.7247 2.45177 7.62 2.49174 7.52602 2.55081C7.43203 2.60988 7.3506 2.68688 7.28638 2.77741C7.22215 2.86795 7.17638 2.97025 7.15169 3.07848C7.127 3.1867 7.12387 3.29873 7.14247 3.40816C7.16108 3.5176 7.20105 3.6223 7.26012 3.71628C7.31919 3.81027 7.39619 3.8917 7.48672 3.95592C7.57726 4.02015 7.67956 4.06592 7.78779 4.09061C7.89601 4.1153 8.00804 4.11843 8.11747 4.09983V4.0665ZM2.09247 0.908162C2.01477 0.830463 1.92253 0.768829 1.82101 0.726779C1.71949 0.684729 1.61069 0.663086 1.50081 0.663086C1.39092 0.663086 1.28212 0.684729 1.1806 0.726779C1.07908 0.768829 0.986838 0.830463 0.909139 0.908162C0.752219 1.06508 0.664062 1.27791 0.664062 1.49983C0.664063 1.72175 0.752219 1.93458 0.909139 2.0915L3.49247 4.6665C2.31378 5.8011 1.37569 7.16148 0.734139 8.6665C0.688253 8.77163 0.664568 8.88511 0.664568 8.99983C0.664568 9.11454 0.688253 9.22802 0.734139 9.33316C2.41747 13.2415 5.58414 15.6665 9.0008 15.6665C10.4984 15.6561 11.9606 15.2102 13.2091 14.3832L15.9091 17.0915C15.9866 17.1696 16.0788 17.2316 16.1803 17.2739C16.2819 17.3162 16.3908 17.338 16.5008 17.338C16.6108 17.338 16.7197 17.3162 16.8213 17.2739C16.9228 17.2316 17.015 17.1696 17.0925 17.0915C17.1706 17.014 17.2326 16.9219 17.2749 16.8203C17.3172 16.7188 17.339 16.6098 17.339 16.4998C17.339 16.3898 17.3172 16.2809 17.2749 16.1793C17.2326 16.0778 17.1706 15.9856 17.0925 15.9082L2.09247 0.908162ZM7.39247 8.56649L9.43414 10.6082C9.29329 10.6486 9.14732 10.6682 9.0008 10.6665C8.55878 10.6665 8.13485 10.4909 7.82229 10.1783C7.50973 9.86578 7.33414 9.44186 7.33414 8.99983C7.33243 8.85332 7.35208 8.70734 7.39247 8.56649ZM9.0008 13.9998C6.3508 13.9998 3.85914 12.0915 2.41747 8.99983C2.95588 7.81129 3.72003 6.73864 4.66747 5.8415L6.14247 7.33316C5.79601 7.96549 5.66392 8.69312 5.76602 9.40688C5.86812 10.1206 6.1989 10.782 6.70874 11.2919C7.21859 11.8017 7.88 12.1325 8.59376 12.2346C9.30752 12.3367 10.0351 12.2046 10.6675 11.8582L11.9925 13.1665C11.085 13.7006 10.0537 13.9879 9.0008 13.9998Z</value>
+      <webElementGuid>41900f3b-1899-48af-9ba2-2d33cf02c4ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#C6C4C4</value>
+      <webElementGuid>010f0967-3e4d-40cc-83cb-f84bd813a82e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/div[2]/div[@class=&quot;hz-contain&quot;]/div[@class=&quot;myAccount-page&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;myProfile__container&quot;]/div[@class=&quot;myProfile__sections&quot;]/div[@class=&quot;myProfile__Security&quot;]/div[@class=&quot;security__container&quot;]/div[@class=&quot;modal_container&quot;]/div[@class=&quot;modal&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;passwordForm__container&quot;]/form[1]/div[@class=&quot;input-wrapper hz-mt-20&quot;]/div[@class=&quot;password-wrapper&quot;]/svg[1]/path[1]</value>
+      <webElementGuid>48824206-4fec-4c60-91bd-36fa90610ac2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

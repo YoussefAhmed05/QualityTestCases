@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Save</name>
+   <tag></tag>
+   <elementGuidId>dba13e9f-3409-446c-9cf0-e295ec3b0df4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-root']/div[2]/div[2]/div/div[2]/div/div[2]/div[2]/div/div[2]/div/div[2]/div/form/div[4]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.save__btn > div.hz-button-icon-wrapper > button.button-with-icon.default-bg.sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9358948a-8990-4878-afa7-e0ed961f6ec2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-with-icon default-bg sm</value>
+      <webElementGuid>7fb843e1-585e-4c69-bbe1-b8be01ae3e26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save</value>
+      <webElementGuid>a7d6192e-0589-4704-b175-71f07f61d049</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/div[2]/div[@class=&quot;hz-contain&quot;]/div[@class=&quot;myAccount-page&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;myProfile__container&quot;]/div[@class=&quot;myProfile__sections&quot;]/div[@class=&quot;myProfile__Security&quot;]/div[@class=&quot;security__container&quot;]/div[@class=&quot;modal_container&quot;]/div[@class=&quot;modal&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;passwordForm__container&quot;]/form[1]/div[@class=&quot;save__btn&quot;]/div[@class=&quot;hz-button-icon-wrapper&quot;]/button[@class=&quot;button-with-icon default-bg sm&quot;]</value>
+      <webElementGuid>ec76a3d1-5e1c-4e0f-b0ac-dc5cd21d4780</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-root']/div[2]/div[2]/div/div[2]/div/div[2]/div[2]/div/div[2]/div/div[2]/div/form/div[4]/div/button</value>
+      <webElementGuid>476c3325-c5b6-428c-bb7f-14690ec79bf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm Password'])[1]/following::button[1]</value>
+      <webElementGuid>b38b103f-53a7-4668-8621-dd1fb8801b46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Password'])[1]/following::button[1]</value>
+      <webElementGuid>10613985-9fdc-4c88-b39e-d0556f6af440</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='News Letters'])[1]/preceding::button[1]</value>
+      <webElementGuid>92b3e091-7629-4e49-b7a5-4979a0b3dc4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/button</value>
+      <webElementGuid>10fb2b96-b6a3-475c-950c-a7cd07180495</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Save' or . = 'Save')]</value>
+      <webElementGuid>9ace8259-b636-4352-9ccb-ba35af84704e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

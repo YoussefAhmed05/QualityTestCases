@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Update Profile</name>
+   <tag></tag>
+   <elementGuidId>c4702d4b-e991-42e0-8010-0f685227226e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-root']/div[2]/div[2]/div/div[2]/div/div[2]/div/div/form/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.default-bg.sm.button-with-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7dad104e-ac8c-49e6-b354-13879c022907</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>default-bg sm button-with-icon</value>
+      <webElementGuid>26763970-5290-4a86-a2b4-fc4e6238a18f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Update Profile</value>
+      <webElementGuid>a4d838f1-52d0-47d0-9da6-fde1033deab9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/div[2]/div[@class=&quot;hz-contain&quot;]/div[@class=&quot;myAccount-page&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;myProfile__container&quot;]/div[@class=&quot;myProfile__sections&quot;]/div[@class=&quot;myProfile__generalInfo&quot;]/div[@class=&quot;generalInfo__container&quot;]/form[1]/div[@class=&quot;update__btn&quot;]/div[@class=&quot;hz-button-icon-wrapper&quot;]/button[@class=&quot;default-bg sm button-with-icon&quot;]</value>
+      <webElementGuid>5d45227f-f277-48ad-b699-e2dae4c4278e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-root']/div[2]/div[2]/div/div[2]/div/div[2]/div/div/form/div[2]/div/button</value>
+      <webElementGuid>4a1ed8a2-826c-41fa-9416-bbb5ad765a95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::button[1]</value>
+      <webElementGuid>0225fbf9-3a84-45da-b420-1d1149f7a9a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Name'])[1]/following::button[1]</value>
+      <webElementGuid>5a3e2a14-ab77-4ba4-aa40-2bc9f577b199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security'])[2]/preceding::button[1]</value>
+      <webElementGuid>390b6706-d2d8-4efa-8fcb-9c50de202841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>5dcb9fcd-e1b7-4d11-8605-0d217ce739fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Update Profile' or . = 'Update Profile')]</value>
+      <webElementGuid>c7faaaa5-70a9-4af1-8dda-132a4bed4842</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

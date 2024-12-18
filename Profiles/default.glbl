@@ -4,4 +4,9 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>This is the current password for login</description>
+      <initValue>'aP/zuRNtJbw='</initValue>
+      <name>currentPassword</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

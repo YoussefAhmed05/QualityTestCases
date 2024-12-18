@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_End-of-Year Clearance Get extra 15 disc_408d97</name>
+   <tag></tag>
+   <elementGuidId>059fab44-3b42-4498-873e-b627c7d80d75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='End-of-Year Clearance! Get extra 15% discount with code: EXTRA15'])[1]/preceding::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>04c02321-0946-46ad-b54b-f1606d519a75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 16 16</value>
+      <webElementGuid>3e4654ad-68e1-4d9e-9c67-5c4ebc7c5ff7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>version</name>
+      <type>Main</type>
+      <value>1.1</value>
+      <webElementGuid>7efb8612-6b0b-4099-b2e5-a70f263aeb71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>6622e223-d468-4f5e-ab38-4700cdea1758</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns:xlink</name>
+      <type>Main</type>
+      <value>http://www.w3.org/1999/xlink</value>
+      <webElementGuid>13380ac4-85a4-4fbb-af70-a3cf3fe1af9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>brz-icon-svg align-[initial]</value>
+      <webElementGuid>5c818c9c-b94a-49a7-8815-011efad10e24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-type</name>
+      <type>Main</type>
+      <value>editor</value>
+      <webElementGuid>4fd9646b-18d7-45be-b53f-28ee4ed53149</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>close-popup</value>
+      <webElementGuid>13335985-2007-4292-921a-9c4e26bbff13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yornhjvrwhddshqgozrmpnxjggbuvggmtsui&quot;)/div[@class=&quot;brz-popup2__inner brz-d-xs-flex brz-flex-xs-wrap brz-css-frlea brz-css-wuieg&quot;]/div[@class=&quot;brz-container__wrap brz-pointer-events-auto&quot;]/div[@class=&quot;brz-popup2__close&quot;]/svg[@class=&quot;brz-icon-svg align-[initial]&quot;]</value>
+      <webElementGuid>ad07405f-00fa-440a-9019-f07a749e89be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End-of-Year Clearance! Get extra 15% discount with code: EXTRA15'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>b0476451-554a-4451-8cc6-2df0e7ec9ac3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>be071faa-31ea-4961-9021-71dda380bf60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

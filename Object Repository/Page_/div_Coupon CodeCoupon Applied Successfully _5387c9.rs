@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Coupon CodeCoupon Applied Successfully _5387c9</name>
+   <tag></tag>
+   <elementGuidId>477960fe-fa35-4f86-a08f-5ed34fce7b65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/main/div/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.base-summary_summary__container__xvMGt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3ab4b36a-971b-49a2-9df2-182f5cd454c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>base-summary_summary__container__xvMGt</value>
+      <webElementGuid>fd26ac6f-5a26-496b-b16a-30031cda5fc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Coupon CodeCoupon Applied Successfully ! ClearOrder Summary SubtotalEGP41,750.00Discount- EGP5,000.00Total(Inclusive of VAT)EGP36,750.00Checkout</value>
+      <webElementGuid>78e58aca-4b28-4f4d-8038-97c314f70ee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[@class=&quot;Cart_cartWrapper__b7TxU&quot;]/main[1]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainer__W84Zx base-container_sm_p0__WNSf7 muiltr-1qsxih2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 muiltr-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4 muiltr-19egsyp&quot;]/div[@class=&quot;Cart_delivery_summary_wrap___owVr&quot;]/div[@class=&quot;base-summary_summary__container__xvMGt&quot;]</value>
+      <webElementGuid>d99353d6-af6c-4417-9b95-43c92cb7b447</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>7d179bb3-3e20-40d6-97fd-51c10be301b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Delivery Location'])[2]/following::div[1]</value>
+      <webElementGuid>c2b5cb15-767c-43ec-ae2b-0ee083e546eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to cart'])[3]/following::div[6]</value>
+      <webElementGuid>a283ae00-6a40-4965-b0a5-aa19149f5566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[2]</value>
+      <webElementGuid>32fe7248-b00c-4a8b-901a-ec92c7279ce2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Coupon CodeCoupon Applied Successfully ! ClearOrder Summary SubtotalEGP41,750.00Discount- EGP5,000.00Total(Inclusive of VAT)EGP36,750.00Checkout' or . = 'Coupon CodeCoupon Applied Successfully ! ClearOrder Summary SubtotalEGP41,750.00Discount- EGP5,000.00Total(Inclusive of VAT)EGP36,750.00Checkout')]</value>
+      <webElementGuid>bd4668e7-278a-47bc-95d8-a57a795a2e0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

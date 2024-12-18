@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Sofas</name>
+   <tag></tag>
+   <elementGuidId>72a6dbfc-7823-429c-b285-0ed6fba4cd22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='grouped-demo-option-2']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#grouped-demo-option-2 > div.MuiGrid-root.muiltr-6ko5oj > p.base-typography_p__HIGSb.base-typography_small_reg__mVCqp.undefined.undefined</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e9d89ebe-9e74-416e-bd0f-67965b45d78a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>base-typography_p__HIGSb base-typography_small_reg__mVCqp undefined undefined</value>
+      <webElementGuid>15f228b8-c3ad-425c-a70b-835708bd5a91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sofas</value>
+      <webElementGuid>aaad5eb1-dfa0-4a4e-8080-f40d92b8b97d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grouped-demo-option-2&quot;)/div[@class=&quot;MuiGrid-root muiltr-6ko5oj&quot;]/p[@class=&quot;base-typography_p__HIGSb base-typography_small_reg__mVCqp undefined undefined&quot;]</value>
+      <webElementGuid>993b2366-ccc9-438b-8023-9141a45dfef7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='grouped-demo-option-2']/div/p</value>
+      <webElementGuid>73b7444c-6e38-466d-9732-a83cb97489ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alexandria'])[1]/following::p[10]</value>
+      <webElementGuid>571a354a-ddea-4d6d-992a-4562c5d3fb60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mansoura,Dakahlia'])[1]/following::p[10]</value>
+      <webElementGuid>2ea78e76-e1e2-4958-936c-40bf893068b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sofas']/parent::*</value>
+      <webElementGuid>ca73cf2a-0894-4ce0-af3d-f7d919741d91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/p</value>
+      <webElementGuid>69c59186-303c-4575-bee2-17887d47abec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Sofas' or . = 'Sofas')]</value>
+      <webElementGuid>474d38d3-2256-46ff-aeb2-2ac84e703ef6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

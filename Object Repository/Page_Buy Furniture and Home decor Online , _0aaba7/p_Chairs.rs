@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Chairs</name>
+   <tag></tag>
+   <elementGuidId>fea8166c-f3c1-4fc2-944b-d447be45026e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='grouped-demo-option-1']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#grouped-demo-option-1 > div.MuiGrid-root.muiltr-6ko5oj > p.base-typography_p__HIGSb.base-typography_small_reg__mVCqp.undefined.undefined</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>782b7e48-ad9f-4723-867b-891486b97341</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>base-typography_p__HIGSb base-typography_small_reg__mVCqp undefined undefined</value>
+      <webElementGuid>70f6ba7c-7a88-4781-90d5-4244c5e2ca8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Chairs</value>
+      <webElementGuid>1d9c5189-8b4b-4ce5-b5cc-dfdbf193a5b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grouped-demo-option-1&quot;)/div[@class=&quot;MuiGrid-root muiltr-6ko5oj&quot;]/p[@class=&quot;base-typography_p__HIGSb base-typography_small_reg__mVCqp undefined undefined&quot;]</value>
+      <webElementGuid>75be4e86-0d31-43fa-8001-94445a2e38d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='grouped-demo-option-1']/div/p</value>
+      <webElementGuid>2bfb684f-d699-464c-a0f6-d21afb5b97a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alexandria'])[1]/following::p[9]</value>
+      <webElementGuid>f1462f32-8e96-492b-96fd-5598e4fd97ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mansoura,Dakahlia'])[1]/following::p[9]</value>
+      <webElementGuid>0ffb373a-b694-4fb6-a0da-de54db974ded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Chairs']/parent::*</value>
+      <webElementGuid>e60b9123-efb2-4163-9185-d5d0e262daac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/p</value>
+      <webElementGuid>c8e0d1d4-4c28-45f2-a91a-331dea6cee3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Chairs' or . = 'Chairs')]</value>
+      <webElementGuid>23686c20-e3a6-4ce7-85f1-d57df9bdc8df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

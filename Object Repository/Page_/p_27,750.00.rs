@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_27,750.00</name>
+   <tag></tag>
+   <elementGuidId>6900a285-36a9-4361-8e89-a441d2fa9d10</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[2]/div/div/div/a/div[2]/div/div[3]/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.base-product-price_bold__DqOea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9ec236e2-e76a-43f1-bf17-1aef23af63fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>base-product-price_bold__DqOea </value>
+      <webElementGuid>d3d9bca1-470f-403a-9303-63c965aea549</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>27,750.00</value>
+      <webElementGuid>c138a340-74ce-49e9-9cbd-6e409c3567e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainer__W84Zx undefined muiltr-1qsxih2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 muiltr-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-8 MuiGrid-grid-lg-9 muiltr-1oxda6x&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 HMZ_mg_b_24 muiltr-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-3 muiltr-40ir45&quot;]/div[@class=&quot;MuiGrid-root base-productCard_productCard_container__JWX6i muiltr-rfnosa&quot;]/a[1]/div[@class=&quot;MuiGrid-root base-productCard_productCard_content__Yg52w muiltr-rfnosa&quot;]/div[@class=&quot;MuiGrid-root base-productCard_maxHeight__DQB0A muiltr-rfnosa&quot;]/div[3]/div[@class=&quot;MuiGrid-root muiltr-rfnosa&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container prices_productPrice__BJBnS muiltr-ac6w3d&quot;]/div[@class=&quot;base-product-price_number__hr3nF&quot;]/p[@class=&quot;base-product-price_bold__DqOea&quot;]</value>
+      <webElementGuid>d5df13ae-2e8b-4f48-98f0-c6579fead6a9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[2]/div/div/div/a/div[2]/div/div[3]/div/div/div/p</value>
+      <webElementGuid>22919f07-0a22-45e7-8719-25c4e705df6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EGP'])[3]/following::p[1]</value>
+      <webElementGuid>42f60a69-d4ea-42d0-909b-2a0cda3104b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wood Manufactured In The European Union Wardrobe 3 Shutters Dark Blue and Brown - 190x160x50 cm'])[1]/following::p[1]</value>
+      <webElementGuid>102e3281-754a-4dd5-b674-b0a6853c87de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EGP'])[4]/preceding::p[1]</value>
+      <webElementGuid>a15c9ca9-3bec-435b-a51b-7dd889cfa120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Steel and Marble Centre Table Gold and White - 2 Pieces'])[1]/preceding::p[4]</value>
+      <webElementGuid>ad63b367-ea6d-4b57-8f13-35f38f7fdc24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='27,750']/parent::*</value>
+      <webElementGuid>537969c0-db41-4e11-a792-7d902364d6df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/div/div/div/p</value>
+      <webElementGuid>08f07213-6db6-4c34-a2b3-5a81d02fa293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '27,750.00' or . = '27,750.00')]</value>
+      <webElementGuid>6581dfcc-5d6d-45f4-a897-a6bb6d08340b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

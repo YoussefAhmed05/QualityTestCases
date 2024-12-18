@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Wood Manufactured In The European Union_9cb3a6</name>
+   <tag></tag>
+   <elementGuidId>2303e6cc-ce4a-437f-a1d1-b2bb6631a02d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[2]/div/div/div/a/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiGrid-root.base-productCard_maxHeight__DQB0A.muiltr-rfnosa</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7f9dc73a-3a4a-493c-940c-5ffeeeba8362</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiGrid-root base-productCard_maxHeight__DQB0A muiltr-rfnosa</value>
+      <webElementGuid>5e08ed9c-f6ed-42da-9114-249d055038d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wood Manufactured In The European Union Wardrobe 3 Shutters Dark Blue and Brown - 190x160x50 cmEGP27,750.00EGP44,190.0038%OffUpon DemandFulfilled by hz</value>
+      <webElementGuid>2162ab26-8c12-4ec0-a07c-82ae946e9746</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainer__W84Zx undefined muiltr-1qsxih2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 muiltr-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-8 MuiGrid-grid-lg-9 muiltr-1oxda6x&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 HMZ_mg_b_24 muiltr-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-6 MuiGrid-grid-sm-4 MuiGrid-grid-lg-3 muiltr-40ir45&quot;]/div[@class=&quot;MuiGrid-root base-productCard_productCard_container__JWX6i muiltr-rfnosa&quot;]/a[1]/div[@class=&quot;MuiGrid-root base-productCard_productCard_content__Yg52w muiltr-rfnosa&quot;]/div[@class=&quot;MuiGrid-root base-productCard_maxHeight__DQB0A muiltr-rfnosa&quot;]</value>
+      <webElementGuid>f6777ce9-f8bf-4d8b-bedd-d310122301d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[2]/div/div/div/a/div[2]/div</value>
+      <webElementGuid>09dada21-3bbe-4d34-a0ba-496d70510b95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(15)'])[1]/following::div[10]</value>
+      <webElementGuid>140ba0e3-6bde-4470-b13b-72949dae5a61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(24)'])[1]/following::div[12]</value>
+      <webElementGuid>f14dc030-f52a-4712-a0e0-187e3ff66397</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div[2]/div</value>
+      <webElementGuid>4eb475a7-571f-4cef-aff0-274ebe7e8fe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Wood Manufactured In The European Union Wardrobe 3 Shutters Dark Blue and Brown - 190x160x50 cmEGP27,750.00EGP44,190.0038%OffUpon DemandFulfilled by hz' or . = 'Wood Manufactured In The European Union Wardrobe 3 Shutters Dark Blue and Brown - 190x160x50 cmEGP27,750.00EGP44,190.0038%OffUpon DemandFulfilled by hz')]</value>
+      <webElementGuid>d9ba62da-8474-4a45-9b88-8cf30d2ebb39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

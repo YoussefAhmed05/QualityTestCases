@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_1,729.00</name>
+   <tag></tag>
+   <elementGuidId>b423b202-12c6-4380-88db-e1e88e78e192</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div/div[5]/div/div[2]/div/div/div[5]/div/a/div[2]/div/div[3]/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>d939618c-7bf8-4c74-b6a6-b1d3aa56c514</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>base-product-price_bold__DqOea </value>
+      <webElementGuid>7483ee57-565d-4e24-b8b7-d6d973f65960</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1,729.00</value>
+      <webElementGuid>45cc1200-9267-4295-bdaf-baebcd6a6990</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/main[1]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainerBody__PjcNt undefined muiltr-1qsxih2&quot;]/div[@class=&quot;HMZ_mg_b_20&quot;]/div[1]/div[@class=&quot;base-slider_sliderWrapper__2AaZ4&quot;]/div[@class=&quot;swiper swiper-initialized swiper-horizontal swiper-css-mode undefined false&quot;]/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide&quot;]/div[@class=&quot;MuiGrid-root base-productCard_productCard_container__JWX6i muiltr-rfnosa&quot;]/a[1]/div[@class=&quot;MuiGrid-root base-productCard_productCard_content__Yg52w muiltr-rfnosa&quot;]/div[@class=&quot;MuiGrid-root base-productCard_maxHeight__DQB0A muiltr-rfnosa&quot;]/div[3]/div[@class=&quot;MuiGrid-root muiltr-rfnosa&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container prices_productPrice__BJBnS muiltr-ac6w3d&quot;]/div[@class=&quot;base-product-price_number__hr3nF&quot;]/p[@class=&quot;base-product-price_bold__DqOea&quot;]</value>
+      <webElementGuid>90c50d98-d3e8-4930-b497-f792a435dd89</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div/div[5]/div/div[2]/div/div/div[5]/div/a/div[2]/div/div[3]/div/div/div/p</value>
+      <webElementGuid>ae748a58-db3c-420c-b4b0-b26f1818815d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EGP'])[9]/following::p[1]</value>
+      <webElementGuid>5c9e0b0c-2114-438e-9ba6-10ba496e4aba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Luma Bella Turkish Coffee Maker 259 ml 5500 W 4 Cups White - LB-54003 (White)'])[1]/following::p[1]</value>
+      <webElementGuid>2205cdc0-283c-4c19-a637-27c5c96225b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EGP'])[10]/preceding::p[1]</value>
+      <webElementGuid>7eeb1a90-eef1-43d5-bf9d-390db3503cf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gaming Console Wireless Controller For PlayStation 4 Black - RBCP4'])[1]/preceding::p[4]</value>
+      <webElementGuid>935aedec-90f9-4ad6-a885-5614999f781a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1,729']/parent::*</value>
+      <webElementGuid>edb71463-7c64-4d47-adba-5f271ed0d56d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/a/div[2]/div/div[3]/div/div/div/p</value>
+      <webElementGuid>32a283c4-01ce-49a9-a0f5-c3bef022b402</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '1,729.00' or . = '1,729.00')]</value>
+      <webElementGuid>a83d6634-3308-425d-a397-b3b2212db92c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

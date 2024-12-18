@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Deliver toEgyptHi, FirstName.My AccountCart</name>
+   <tag></tag>
+   <elementGuidId>b7536358-675b-4bf6-9513-3c1e68bb80c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.base-header-wrapper_baseHeaderWrapper__Hlubz</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0986178d-9b50-41d1-ac4b-16136c3643d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>base-header-wrapper_baseHeaderWrapper__Hlubz</value>
+      <webElementGuid>f84e9803-0fe6-4c44-a476-3081c1b6242c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Deliver toEgypt​عالعربيةHi, FirstName...My AccountCart</value>
+      <webElementGuid>fd9e1d32-eaba-41cb-af46-c265e9970215</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[@class=&quot;MuiGrid-root muiltr-1ij0jnt&quot;]/div[@class=&quot;MuiGrid-root styles_headerContainer__zvolI muiltr-rfnosa&quot;]/div[@class=&quot;base-header-wrapper_baseHeaderWrapper__Hlubz&quot;]</value>
+      <webElementGuid>954f3eb5-969a-4fee-88f8-a7f0e9fd699b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[2]</value>
+      <webElementGuid>430f9bee-8ed9-446e-9a6d-82c59d1f0031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End-of-Year Clearance! Get extra 15% discount with code: EXTRA15'])[1]/following::div[1]</value>
+      <webElementGuid>21e6d7e6-1abf-413c-8c3a-34a12a6ed65c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]</value>
+      <webElementGuid>eec59ace-b0b5-48ec-99e2-1773a4dfcde7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Deliver toEgypt​عالعربيةHi, FirstName...My AccountCart' or . = 'Deliver toEgypt​عالعربيةHi, FirstName...My AccountCart')]</value>
+      <webElementGuid>13186cfb-3d7f-47c0-b286-89c50bbb01fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

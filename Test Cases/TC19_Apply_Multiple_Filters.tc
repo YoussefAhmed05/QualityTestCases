@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC19_Apply_Multiple_Filters</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c16353cb-9e8c-411a-bb68-49d78fec5281</testCaseGuid>
+</TestCaseEntity>

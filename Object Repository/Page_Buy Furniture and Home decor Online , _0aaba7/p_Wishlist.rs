@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Wishlist</name>
+   <tag></tag>
+   <elementGuidId>ec2a6ccf-e08a-4120-bd5e-e8d235a596a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Alexandria'])[1]/following::p[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>8fdd069d-e230-4452-bf13-fd24d5a2f138</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>base-typography_p__HIGSb undefined undefined undefined</value>
+      <webElementGuid>0c24464a-e40b-4ae1-9b87-457cbf0b4eaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wishlist</value>
+      <webElementGuid>3dce667b-c670-4217-b583-8cfd64fda457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiPopover-root MuiModal-root muiltr-jp7szo&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper styles_popoverPaper__VuN_n muiltr-1dmzujt&quot;]/ul[@class=&quot;MuiList-root muiltr-1uzmcsd&quot;]/div[@class=&quot;MuiGrid-root muiltr-s1gdhr&quot;]/div[@class=&quot;MuiListItem-root MuiListItem-gutters styles_popoverItem__R_A_s muiltr-1tpp0wj&quot;]/div[@class=&quot;text-with-icon_textWithIcon__7_ffC&quot;]/div[@class=&quot;text-with-icon_secondText__yDE6Z&quot;]/p[@class=&quot;base-typography_p__HIGSb undefined undefined undefined&quot;]</value>
+      <webElementGuid>e8f45a4c-8d2f-4e1a-9516-42a2d7f0b435</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alexandria'])[1]/following::p[9]</value>
+      <webElementGuid>d1781663-7fa2-496c-9e22-d26e27ffdcb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mansoura,Dakahlia'])[1]/following::p[9]</value>
+      <webElementGuid>cd91d620-5b8c-4d41-875a-256b50ae4db1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[2]/preceding::p[2]</value>
+      <webElementGuid>139323e5-b276-4aab-b6a4-2dfc88068f3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Wishlist']/parent::*</value>
+      <webElementGuid>8d37df82-9bf6-4f47-afa4-4e83a1dbacd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/div/div[3]/div/div/p</value>
+      <webElementGuid>1216a414-3c7c-4347-8a22-31ef895b0cd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Wishlist' or . = 'Wishlist')]</value>
+      <webElementGuid>463b868f-f460-413c-9882-d4f435de9491</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

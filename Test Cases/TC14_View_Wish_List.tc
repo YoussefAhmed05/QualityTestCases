@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC14_View_Wish_List</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>136629f2-dc17-46b7-ac3e-2f1333415b3e</testCaseGuid>
+</TestCaseEntity>

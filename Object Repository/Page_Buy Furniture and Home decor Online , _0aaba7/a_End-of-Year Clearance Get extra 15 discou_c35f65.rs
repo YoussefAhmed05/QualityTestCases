@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_End-of-Year Clearance Get extra 15 discou_c35f65</name>
+   <tag></tag>
+   <elementGuidId>54223c32-ad3e-4351-b1df-c52e678c7499</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d2f1fb98-9ef5-43d5-9935-116c5e6ac0e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://homzmart.com/en/c/top-selling</value>
+      <webElementGuid>e1f722d9-3ecf-47d4-8e84-777d1eeb0656</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>End-of-Year Clearance! Get extra 15% discount with code: EXTRA15</value>
+      <webElementGuid>fd8efb77-8673-4168-bf46-f8b1ac89e28d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[@class=&quot;MuiGrid-root muiltr-1ij0jnt&quot;]/div[@class=&quot;MuiGrid-root styles_headerContainer__zvolI muiltr-rfnosa&quot;]/div[@class=&quot;top-ticker_topTicker__container__8T3gR&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainer__W84Zx undefined muiltr-1qsxih2&quot;]/div[@class=&quot;hz-contain&quot;]/a[1]</value>
+      <webElementGuid>98657b24-6cb6-421c-b848-c197a81a9c03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/div/a</value>
+      <webElementGuid>87df3b5c-b4c0-4320-a011-e4cb5195ad27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'End-of-Year Clearance! Get extra 15% discount with code: EXTRA15')]</value>
+      <webElementGuid>c076ba8d-5b00-4a10-a1f2-95e294f7ffe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deliver to'])[1]/preceding::a[2]</value>
+      <webElementGuid>5bd53496-fb50-4ccb-9c4b-b3cca54de798</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::a[2]</value>
+      <webElementGuid>05507d8e-f86e-47b6-b774-cf2be74c4603</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='End-of-Year Clearance! Get extra 15% discount with code: EXTRA15']/parent::*</value>
+      <webElementGuid>f82ad24a-88ad-4e94-8c89-a7dac0310b0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://homzmart.com/en/c/top-selling')]</value>
+      <webElementGuid>cf9a9967-3f08-4f43-b827-d28a1135e74b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>b5a186a8-0dca-4380-a7c1-3581cd272ca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://homzmart.com/en/c/top-selling' and (text() = 'End-of-Year Clearance! Get extra 15% discount with code: EXTRA15' or . = 'End-of-Year Clearance! Get extra 15% discount with code: EXTRA15')]</value>
+      <webElementGuid>4cafb901-20a3-4b22-81ba-64c5a75b70ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

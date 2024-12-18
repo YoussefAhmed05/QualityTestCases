@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>form_Create Accountor use your email for re_c9d887</name>
+   <tag></tag>
+   <elementGuidId>cfc69d9f-a421-4302-9bb1-3cb3f0bc4b54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/form</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.auth-form__container.auth-form__sign-up > form.auth-form__form</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>form</value>
+      <webElementGuid>3325c6ba-ce68-4fdf-ad41-9fe7d2e48299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>auth-form__form</value>
+      <webElementGuid>558b65fd-130a-4897-81a9-08d9236445e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-gtm-form-interact-id</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ad72ed62-9c77-472c-a9a9-95427f77d515</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Accountor use your email for registrationSign UporUse phone number instead</value>
+      <webElementGuid>6446c185-288c-4ace-99f4-28a975ec340d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;tv-navigation-root&quot;]/div[@class=&quot;auth-container&quot;]/div[@class=&quot;auth-form right-panel-active&quot;]/div[@class=&quot;auth-form__container auth-form__sign-up&quot;]/form[@class=&quot;auth-form__form&quot;]</value>
+      <webElementGuid>9d209803-0e26-4b24-bae5-789a28b42aed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/form</value>
+      <webElementGuid>e657f4df-2282-49ed-83ad-d2891262c113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='or'])[1]/following::form[1]</value>
+      <webElementGuid>0b66870f-5439-498e-b939-d79fc0449e19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[2]/following::form[1]</value>
+      <webElementGuid>84782951-59a5-4a6a-9b50-553b74e84a04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/form</value>
+      <webElementGuid>6e7a5cc5-57a4-48bc-941c-23c91e9afad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//form[(text() = 'Create Accountor use your email for registrationSign UporUse phone number instead' or . = 'Create Accountor use your email for registrationSign UporUse phone number instead')]</value>
+      <webElementGuid>cf5edc31-04ce-4114-8564-d9a13925baaa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
