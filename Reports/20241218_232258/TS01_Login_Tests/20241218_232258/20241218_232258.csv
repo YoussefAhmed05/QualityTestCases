@@ -1,0 +1,46 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS01_Login_Tests,Chrome 131.0.0.0,,,18-12-2024 23:23:03,18-12-2024 23:24:08,1m - 5.641s,PASSED
+,,,,,,,
+Test Cases/TC01_Login_Valid,Chrome 131.0.0.0,,,18-12-2024 23:23:03,18-12-2024 23:23:23,20.485s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,18-12-2024 23:23:03,18-12-2024 23:23:05,1.918s,PASSED
+maximizeWindow(),Chrome 131.0.0.0,,,18-12-2024 23:23:05,18-12-2024 23:23:05,0.086s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,18-12-2024 23:23:05,18-12-2024 23:23:07,1.996s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Account""))",Chrome 131.0.0.0,,,18-12-2024 23:23:07,18-12-2024 23:23:11,4.243s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/button_Sign in""))",Chrome 131.0.0.0,,,18-12-2024 23:23:11,18-12-2024 23:23:12,0.594s,PASSED
+"setText(findTestObject(""Object Repository/Page_/input_Enter your phone number or email_outl_281146""), ""test777@gmail.com"")",Chrome 131.0.0.0,,,18-12-2024 23:23:12,18-12-2024 23:23:15,3.188s,PASSED
+"click(findTestObject(""Object Repository/Page_/button_Continue""))",Chrome 131.0.0.0,,,18-12-2024 23:23:15,18-12-2024 23:23:16,0.340s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_/input_Enter your password_outlined-basic""), currentPassword)",Chrome 131.0.0.0,,,18-12-2024 23:23:16,18-12-2024 23:23:17,1.703s,PASSED
+"click(findTestObject(""Object Repository/Page_/button_Login""))",Chrome 131.0.0.0,,,18-12-2024 23:23:17,18-12-2024 23:23:21,3.440s,PASSED
+"click(findTestObject(""Object Repository/Page_/div_Skip""))",Chrome 131.0.0.0,,,18-12-2024 23:23:21,18-12-2024 23:23:23,2.538s,PASSED
+"println(""Login successful with updated password."")",Chrome 131.0.0.0,,,18-12-2024 23:23:23,18-12-2024 23:23:23,0.004s,PASSED
+closeBrowser(),Chrome 131.0.0.0,,,18-12-2024 23:23:23,18-12-2024 23:23:23,0.229s,PASSED
+,,,,,,,
+Test Cases/TC02_SignUp_Valid,Chrome 131.0.0.0,,,18-12-2024 23:23:23,18-12-2024 23:23:42,18.923s,PASSED
+"randomEmail = ""user"" + Random().nextInt(100000) + ""@example.com""",Chrome 131.0.0.0,,,18-12-2024 23:23:24,18-12-2024 23:23:24,0.024s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,18-12-2024 23:23:24,18-12-2024 23:23:25,0.873s,PASSED
+maximizeWindow(),Chrome 131.0.0.0,,,18-12-2024 23:23:25,18-12-2024 23:23:25,0.068s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,18-12-2024 23:23:25,18-12-2024 23:23:26,1.588s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Account""))",Chrome 131.0.0.0,,,18-12-2024 23:23:26,18-12-2024 23:23:32,5.591s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/button_Sign in""))",Chrome 131.0.0.0,,,18-12-2024 23:23:32,18-12-2024 23:23:32,0.533s,PASSED
+"setText(findTestObject(""Object Repository/Page_/input_Enter your phone number or email_outl_281146""), randomEmail)",Chrome 131.0.0.0,,,18-12-2024 23:23:32,18-12-2024 23:23:35,2.472s,PASSED
+"click(findTestObject(""Object Repository/Page_/button_Continue""))",Chrome 131.0.0.0,,,18-12-2024 23:23:35,18-12-2024 23:23:35,0.339s,PASSED
+"setText(findTestObject(""Object Repository/Page_/input_First Name_outlined-basic""), ""testsign"")",Chrome 131.0.0.0,,,18-12-2024 23:23:35,18-12-2024 23:23:37,2.044s,PASSED
+"setText(findTestObject(""Object Repository/Page_/input_Phone Number_demo-controlled-open-sel_7bd89e""), ""1018206007"")",Chrome 131.0.0.0,,,18-12-2024 23:23:37,18-12-2024 23:23:38,0.745s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_/input_Create password_outlined-basic""), ""dAMKXUGKBJQKXf4cBsJoJg=="")",Chrome 131.0.0.0,,,18-12-2024 23:23:38,18-12-2024 23:23:38,0.453s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_/input_Confirm password_outlined-basic""), ""dAMKXUGKBJQKXf4cBsJoJg=="")",Chrome 131.0.0.0,,,18-12-2024 23:23:38,18-12-2024 23:23:39,0.380s,PASSED
+"click(findTestObject(""Object Repository/Page_/svg_Create Account_MuiSvgIcon-root MuiSvgIc_e5d189""))",Chrome 131.0.0.0,,,18-12-2024 23:23:39,18-12-2024 23:23:39,0.332s,PASSED
+"click(findTestObject(""Object Repository/Page_/div_Skip""))",Chrome 131.0.0.0,,,18-12-2024 23:23:39,18-12-2024 23:23:42,3.343s,PASSED
+"println(""Random email used for this run: "" + randomEmail)",Chrome 131.0.0.0,,,18-12-2024 23:23:42,18-12-2024 23:23:42,0.002s,PASSED
+,,,,,,,
+Test Cases/TC21_Logout,Chrome 131.0.0.0,,,18-12-2024 23:23:42,18-12-2024 23:24:08,26.061s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,18-12-2024 23:23:42,18-12-2024 23:23:43,0.989s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,18-12-2024 23:23:43,18-12-2024 23:23:46,2.156s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Account""))",Chrome 131.0.0.0,,,18-12-2024 23:23:46,18-12-2024 23:23:50,4.307s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/button_Sign in""))",Chrome 131.0.0.0,,,18-12-2024 23:23:50,18-12-2024 23:23:51,0.949s,PASSED
+"setText(findTestObject(""Object Repository/Page_/input_Enter your phone number or email_outl_281146""), ""qotb@gmail.com"")",Chrome 131.0.0.0,,,18-12-2024 23:23:51,18-12-2024 23:23:53,1.816s,PASSED
+"click(findTestObject(""Object Repository/Page_/button_Continue""))",Chrome 131.0.0.0,,,18-12-2024 23:23:53,18-12-2024 23:23:53,0.305s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_/input_Enter your password_outlined-basic""), ""YYmZ1o1jXazmzPuWffRxnw=="")",Chrome 131.0.0.0,,,18-12-2024 23:23:53,18-12-2024 23:23:56,3.087s,PASSED
+"click(findTestObject(""Object Repository/Page_/button_Login""))",Chrome 131.0.0.0,,,18-12-2024 23:23:56,18-12-2024 23:23:56,0.317s,PASSED
+"click(findTestObject(""Object Repository/Page_/div_Skip""))",Chrome 131.0.0.0,,,18-12-2024 23:23:56,18-12-2024 23:23:59,2.479s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/div_Hi, qotbadsdMy Account""))",Chrome 131.0.0.0,,,18-12-2024 23:23:59,18-12-2024 23:24:08,8.995s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/div_Logout""))",Chrome 131.0.0.0,,,18-12-2024 23:24:08,18-12-2024 23:24:08,0.594s,PASSED

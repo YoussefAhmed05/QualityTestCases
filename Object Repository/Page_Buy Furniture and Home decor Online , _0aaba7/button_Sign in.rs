@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Sign in</name>
    <tag></tag>
-   <elementGuidId>43afeae1-561e-4305-9158-c5bfff5ad624</elementGuidId>
+   <elementGuidId>83d5eb6a-2d0a-4346-9ed6-64f64602cb60</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -15,6 +15,12 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Sign in&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fa114114-db1e-473b-9274-a6fc330a24c4</webElementGuid>
+      <webElementGuid>66df8e5c-6c26-4b19-95c3-481470d32fbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary undefined base-button_baseButton__4kanA undefined muiltr-moby93</value>
-      <webElementGuid>eb13f91d-cf7d-4743-bf5a-fe2a023e3fea</webElementGuid>
+      <webElementGuid>31812473-caf9-41ed-8a40-7d8d2b06a22a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>83e3fa3e-55a8-4bc0-8aa0-a22e481f1546</webElementGuid>
+      <webElementGuid>892a2076-2662-4cf2-a2aa-c267646b622c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e21583a9-9b0d-4e56-a0ca-5ef6b280d058</webElementGuid>
+      <webElementGuid>971c0678-6241-4478-863e-a9b556ec9fda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign in</value>
-      <webElementGuid>8398463a-f2c1-43f9-91d7-184884eb9500</webElementGuid>
+      <webElementGuid>5c2c9019-e019-4d40-b1c8-83acdbcc14fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;MuiPopover-root MuiModal-root muiltr-jp7szo&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper styles_popoverPaper__VuN_n muiltr-1dmzujt&quot;]/ul[@class=&quot;MuiList-root muiltr-1uzmcsd&quot;]/div[@class=&quot;MuiGrid-root muiltr-s1gdhr&quot;]/div[@class=&quot;MuiGrid-root muiltr-1otbfh8&quot;]/div[@class=&quot;MuiListItem-root MuiListItem-gutters muiltr-1tpp0wj&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary undefined base-button_baseButton__4kanA undefined muiltr-moby93&quot;]</value>
-      <webElementGuid>1fe81ac9-668a-4105-b7de-70bf1473fd74</webElementGuid>
+      <webElementGuid>43c053e4-c666-4258-9df1-b9f9f9d12409</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>b8d80e0e-4682-45fd-9c98-6cb75b5ef116</webElementGuid>
+      <webElementGuid>a4fcb6e2-b4ec-441b-a2fe-12b01c7cb961</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alexandria'])[1]/following::button[1]</value>
-      <webElementGuid>1a38a583-91b5-43b0-9481-81e0d6f353c7</webElementGuid>
+      <webElementGuid>97e1c5b6-c666-4d39-953f-838d76d1100d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mansoura,Dakahlia'])[1]/following::button[1]</value>
-      <webElementGuid>2d8bbed7-dcc8-4906-a235-c5debcc16245</webElementGuid>
+      <webElementGuid>4f2443be-603a-4632-9f66-c68cd23a02e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[2]/preceding::button[1]</value>
-      <webElementGuid>3ed14259-676d-4d4c-b883-cf5748ff76f1</webElementGuid>
+      <webElementGuid>6ceb13b1-5a08-447b-932e-0a89fe48bc45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[2]/preceding::button[2]</value>
-      <webElementGuid>d6a396fa-b38d-4c11-b53e-8882d6785fbc</webElementGuid>
+      <webElementGuid>3b2a97a6-07a8-46da-8f49-7fa069ddec5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign in']/parent::*</value>
-      <webElementGuid>7bbe3ae3-8c5c-44ce-b132-b7dbcfe9bd07</webElementGuid>
+      <webElementGuid>67ca2a12-0519-4f61-b768-c21ab8aa1f1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/button</value>
-      <webElementGuid>35d15747-fa1b-48df-8f20-1ccba04efedd</webElementGuid>
+      <webElementGuid>528ca9cf-59c2-4bb3-bb9c-1eef64e65285</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Sign in' or . = 'Sign in')]</value>
-      <webElementGuid>080ae18b-a615-4ff6-9494-4a308ebe167e</webElementGuid>
+      <webElementGuid>3f39c635-8c70-4c7b-b8d8-7c4ec5569cb8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

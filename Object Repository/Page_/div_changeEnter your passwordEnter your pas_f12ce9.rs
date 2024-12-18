@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_changeEnter your passwordEnter your pas_f12ce9</name>
+   <tag></tag>
+   <elementGuidId>d880f023-97bf-41d2-bf70-87a7436507d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div[2]/div/form/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiGrid-root.MuiGrid-container.MuiGrid-item.undefined.HMZ_gap24.muiltr-1ul47bz</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;changeEnter your passwordEnter your passwordKeep me loggedForgot Password?&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3d96337a-971b-4ec6-8c95-729b958061d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiGrid-root MuiGrid-container MuiGrid-item undefined HMZ_gap24 muiltr-1ul47bz</value>
+      <webElementGuid>0d33cdf0-05c8-4671-a83e-dec37dad5886</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>change​Enter your passwordEnter your passwordKeep me loggedForgot Password?</value>
+      <webElementGuid>5b5967ad-ca6f-403c-8fd3-7e4ac506e0ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg MuiContainer-fixed muiltr-x3h831&quot;]/div[@class=&quot;AccountMangmentLayout_accountMangment_container__u98U8&quot;]/div[@class=&quot;AccountMangmentLayout_centered_content__vkp9B HMZ_gap24&quot;]/div[@class=&quot;AccountMangmentLayout_children__16Gjr&quot;]/div[@class=&quot;ExistScreen_logIn_container__aNjc7 HMZ_gap24&quot;]/form[@class=&quot;ExistScreen_LogIn_Form__0Y7J1&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item undefined HMZ_gap24 muiltr-1ul47bz&quot;]</value>
+      <webElementGuid>ff4e90d9-b456-4727-b929-cd24280730aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div[2]/div/form/div</value>
+      <webElementGuid>9a6e2e61-b096-4be9-85ba-319ff797e3a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[1]</value>
+      <webElementGuid>0404144b-226c-459c-ac87-91091b28aec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>34338e6e-c3d3-4643-9635-d8e08fa0c755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'change​Enter your passwordEnter your passwordKeep me loggedForgot Password?' or . = 'change​Enter your passwordEnter your passwordKeep me loggedForgot Password?')]</value>
+      <webElementGuid>d352393d-c446-4f7e-90cc-e4b3cceb8754</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

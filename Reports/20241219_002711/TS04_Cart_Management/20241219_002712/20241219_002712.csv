@@ -1,0 +1,21 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS04_Cart_Management,Chrome 131.0.0.0,,,19-12-2024 00:27:17,19-12-2024 00:28:31,1m - 13.569s,PASSED
+,,,,,,,
+Test Cases/TC05_Add_to_Cart,Chrome 131.0.0.0,,,19-12-2024 00:27:18,19-12-2024 00:27:37,19.910s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,19-12-2024 00:27:18,19-12-2024 00:27:20,2.136s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,19-12-2024 00:27:20,19-12-2024 00:27:22,2.489s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/h3_MDF Wood Dressing 210x220x45x40 cm - Bla_476ce3""))",Chrome 131.0.0.0,,,19-12-2024 00:27:22,19-12-2024 00:27:31,8.118s,PASSED
+"click(findTestObject(""Object Repository/Page_/img_Excluding official holidays and vacatio_f2668b""))",Chrome 131.0.0.0,,,19-12-2024 00:27:31,19-12-2024 00:27:37,6.326s,PASSED
+"click(findTestObject(""Object Repository/Page_/img_Excluding official holidays and vacatio_f2668b""))",Chrome 131.0.0.0,,,19-12-2024 00:27:37,19-12-2024 00:27:37,0.316s,PASSED
+"click(findTestObject(""Object Repository/Page_/img_Add to cart_ProductDetails_shopping_car_4933c6""))",Chrome 131.0.0.0,,,19-12-2024 00:27:37,19-12-2024 00:27:37,0.341s,PASSED
+,,,,,,,
+Test Cases/TC16_Remove_from_Cart,Chrome 131.0.0.0,,,19-12-2024 00:27:38,19-12-2024 00:28:31,53.491s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,19-12-2024 00:27:38,19-12-2024 00:27:39,1.082s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,19-12-2024 00:27:39,19-12-2024 00:28:21,42.021s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/h3_MDF Dressing White - 200x180x50 cm""))",Chrome 131.0.0.0,,,19-12-2024 00:28:21,19-12-2024 00:28:22,1.595s,PASSED
+"click(findTestObject(""Object Repository/Page_/button_Add to cart""))",Chrome 131.0.0.0,,,19-12-2024 00:28:22,19-12-2024 00:28:24,1.703s,PASSED
+"click(findTestObject(""Object Repository/Page_/div_SuccessThis item is added to cart""))",Chrome 131.0.0.0,,,19-12-2024 00:28:24,19-12-2024 00:28:26,2.446s,PASSED
+"click(findTestObject(""Object Repository/Page_/img""))",Chrome 131.0.0.0,,,19-12-2024 00:28:26,19-12-2024 00:28:27,0.306s,PASSED
+"click(findTestObject(""Object Repository/Page_/img__styles_ShoppingCartOutlinedIcon__dcq0f""))",Chrome 131.0.0.0,,,19-12-2024 00:28:27,19-12-2024 00:28:27,0.451s,PASSED
+"click(findTestObject(""Object Repository/Page_/button_Go to cart""))",Chrome 131.0.0.0,,,19-12-2024 00:28:27,19-12-2024 00:28:28,0.955s,PASSED
+"click(findTestObject(""Object Repository/Page_/p_Delete""))",Chrome 131.0.0.0,,,19-12-2024 00:28:28,19-12-2024 00:28:31,2.853s,PASSED

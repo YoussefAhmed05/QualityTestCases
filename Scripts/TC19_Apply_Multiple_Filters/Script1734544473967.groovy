@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://homzmart.com/en')
 
+WebUI.click(findTestObject('Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img'))
+
 WebUI.click(findTestObject('Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo'))
 
 WebUI.click(findTestObject('Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Tables'))
@@ -29,7 +31,7 @@ WebUI.click(findTestObject('Object Repository/Page_Find the Perfect Table for Yo
 
 WebUI.click(findTestObject('Object Repository/Page_Find the Perfect Table for Your Home -_28535e/input__PrivateSwitchBase-input muiltr-1m9pwf3'))
 
-WebUI.click(findTestObject('Object Repository/Page_Find the Perfect Table for Your Home -_28535e/input_(897)_PrivateSwitchBase-input muiltr-1m9pwf3'))
+WebUI.click(findTestObject('Object Repository/Page_Find the Perfect Table for Your Home -_28535e/input_(1127)_PrivateSwitchBase-input muiltr_435b5c'))
 
 WebUI.click(findTestObject('Object Repository/Page_Find the Perfect Table for Your Home -_28535e/div_Apply'))
 

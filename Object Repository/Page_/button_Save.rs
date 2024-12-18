@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Save</name>
    <tag></tag>
-   <elementGuidId>e7487ffa-06de-41ae-910d-2c15b88e9710</elementGuidId>
+   <elementGuidId>88ef16a0-b471-4e89-a035-bef793cdfd87</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -15,6 +15,12 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Save&quot;i >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e380969a-4162-40e4-80aa-561a35a957b9</webElementGuid>
+      <webElementGuid>4efc26cd-0353-44a1-ba68-3a847febc477</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary undefined base-button_baseButton__4kanA undefined muiltr-moby93</value>
-      <webElementGuid>3119e4f5-5f18-4757-8946-b697543075e6</webElementGuid>
+      <webElementGuid>e2e31834-057a-47a3-b934-eb170e7cd7d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>c069ec44-0d9e-4e0a-84d6-df17005d953d</webElementGuid>
+      <webElementGuid>c4ad0625-7e4e-472c-8ea6-a676281e34ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>639c74bb-451d-4784-ac8c-d01a2ae266c3</webElementGuid>
+      <webElementGuid>f193229b-0307-40f2-b432-96e650a81efc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Save</value>
-      <webElementGuid>869baf43-264a-48bb-a4be-91e10edc4e5b</webElementGuid>
+      <webElementGuid>cfeb205f-c58f-430b-be55-d5f5e40effb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;base-modal_modal__YZwPP MuiModal-root muiltr-8ndowl&quot;]/div[@class=&quot;base-modal_base-modal__box__fGy_O MuiBox-root muiltr-0&quot;]/form[@class=&quot;address-form-inputs_addressForm_styles__xeWWA&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-12 muiltr-1367ec5&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-grid-md-12 muiltr-fof2ra&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-3 MuiGrid-grid-xl-2 muiltr-1iwrham&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary undefined base-button_baseButton__4kanA undefined muiltr-moby93&quot;]</value>
-      <webElementGuid>1ffad8e9-06ce-48d4-a5d3-64b318a4891e</webElementGuid>
+      <webElementGuid>7f90b330-485d-414f-b34c-cb3e5de1726c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>ba59aaff-033f-4373-90bf-1e1eb965e042</webElementGuid>
+      <webElementGuid>9c4dc813-68e6-4ffd-9954-57e2a56a5cea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Work'])[1]/following::button[1]</value>
-      <webElementGuid>c0b20d71-1275-4cb9-8bbc-16eee14417dd</webElementGuid>
+      <webElementGuid>b15d55e4-caa8-48da-bcac-55f73080e2cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::button[2]</value>
-      <webElementGuid>342938e6-c1f9-4950-8fca-c92ea2594b4b</webElementGuid>
+      <webElementGuid>7bba3cd1-a1b6-4f40-9e0d-9d67649b8ff7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipment Address'])[2]/preceding::button[1]</value>
-      <webElementGuid>168b968a-39b8-4f44-a455-1a927ddce5e9</webElementGuid>
+      <webElementGuid>cc87c155-485d-4d81-9731-215ba8c209a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[3]/preceding::button[2]</value>
-      <webElementGuid>75ed4259-87aa-4fcd-af5a-9b82ae06ae11</webElementGuid>
+      <webElementGuid>8cfcba27-9ed0-46f1-9c7d-e9b8cda63d9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
-      <webElementGuid>72116051-9ac5-483d-b6e0-2dc22b6dc959</webElementGuid>
+      <webElementGuid>a96376d4-e4ab-4820-a63d-438000438254</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/div/button</value>
-      <webElementGuid>cd0be158-cc15-4915-8773-c0ba38c275eb</webElementGuid>
+      <webElementGuid>62b018cf-3443-4150-b6e2-325545377313</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Save' or . = 'Save')]</value>
-      <webElementGuid>282388c8-a8d7-494e-b6ee-dad5c006c06d</webElementGuid>
+      <webElementGuid>5eb19801-f379-4d6d-881b-52b65637d355</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

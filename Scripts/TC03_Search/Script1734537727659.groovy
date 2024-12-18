@@ -29,11 +29,3 @@ WebUI.setText(findTestObject('Object Repository/Page_Buy Furniture and Home deco
 WebUI.sendKeys(findTestObject('Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo'), 
     Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo'), 
-    'chair')
-
-WebUI.sendKeys(findTestObject('Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo'), 
-    Keys.chord(Keys.ENTER))
-

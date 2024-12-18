@@ -21,47 +21,21 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://homzmart.com/en')
 
-WebUI.click(findTestObject('Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img'))
+WebUI.click(findTestObject('Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Account'))
 
 WebUI.click(findTestObject('Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/button_Sign in'))
 
-WebUI.setText(findTestObject('Object Repository/Page_/input_Enter your phone number or email_outl_281146'), 'qota3er5b@gmail.com')
+WebUI.setText(findTestObject('Object Repository/Page_/input_Enter your phone number or email_outl_281146'), 'qotb@gmail.com')
 
 WebUI.click(findTestObject('Object Repository/Page_/button_Continue'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_/input_Enter your password_outlined-basic'), '6KJkoHE/sDrMzjnwUVj344BcLI/3x6TS')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_/input_Enter your password_outlined-basic'), 'YYmZ1o1jXazmzPuWffRxnw==')
 
 WebUI.click(findTestObject('Object Repository/Page_/button_Login'))
 
 WebUI.click(findTestObject('Object Repository/Page_/div_Skip'))
 
-WebUI.click(findTestObject('Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/a_End-of-Year Clearance Get extra 15 discou_c35f65'))
+WebUI.click(findTestObject('Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/div_Hi, qotbadsdMy Account'))
 
-WebUI.click(findTestObject('Object Repository/Page_/h3_Wood Manufactured In The European Union _d32836'))
-
-WebUI.click(findTestObject('Object Repository/Page_/button_Add to cart'))
-
-WebUI.click(findTestObject('Object Repository/Page_/img'))
-
-WebUI.click(findTestObject('Object Repository/Page_/p_Cart'))
-
-WebUI.click(findTestObject('Object Repository/Page_/button_Go to cart'))
-
-WebUI.click(findTestObject('Object Repository/Page_/input_text'))
-
-WebUI.setText(findTestObject('Object Repository/Page_/input_text_1'), 'E')
-
-WebUI.setText(findTestObject('Object Repository/Page_/input_text_1_2'), 'EX')
-
-WebUI.setText(findTestObject('Object Repository/Page_/input_text_1_2_3'), 'EXT')
-
-WebUI.setText(findTestObject('Object Repository/Page_/input_text_1_2_3_4'), 'EXTR')
-
-WebUI.setText(findTestObject('Object Repository/Page_/input_text_1_2_3_4_5'), 'EXTRA')
-
-WebUI.setText(findTestObject('Object Repository/Page_/input_text_1_2_3_4_5_6'), 'EXTRA1')
-
-WebUI.setText(findTestObject('Object Repository/Page_/input_text_1_2_3_4_5_6_7'), 'EXTRA15')
-
-WebUI.click(findTestObject('Object Repository/Page_/button_Apply'))
+WebUI.click(findTestObject('Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/div_Logout'))
 

@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Continue</name>
    <tag></tag>
-   <elementGuidId>5ea3494a-0b3f-4729-bb0d-fa3deaecb7c8</elementGuidId>
+   <elementGuidId>80c60243-a14e-4252-9164-6b74949d4ade</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -15,6 +15,12 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Continue&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1cf0486b-2bb5-4dfd-af05-e11c0f53919d</webElementGuid>
+      <webElementGuid>b8611e53-0ca1-4c18-8fb2-a7e1b9fc5bb5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary undefined base-button_baseButton__4kanA undefined muiltr-moby93</value>
-      <webElementGuid>9d87acd8-4081-4fb6-a315-a5b0a3923df7</webElementGuid>
+      <webElementGuid>f22a0bbb-9b8b-42de-900e-f1176415485e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>2cc47322-6eff-4e6f-91c5-f4043cdfaa93</webElementGuid>
+      <webElementGuid>cd335b0d-4ead-4448-ac5b-9e3a249f7a15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>596b5d27-83fd-4ec0-9c12-92259a554709</webElementGuid>
+      <webElementGuid>c08c6065-75fe-4865-8c37-987a8de26100</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Continue</value>
-      <webElementGuid>ac5551d6-8dd6-465c-b42d-45eda9101fbc</webElementGuid>
+      <webElementGuid>eaeeeb14-07f9-4ed6-9787-781bc4e9afd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg MuiContainer-fixed muiltr-x3h831&quot;]/div[@class=&quot;AccountMangmentLayout_accountMangment_container__u98U8&quot;]/div[@class=&quot;AccountMangmentLayout_centered_content__vkp9B HMZ_gap24&quot;]/div[@class=&quot;AccountMangmentLayout_children__16Gjr&quot;]/div[@class=&quot;logIn_logIn_container___Wv3y HMZ_gap24&quot;]/form[@class=&quot;logIn_LogIn_Form___6PkP&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item undefined HMZ_gap18 muiltr-1ul47bz&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary undefined base-button_baseButton__4kanA undefined muiltr-moby93&quot;]</value>
-      <webElementGuid>9afd74fe-b545-420c-8a23-2b1211705927</webElementGuid>
+      <webElementGuid>b957038d-d632-4439-bc5a-8c567f9697b5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>01917ebe-4c5f-4d35-b0cc-845fe8cb08e5</webElementGuid>
+      <webElementGuid>c47ce968-e9ac-4630-b970-9cedc121ea73</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div/div/div[2]/div/form/div/button</value>
-      <webElementGuid>3bbaca30-0d1a-46a5-a34f-d5d278a21a16</webElementGuid>
+      <webElementGuid>2dafd83a-9732-46bd-beae-bd6416d0cbb5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your phone number or email'])[2]/following::button[1]</value>
-      <webElementGuid>d59b6580-3c45-4e35-a3a6-7caf69f6628f</webElementGuid>
+      <webElementGuid>25368326-635f-44b8-ad1a-fc8e58b751ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter your phone number or email'])[1]/following::button[1]</value>
-      <webElementGuid>03bdddc3-cd96-4c92-acc9-904d3c1ccf68</webElementGuid>
+      <webElementGuid>4940e849-c6f5-487f-b53a-b413a186e82d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='or'])[1]/preceding::button[1]</value>
-      <webElementGuid>fc144c3b-a3d4-4181-95e3-d46014aa81c2</webElementGuid>
+      <webElementGuid>d5fc8eb7-6da1-4e9e-b3e7-2caedfa2e941</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='By Signing up to Homzmart platform, you agree to our'])[1]/preceding::button[1]</value>
-      <webElementGuid>6b8af422-f436-4d7e-b998-bd01cb57bc92</webElementGuid>
+      <webElementGuid>65e70677-c972-4b02-a7bf-e9ad58501a47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Continue']/parent::*</value>
-      <webElementGuid>c3eede35-b909-4d84-a629-2a980ac82993</webElementGuid>
+      <webElementGuid>a50125d7-f427-40b3-963f-93a538539fc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>00fa0b07-5883-476e-93b5-de6fcbeaf920</webElementGuid>
+      <webElementGuid>17a71a81-d849-4fc1-83ba-214ef571b65c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Continue' or . = 'Continue')]</value>
-      <webElementGuid>40474473-359c-4518-8009-9aa214bb570a</webElementGuid>
+      <webElementGuid>059b25a2-c505-4fdf-bed5-5a36e8e744e1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

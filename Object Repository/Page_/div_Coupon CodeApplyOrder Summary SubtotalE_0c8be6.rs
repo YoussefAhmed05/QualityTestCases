@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Coupon CodeApplyOrder Summary SubtotalE_0c8be6</name>
+   <tag></tag>
+   <elementGuidId>2657a08d-cd24-4a30-a4a0-299993abf1a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[3]/main/div/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.base-summary_summary__container__xvMGt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Coupon CodeApplyOrder Summary SubtotalEGP187,200.00 ShippingEGP2,160.00Total(Inc&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1a11644b-0dc9-4798-b033-08d67cb15129</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>base-summary_summary__container__xvMGt</value>
+      <webElementGuid>c6934302-6a55-48f1-b1c8-74742104bb21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Coupon CodeApplyOrder Summary SubtotalEGP187,200.00 ShippingEGP2,160.00Total(Inclusive of VAT)EGP189,360.00Checkout</value>
+      <webElementGuid>996e2a1f-4cf2-4cc1-bbee-78f1236c4508</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[@class=&quot;Cart_cartWrapper__b7TxU&quot;]/main[1]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainer__W84Zx base-container_sm_p0__WNSf7 muiltr-1qsxih2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 muiltr-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4 muiltr-19egsyp&quot;]/div[@class=&quot;Cart_delivery_summary_wrap___owVr&quot;]/div[@class=&quot;base-summary_summary__container__xvMGt&quot;]</value>
+      <webElementGuid>29d9fca7-304b-45d4-b169-6dcff9c13b02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[3]/main/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>c7bffb0e-498a-40c3-ac30-492bd59ce23b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deliver to'])[2]/following::div[1]</value>
+      <webElementGuid>04e67004-d7eb-41aa-b9e1-d673487303a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[2]</value>
+      <webElementGuid>bf7c8dc4-067e-4fac-a615-0691e0130a95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Coupon CodeApplyOrder Summary SubtotalEGP187,200.00 ShippingEGP2,160.00Total(Inclusive of VAT)EGP189,360.00Checkout' or . = 'Coupon CodeApplyOrder Summary SubtotalEGP187,200.00 ShippingEGP2,160.00Total(Inclusive of VAT)EGP189,360.00Checkout')]</value>
+      <webElementGuid>43a2719b-5f79-405a-9f4e-045502059f0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

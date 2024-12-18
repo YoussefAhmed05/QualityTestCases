@@ -3,7 +3,7 @@
    <description></description>
    <name>input_text</name>
    <tag></tag>
-   <elementGuidId>bef2581c-fb19-41bb-a90c-4357080af1fe</elementGuidId>
+   <elementGuidId>84fbd159-1464-441d-96db-d9a88c042455</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -15,6 +15,12 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Enter Code&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a5e1c3ae-c290-409d-b576-e246895c6506</webElementGuid>
+      <webElementGuid>afe3dc95-d6f3-43cc-91bc-0b97498d52a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>381988e7-cd34-48cc-805b-b866a3a4123a</webElementGuid>
+      <webElementGuid>5ff7715b-888f-4301-a528-ec2bb25485d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +45,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Enter Code</value>
-      <webElementGuid>4dcb7856-6781-4e56-9abf-56abb6c92eea</webElementGuid>
+      <webElementGuid>ee77d551-4f82-432f-9b98-295b9cbe7bb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[@class=&quot;Cart_cartWrapper__b7TxU&quot;]/main[1]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainer__W84Zx base-container_sm_p0__WNSf7 muiltr-1qsxih2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 muiltr-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4 muiltr-19egsyp&quot;]/div[@class=&quot;Cart_delivery_summary_wrap___owVr&quot;]/div[@class=&quot;base-summary_summary__container__xvMGt&quot;]/div[@class=&quot;CouponCode_coponCode__container__INIOD&quot;]/div[@class=&quot;CouponCode_couponCode__wrapper__wGu_9&quot;]/div[@class=&quot;CouponCode_couponInput__a3y_B&quot;]/input[1]</value>
-      <webElementGuid>0e83c2c1-97d1-4eaf-a3a4-9a110897f440</webElementGuid>
+      <webElementGuid>58a87a5e-8cf0-4fb9-89bc-77063aea1bdf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +61,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='']</value>
-      <webElementGuid>1b6cef53-fe62-4425-aa14-9157b0faf090</webElementGuid>
+      <webElementGuid>c7e6fd9b-535f-43e9-9c01-ee76bc7c4534</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div[3]/main/div/div/div[2]/div/div[2]/div/div/div/input</value>
-      <webElementGuid>18cd5030-eeb5-4d41-b01d-4b9d42590190</webElementGuid>
+      <webElementGuid>03c8600f-708a-4950-8287-7f9c72e9c6e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>00fbd676-b35e-4b56-902b-4ccbe957bf59</webElementGuid>
+      <webElementGuid>a802aa31-dc0a-4f7c-ac3f-676f87093002</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Enter Code']</value>
-      <webElementGuid>38319e27-da42-43e9-827f-8763642847d6</webElementGuid>
+      <webElementGuid>87b98760-0682-4b88-99ef-314af5f22bc6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

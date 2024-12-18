@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS07_Customization_Tests,Chrome 131.0.0.0,,,19-12-2024 00:45:52,19-12-2024 00:46:19,26.946s,PASSED
+,,,,,,,
+Test Cases/TC24_Design_Your_Kitchen,Chrome 131.0.0.0,,,19-12-2024 00:45:52,19-12-2024 00:46:19,26.781s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,19-12-2024 00:45:52,19-12-2024 00:45:54,2.202s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,19-12-2024 00:45:54,19-12-2024 00:45:56,1.582s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img_End-of-Year Clearance Get extra 15 disc_aeb651""))",Chrome 131.0.0.0,,,19-12-2024 00:45:56,19-12-2024 00:46:01,4.913s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img_Shop By Category_undefined""))",Chrome 131.0.0.0,,,19-12-2024 00:46:01,19-12-2024 00:46:06,5.361s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Full Kitchen""))",Chrome 131.0.0.0,,,19-12-2024 00:46:06,19-12-2024 00:46:07,0.648s,PASSED
+"click(findTestObject(""Object Repository/Page_/img""))",Chrome 131.0.0.0,,,19-12-2024 00:46:07,19-12-2024 00:46:10,3.505s,PASSED
+"click(findTestObject(""Object Repository/Page_HomzDesign - Quiz/div_Choose your kitchen color_sc-iwyWfK bOv_1b592f""))",Chrome 131.0.0.0,,,19-12-2024 00:46:10,19-12-2024 00:46:12,2.209s,PASSED
+"click(findTestObject(""Object Repository/Page_HomzDesign - Quiz/button_Next""))",Chrome 131.0.0.0,,,19-12-2024 00:46:12,19-12-2024 00:46:13,0.533s,PASSED
+"click(findTestObject(""Object Repository/Page_HomzDesign - Quiz/div_L-Shape""))",Chrome 131.0.0.0,,,19-12-2024 00:46:13,19-12-2024 00:46:14,0.777s,PASSED
+"setText(findTestObject(""Object Repository/Page_HomzDesign - Quiz/input_Ex Maadi Living Room_r0""), ""TEst"")",Chrome 131.0.0.0,,,19-12-2024 00:46:14,19-12-2024 00:46:15,1.028s,PASSED
+"click(findTestObject(""Object Repository/Page_HomzDesign - Quiz/p_Go to my room""))",Chrome 131.0.0.0,,,19-12-2024 00:46:15,19-12-2024 00:46:15,0.529s,PASSED
+"setText(findTestObject(""Object Repository/Page_HomzDesign - Quiz/input_Enter your phone number or email_outlined-basic""), ""qotb@gmail.com"")",Chrome 131.0.0.0,,,19-12-2024 00:46:15,19-12-2024 00:46:16,1.010s,PASSED
+"click(findTestObject(""Object Repository/Page_HomzDesign - Quiz/button_Continue""))",Chrome 131.0.0.0,,,19-12-2024 00:46:16,19-12-2024 00:46:17,0.453s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_HomzDesign - Quiz/input_Enter your password_outlined-basic""), ""YYmZ1o1jXazmzPuWffRxnw=="")",Chrome 131.0.0.0,,,19-12-2024 00:46:17,19-12-2024 00:46:18,1.404s,PASSED
+"click(findTestObject(""Object Repository/Page_HomzDesign - Quiz/svg_Login_MuiSvgIcon-root MuiSvgIcon-fontSi_579575""))",Chrome 131.0.0.0,,,19-12-2024 00:46:18,19-12-2024 00:46:19,0.422s,PASSED

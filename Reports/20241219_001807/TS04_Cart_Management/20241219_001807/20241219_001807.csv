@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS04_Cart_Management,Chrome 131.0.0.0,,,19-12-2024 00:18:12,19-12-2024 00:18:56,44.070s,FAILED
+,,,,,,,
+Test Cases/TC05_Add_to_Cart,Chrome 131.0.0.0,,,19-12-2024 00:18:12,19-12-2024 00:18:28,15.601s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,19-12-2024 00:18:12,19-12-2024 00:18:14,1.906s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,19-12-2024 00:18:14,19-12-2024 00:18:17,2.822s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/h3_MDF Wood Dressing 210x220x45x40 cm - Bla_476ce3""))",Chrome 131.0.0.0,,,19-12-2024 00:18:17,19-12-2024 00:18:23,5.560s,PASSED
+"click(findTestObject(""Object Repository/Page_/img_Excluding official holidays and vacatio_f2668b""))",Chrome 131.0.0.0,,,19-12-2024 00:18:23,19-12-2024 00:18:26,3.920s,PASSED
+"click(findTestObject(""Object Repository/Page_/img_Excluding official holidays and vacatio_f2668b""))",Chrome 131.0.0.0,,,19-12-2024 00:18:26,19-12-2024 00:18:27,0.865s,PASSED
+"click(findTestObject(""Object Repository/Page_/img_Add to cart_ProductDetails_shopping_car_4933c6""))",Chrome 131.0.0.0,,,19-12-2024 00:18:27,19-12-2024 00:18:28,0.354s,PASSED
+,,,,,,,
+Test Cases/TC16_Remove_from_Cart,Chrome 131.0.0.0,,,19-12-2024 00:18:28,19-12-2024 00:18:53,25.453s,FAILED
+"openBrowser("""")",Chrome 131.0.0.0,,,19-12-2024 00:18:28,19-12-2024 00:18:30,2.566s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,19-12-2024 00:18:30,19-12-2024 00:18:53,22.708s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/h3_MDF Wood Dressing 210x220x45x40 cm - Bla_476ce3""))",Chrome 131.0.0.0,,,19-12-2024 00:18:53,19-12-2024 00:18:53,0.069s,FAILED
+,,,,,,,
+Test Cases/TC07_Apply_Promo_Code,Chrome 131.0.0.0,,,19-12-2024 00:18:53,19-12-2024 00:18:56,2.843s,FAILED
+"openBrowser("""")",Chrome 131.0.0.0,,,19-12-2024 00:18:53,19-12-2024 00:18:54,1.234s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,19-12-2024 00:18:54,19-12-2024 00:18:56,1.493s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/a_End-of-Year Clearance Get extra 15 discou_c35f65""))",Chrome 131.0.0.0,,,19-12-2024 00:18:56,19-12-2024 00:18:56,0.031s,FAILED

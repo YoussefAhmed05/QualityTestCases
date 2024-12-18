@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SuccessThis item is added to cart</name>
+   <tag></tag>
+   <elementGuidId>a63c656f-ad55-42e7-83ca-c5839166c3fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[5]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.GlobalToaster_toaster_container_success__4Vg5I.GlobalToaster_toaster_container__BtOYF</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5817e8fb-1a1e-4f2d-a299-362c906dc3b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>GlobalToaster_toaster_container_success__4Vg5I GlobalToaster_toaster_container__BtOYF</value>
+      <webElementGuid>dc8d91be-a241-435a-9fae-94b349375b14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Success!This item is added to cart</value>
+      <webElementGuid>7539c89a-9d99-42fe-914d-ec5b73a3769e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[@class=&quot;notistack-SnackbarContainer go3118922589 go2989568495 go1141946668&quot;]/div[@class=&quot;go1475592160 go1671063245&quot;]/div[@class=&quot;notistack-CollapseWrapper&quot;]/div[@class=&quot;notistack-Snackbar go3963613292&quot;]/div[@class=&quot;GlobalToaster_toaster_container_success__4Vg5I GlobalToaster_toaster_container__BtOYF&quot;]</value>
+      <webElementGuid>aee1ad68-e119-4ec3-bab4-b188510a973d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[5]/div/div/div/div</value>
+      <webElementGuid>ffe22010-a1b0-4b2e-bc99-799f8813cd1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alexandria'])[1]/following::div[27]</value>
+      <webElementGuid>78ed73d4-9e77-44bb-9bfb-84d4fde3604f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mansoura,Dakahlia'])[1]/following::div[29]</value>
+      <webElementGuid>2f43c269-1ef3-47c6-b3b9-edcd9980759d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div</value>
+      <webElementGuid>c656ab3e-1422-42d4-8d86-436d06d27259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Success!This item is added to cart' or . = 'Success!This item is added to cart')]</value>
+      <webElementGuid>09dd5d35-eb30-450e-a309-592c07628652</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

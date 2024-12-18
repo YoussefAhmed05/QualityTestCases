@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Address Details</name>
+   <tag></tag>
+   <elementGuidId>a4dca0a8-ecdf-4340-8ccf-5824e8380471</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//label[@id='outlined-basic-label'])[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiGrid-root.MuiGrid-item.muiltr-1wxaqej > div.MuiFormControl-root.MuiTextField-root.muiltr-i44wyl > #outlined-basic-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Address Details&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8cd655e2-ca82-49e7-b849-61049778327f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-sizeMedium MuiInputLabel-outlined MuiFormLabel-colorPrimary Mui-focused MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiInputLabel-sizeMedium MuiInputLabel-outlined muiltr-1974vn9</value>
+      <webElementGuid>70beb5cd-8d1d-4c00-9693-1c52b3677228</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-shrink</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e446a9a1-6e25-43c6-b8d6-305e693f003e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>outlined-basic</value>
+      <webElementGuid>b54096f8-6812-4e99-a8cd-3273b56eb39d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>outlined-basic-label</value>
+      <webElementGuid>420c122e-a48e-45a0-a84b-8fe7cc2d8f79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Address Details</value>
+      <webElementGuid>8ec1fabb-0505-4860-bc26-1c9776db55d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;base-modal_modal__YZwPP MuiModal-root muiltr-8ndowl&quot;]/div[@class=&quot;base-modal_base-modal__box__fGy_O MuiBox-root muiltr-0&quot;]/form[@class=&quot;address-form-inputs_addressForm_styles__xeWWA&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-12 muiltr-1367ec5&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-grid-xs-12 MuiGrid-grid-md-12 muiltr-14tstx0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item muiltr-1wxaqej&quot;]/div[@class=&quot;MuiFormControl-root MuiTextField-root muiltr-i44wyl&quot;]/label[@id=&quot;outlined-basic-label&quot;]</value>
+      <webElementGuid>b3f8638d-356e-49a9-b07a-09850e1f6390</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//label[@id='outlined-basic-label'])[6]</value>
+      <webElementGuid>f6a02c4c-4d45-46ea-878b-ecd0e4d6947f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apartment'])[2]/following::label[1]</value>
+      <webElementGuid>6a7a7f4d-b0a5-4d84-b329-c6c8eab9a5c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apartment'])[1]/following::label[1]</value>
+      <webElementGuid>e84b5104-ecb9-4297-aa01-0acf50878692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Details'])[2]/preceding::label[1]</value>
+      <webElementGuid>2977ed10-89ff-46f1-a86f-6ed7cb316cdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address Label'])[1]/preceding::label[1]</value>
+      <webElementGuid>02d8069a-7313-497d-a268-ebea7fa46b98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Address Details']/parent::*</value>
+      <webElementGuid>96d6576c-80b8-4d01-a86f-6a7af11efefe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/label</value>
+      <webElementGuid>3504a01d-a21d-4cf8-b430-5ce6d3ea17c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[@id = 'outlined-basic-label' and (text() = 'Address Details' or . = 'Address Details')]</value>
+      <webElementGuid>5a3dc0c3-fbe0-46a5-8570-0933da9c63db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

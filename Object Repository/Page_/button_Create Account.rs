@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Create Account</name>
+   <name>button_Create account</name>
    <tag></tag>
-   <elementGuidId>61cbbe4e-26b6-4553-b2da-ce85f11dd31b</elementGuidId>
+   <elementGuidId>e3b485ba-f7f2-4f73-9cc8-389b73b1bb37</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type='submit']</value>
+         <value>//button[@id='nextBtn']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-colorPrimary.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-colorPrimary.undefined.base-button_baseButton__4kanA.Register_SubmitButton__y9ZIE.muiltr-moby93</value>
+         <value>#nextBtn</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Create account&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,23 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b8fc00c1-d6fa-4119-bf4c-9255e734ef5b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary undefined base-button_baseButton__4kanA Register_SubmitButton__y9ZIE muiltr-moby93</value>
-      <webElementGuid>1b390608-c6f6-4196-9648-2144bbed04bd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>3a3fc82d-fcc8-4426-85ee-56d01a9f32cb</webElementGuid>
+      <webElementGuid>b1c9950b-ba09-42f5-87e0-3a4154d87cd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,94 +37,102 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>a7b6b580-8ec1-488d-8d3a-96b661bc7832</webElementGuid>
+      <webElementGuid>fbd9b9f6-ad1d-4e6d-a3e9-54e4a03bc182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LoginSignInBtn</value>
+      <webElementGuid>b5219f1b-af84-4aef-b3c5-76117ce8edfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nextBtn</value>
+      <webElementGuid>504e7c0e-2d34-413b-87c2-f4123d6ef1ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Create Account</value>
-      <webElementGuid>f3774da0-a18f-453b-a85b-a74f62dd2480</webElementGuid>
+      <value>Create account </value>
+      <webElementGuid>b336b88d-26d3-438b-9817-35aa6a5fc031</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg MuiContainer-fixed muiltr-x3h831&quot;]/div[@class=&quot;AccountMangmentLayout_accountMangment_container__u98U8&quot;]/div[@class=&quot;AccountMangmentLayout_centered_content__vkp9B HMZ_gap24&quot;]/div[@class=&quot;AccountMangmentLayout_children__16Gjr&quot;]/div[@class=&quot;Register_Register_container__3hWL4 HMZ_gap24&quot;]/form[@class=&quot;Register_LogIn_Form__wkFFd&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item undefined HMZ_gap18 muiltr-1ul47bz&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary undefined base-button_baseButton__4kanA Register_SubmitButton__y9ZIE muiltr-moby93&quot;]</value>
-      <webElementGuid>edf6eea0-97da-40f3-b8ff-58f875bd4a43</webElementGuid>
+      <value>id(&quot;nextBtn&quot;)</value>
+      <webElementGuid>4798e1dd-56a0-46b2-ab36-5cedcc673e8c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@type='submit']</value>
-      <webElementGuid>6aab7c1a-cad0-4b05-bf40-b93bece19976</webElementGuid>
+      <value>//button[@id='nextBtn']</value>
+      <webElementGuid>a1967345-0ac6-49ad-ae2e-d24c973d7ec6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__next']/div/div/div/div/div[2]/div/form/div/button</value>
-      <webElementGuid>a3131e19-082c-41ea-97d5-4007f2cf23d8</webElementGuid>
+      <value>//div[@id='__next']/div[2]/div/div/div/form/div[4]/button</value>
+      <webElementGuid>47ab0244-180d-4980-acb0-2be367ac9572</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm password'])[2]/following::button[1]</value>
-      <webElementGuid>70a8360f-657c-417d-86b8-8548280b9137</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='generate password'])[1]/following::button[1]</value>
+      <webElementGuid>aaa0aa85-6812-469a-97fd-12ea77d49e58</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Confirm password'])[1]/following::button[1]</value>
-      <webElementGuid>1b6edcaf-2d6d-4f8b-b36c-1edbcab264f9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='generate username'])[1]/following::button[1]</value>
+      <webElementGuid>e3d25c64-ea76-4c12-9e81-4083f5169c6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='By Signing up to Homzmart platform, you agree to our'])[1]/preceding::button[1]</value>
-      <webElementGuid>1c3af10d-a98f-4e38-be0c-04970cab1872</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/preceding::button[1]</value>
+      <webElementGuid>e6415a9c-cbe7-4ca6-96ae-893d45031d70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms and Conditions'])[1]/preceding::button[1]</value>
-      <webElementGuid>97e10e90-8726-46d7-afd9-60c3f9a0024c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Create Account']/parent::*</value>
-      <webElementGuid>e5fe496a-367c-43ca-a638-c37633024553</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Create account']/parent::*</value>
+      <webElementGuid>276374be-6918-4774-a164-d5422f0110d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>2896ff90-cdd8-4e0d-91d4-a31dd373d2ce</webElementGuid>
+      <value>//div[4]/button</value>
+      <webElementGuid>30dacc00-c4f4-4943-a04a-ed11b3f72147</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Create Account' or . = 'Create Account')]</value>
-      <webElementGuid>daf0d93d-255f-4988-9eb6-4dabe0fa92e9</webElementGuid>
+      <value>//button[@type = 'submit' and @id = 'nextBtn' and (text() = 'Create account ' or . = 'Create account ')]</value>
+      <webElementGuid>7ebc199b-a593-4c84-aa61-ddb8262ffe37</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

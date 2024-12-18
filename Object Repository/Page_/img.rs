@@ -3,18 +3,24 @@
    <description></description>
    <name>img</name>
    <tag></tag>
-   <elementGuidId>8e845965-0f83-457c-8789-52370eeb048a</elementGuidId>
+   <elementGuidId>732eda9f-428d-436f-938f-5cb73e1900f8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='__next']/div/div[2]/div/div/div/div[2]/div[4]/div[2]/img</value>
+         <value>//div[@id='__next']/div/div[2]/div/div[2]/div/a/img</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.ProductDetails_wishList__r0L50 > img[alt=&quot;wish&quot;]</value>
+         <value>img[alt=&quot;Full Kitchen&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Full Kitchen&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>d16bc31e-f416-431d-ac9f-d1c4390daba0</webElementGuid>
+      <webElementGuid>e151492c-41a4-4178-a234-3418ebd3d6d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>alt</name>
       <type>Main</type>
-      <value>wish</value>
-      <webElementGuid>05856da7-33c7-4964-bb0a-d3057591aed5</webElementGuid>
+      <value>Full Kitchen</value>
+      <webElementGuid>757131a3-0844-4901-a24b-4357832ad445</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,23 +45,7 @@
       <name>loading</name>
       <type>Main</type>
       <value>lazy</value>
-      <webElementGuid>6f3ec4fb-6914-4185-b24f-8729abe9ac5e</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>width</name>
-      <type>Main</type>
-      <value>22</value>
-      <webElementGuid>26478eb4-a221-4e66-9c14-6f93c04621ac</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>height</name>
-      <type>Main</type>
-      <value>22</value>
-      <webElementGuid>cd7a5601-da5f-4c0f-99c3-4f7e3021c4bc</webElementGuid>
+      <webElementGuid>421df041-408b-4fea-927e-981f1b6cc4a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,63 +53,79 @@
       <name>decoding</name>
       <type>Main</type>
       <value>async</value>
-      <webElementGuid>b790ab4c-261d-4aef-a39d-52e2d87c0feb</webElementGuid>
+      <webElementGuid>9d12c806-681b-4e58-83ae-b38abbd5047a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-nimg</name>
       <type>Main</type>
-      <value>1</value>
-      <webElementGuid>8d1fee89-7774-4aea-9cc5-3266ff4093c7</webElementGuid>
+      <value>fill</value>
+      <webElementGuid>2d555775-ef4a-4f14-a18f-9cc042fbd52d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/_next/static/media/wish.77f10ef3.svg</value>
-      <webElementGuid>c712e00d-c3c2-4ac0-945c-42fcb75ee323</webElementGuid>
+      <value>https://eg-rv.homzmart.net/catalog/category/EN_-_Kitchen-Category-Banner_1.gif</value>
+      <webElementGuid>26445487-9fa8-4693-98da-2593d7f5fd6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[2]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainer__W84Zx base-container_sm_p0__WNSf7 muiltr-1qsxih2&quot;]/div[@class=&quot;ProductDetails_detailsPage__rigKh&quot;]/div[@class=&quot;ProductDetails_sectionOne__Eu_BD&quot;]/div[@class=&quot;ProductDetails_product__details__gl63Y&quot;]/div[@class=&quot;ProductDetails_addToCart__qYYSD&quot;]/div[@class=&quot;ProductDetails_wishList__r0L50&quot;]/img[1]</value>
-      <webElementGuid>d14e88ce-b61d-4f75-aeef-e1698fb738cf</webElementGuid>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainer__W84Zx undefined muiltr-1qsxih2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 muiltr-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-8 MuiGrid-grid-lg-9 muiltr-1oxda6x&quot;]/div[@class=&quot;HMZ_mg_b_24&quot;]/a[1]/img[1]</value>
+      <webElementGuid>df52380a-a072-4c1a-9d8d-b6883d1f345e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>32b1e99c-1b26-42bb-bf2a-0181c5597687</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>812485c1-715a-455c-ade2-51d05a6a65f2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__next']/div/div[2]/div/div/div/div[2]/div[4]/div[2]/img</value>
-      <webElementGuid>bba4fe43-38c4-48e5-a135-c29d39707dfa</webElementGuid>
+      <value>//div[@id='__next']/div/div[2]/div/div[2]/div/a/img</value>
+      <webElementGuid>50f0e0bc-8069-4537-a706-b742fa611061</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>(//img[@alt='wish'])[2]</value>
-      <webElementGuid>e1be9e50-c9a8-4d86-be00-9286aa5fa50d</webElementGuid>
+      <value>//img[@alt='Full Kitchen']</value>
+      <webElementGuid>9eebeeb2-6fc3-4f1c-93f7-3bd7951cfc6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/div[2]/img</value>
-      <webElementGuid>f769cfdc-4feb-4961-bfdb-046678a6de2f</webElementGuid>
+      <value>//div[2]/div/a/img</value>
+      <webElementGuid>1a834729-08d4-4dba-8edd-70147d228448</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@alt = 'wish' and @src = '/_next/static/media/wish.77f10ef3.svg']</value>
-      <webElementGuid>dd643aaf-5bbc-4f34-b2da-0a78c106892e</webElementGuid>
+      <value>//img[@alt = 'Full Kitchen' and @src = 'https://eg-rv.homzmart.net/catalog/category/EN_-_Kitchen-Category-Banner_1.gif']</value>
+      <webElementGuid>b015f035-8444-4f5a-8bd4-3643fd52f720</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +133,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div[5]/div/div/div/div/div[2]/img</value>
-      <webElementGuid>d6b93d09-2f12-47e0-95e0-4801458ebb9d</webElementGuid>
+      <webElementGuid>555b8fb4-4cbb-4aa0-a553-8401a0eb8a70</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +141,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>(//img[@alt='img'])[2]</value>
-      <webElementGuid>f73c0526-aba5-4770-b28b-bd42c8b0c6b2</webElementGuid>
+      <webElementGuid>8eb17e0a-63af-4a5b-aefa-cd5639dad830</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +149,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div/div/div/div[2]/img</value>
-      <webElementGuid>c41db02e-e890-43b6-b465-a5007bd20d25</webElementGuid>
+      <webElementGuid>9d8b666c-0d84-4e98-b45f-ad123c6b9a9f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,6 +157,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@alt = 'img' and @src = '/_next/static/media/closeToasterIcon.c5cb9b2b.svg']</value>
-      <webElementGuid>57e4491b-865d-466e-965a-58482f348cc2</webElementGuid>
+      <webElementGuid>15c19dd3-708e-4abc-835c-6bea6bc95e74</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Saudi</name>
+   <tag></tag>
+   <elementGuidId>c2ba42f0-6bab-4230-8eda-5a54fd1994ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Alexandria'])[1]/following::div[31]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Saudi$/ >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cd71ffb4-55e7-4c1b-b360-ffaaabfce19e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiListItem-root MuiListItem-gutters styles_popoverItem__Mgpej muiltr-1tpp0wj</value>
+      <webElementGuid>47847ac7-4428-4014-9926-d795d3091f8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saudi</value>
+      <webElementGuid>65a121a7-6c38-4587-b733-f9c6a41a51e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;MuiPopover-root MuiModal-root muiltr-jp7szo&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper muiltr-1dmzujt&quot;]/ul[@class=&quot;MuiList-root muiltr-1uzmcsd&quot;]/div[@class=&quot;MuiGrid-root muiltr-1i4p81g&quot;]/div[@class=&quot;MuiListItem-root MuiListItem-gutters styles_popoverItem__Mgpej muiltr-1tpp0wj&quot;]</value>
+      <webElementGuid>48bad098-e527-4fee-b5fd-15b81416c01b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alexandria'])[1]/following::div[31]</value>
+      <webElementGuid>705211c2-f4fc-4506-96d0-679c430647a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mansoura,Dakahlia'])[1]/following::div[33]</value>
+      <webElementGuid>72f98483-25fb-4466-ad27-794299f3be2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul/div/div[2]</value>
+      <webElementGuid>ef172fcc-a19c-489d-bdae-9c804a429ab0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Saudi' or . = 'Saudi')]</value>
+      <webElementGuid>b303ada2-8fda-4eea-a975-c6bcba5eff7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

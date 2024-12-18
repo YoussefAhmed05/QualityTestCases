@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Choose your kitchen color_sc-iwyWfK bOv_1b592f</name>
+   <tag></tag>
+   <elementGuidId>5a209792-5cae-4dec-9f14-2e8cab93d4ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/main/div/ul/li[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-iwyWfK.bOvRqL.MuiBox-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>385175bf-6fe3-4eef-8d80-1f85624c0a3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-iwyWfK bOvRqL MuiBox-root</value>
+      <webElementGuid>8365fb9f-e4ba-49c4-aaa2-254825f44ac3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-iGctyi kYhgmh&quot;]/main[@class=&quot;sc-irlPvL gIYSem&quot;]/div[@class=&quot;sc-iBPTVF kduQMP MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 sc-giInvV hbRzwi MuiCard-root sc-eWVLZl kJxplT&quot;]/ul[@class=&quot;sc-eJMOVy cArBfB MuiImageList-root MuiImageList-standard&quot;]/li[@class=&quot;sc-nFrIV kioDdK MuiImageListItem-root MuiImageListItem-standard&quot;]/div[@class=&quot;sc-iwyWfK dhjTFK MuiBox-root&quot;]/div[@class=&quot;sc-iwyWfK bOvRqL MuiBox-root&quot;]</value>
+      <webElementGuid>ea480526-b75e-408d-87cd-0867313ce078</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/main/div/ul/li[2]/div/div</value>
+      <webElementGuid>72834f71-05c1-4390-95b7-17fa75ae5fd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div</value>
+      <webElementGuid>d8eb9a6f-1205-48de-942d-aef5ae00412d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

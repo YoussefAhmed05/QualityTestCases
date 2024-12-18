@@ -18,10 +18,14 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
-WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://homzmart.com/en')
 
-WebUI.click(findTestObject('Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_1,729.00'))
+WebUI.click(findTestObject('Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/h3_MDF Wood Dressing 210x220x45x40 cm - Bla_476ce3'))
 
-WebUI.click(findTestObject('Object Repository/Page_/button_Add to cart'))
+WebUI.click(findTestObject('Object Repository/Page_/img_Excluding official holidays and vacatio_f2668b'))
+
+WebUI.click(findTestObject('Object Repository/Page_/img_Excluding official holidays and vacatio_f2668b'))
+
+WebUI.click(findTestObject('Object Repository/Page_/img_Add to cart_ProductDetails_shopping_car_4933c6'))
 

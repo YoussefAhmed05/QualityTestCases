@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS04_Cart_Management,Chrome 131.0.0.0,,,19-12-2024 00:22:53,19-12-2024 00:23:46,53.210s,FAILED
+,,,,,,,
+Test Cases/TC05_Add_to_Cart,Chrome 131.0.0.0,,,19-12-2024 00:22:53,19-12-2024 00:23:06,13.790s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,19-12-2024 00:22:53,19-12-2024 00:22:55,1.939s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,19-12-2024 00:22:55,19-12-2024 00:22:56,1.664s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/h3_MDF Wood Dressing 210x220x45x40 cm - Bla_476ce3""))",Chrome 131.0.0.0,,,19-12-2024 00:22:56,19-12-2024 00:23:02,5.257s,PASSED
+"click(findTestObject(""Object Repository/Page_/img_Excluding official holidays and vacatio_f2668b""))",Chrome 131.0.0.0,,,19-12-2024 00:23:02,19-12-2024 00:23:05,3.017s,PASSED
+"click(findTestObject(""Object Repository/Page_/img_Excluding official holidays and vacatio_f2668b""))",Chrome 131.0.0.0,,,19-12-2024 00:23:05,19-12-2024 00:23:06,1.391s,PASSED
+"click(findTestObject(""Object Repository/Page_/img_Add to cart_ProductDetails_shopping_car_4933c6""))",Chrome 131.0.0.0,,,19-12-2024 00:23:06,19-12-2024 00:23:06,0.328s,PASSED
+,,,,,,,
+Test Cases/TC16_Remove_from_Cart,Chrome 131.0.0.0,,,19-12-2024 00:23:06,19-12-2024 00:23:46,39.252s,FAILED
+"openBrowser("""")",Chrome 131.0.0.0,,,19-12-2024 00:23:07,19-12-2024 00:23:08,1.069s,PASSED
+maximizeWindow(),Chrome 131.0.0.0,,,19-12-2024 00:23:08,19-12-2024 00:23:08,0.068s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,19-12-2024 00:23:08,19-12-2024 00:23:10,2.132s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/h3_MDF Wood Dressing 210x220x45x40 cm - Bla_476ce3""))",Chrome 131.0.0.0,,,19-12-2024 00:23:10,19-12-2024 00:23:14,4.607s,PASSED
+"doubleClick(findTestObject(""Object Repository/Page_/img_Excluding official holidays and vacatio_f2668b""))",Chrome 131.0.0.0,,,19-12-2024 00:23:14,19-12-2024 00:23:46,31.270s,FAILED

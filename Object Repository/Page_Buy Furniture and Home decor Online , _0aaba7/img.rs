@@ -3,18 +3,24 @@
    <description></description>
    <name>img</name>
    <tag></tag>
-   <elementGuidId>824c2638-8115-4851-bf2a-4333f41b9b8e</elementGuidId>
+   <elementGuidId>01e22147-dccd-4e76-b42c-6e9b3dc4498e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='__next']/div/div/div/div[2]/div/div/div[4]/div[3]/div/div/div/img</value>
+         <value>//div[@id='__next']/div/div/div/div[2]/div/div/div[4]/div/img</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>img[alt=&quot;avatar&quot;]</value>
+         <value>img[alt=&quot;SearchIcon&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;Category Image 7&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>dac51d62-0983-459e-92d2-c68d463688d6</webElementGuid>
+      <webElementGuid>2456723c-e4c5-487a-a471-3f31e77353e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>alt</name>
       <type>Main</type>
-      <value>avatar</value>
-      <webElementGuid>14f2e776-4889-4570-97a0-14d2d2f9f0be</webElementGuid>
+      <value>SearchIcon</value>
+      <webElementGuid>4ead5235-d27b-44ce-9f3c-fa87cad6a565</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,23 +45,23 @@
       <name>loading</name>
       <type>Main</type>
       <value>lazy</value>
-      <webElementGuid>9282e2cc-de60-499f-be1c-f85dbed29d44</webElementGuid>
+      <webElementGuid>ed935f2e-c519-4d23-85c4-249be8b84852</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>18</value>
-      <webElementGuid>3b948504-a80a-4985-9124-ed1f801c9d40</webElementGuid>
+      <value>20</value>
+      <webElementGuid>14c31209-12c6-4d30-980d-b61c1bbd3b7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>22</value>
-      <webElementGuid>102a4625-911e-4215-9014-adeea8106f67</webElementGuid>
+      <value>20</value>
+      <webElementGuid>2e2e7ffb-a1bf-4985-920e-8992cd3a97f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +69,7 @@
       <name>decoding</name>
       <type>Main</type>
       <value>async</value>
-      <webElementGuid>f36c0adf-a307-40bb-81cd-ccbaf7a71fa9</webElementGuid>
+      <webElementGuid>375c0710-5cc0-4066-8d6a-8606591da571</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,63 +77,31 @@
       <name>data-nimg</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>909e91fc-4ba8-4fb3-beec-e2df2166b6a7</webElementGuid>
+      <webElementGuid>c5048571-8dab-41aa-9d0e-f5153a3ac4ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>/_next/static/media/avatar.7acdf4bf.svg</value>
-      <webElementGuid>cd36358c-6c1c-4d9a-953f-7531996d863a</webElementGuid>
+      <value>/_next/static/media/search.e1143473.svg</value>
+      <webElementGuid>06cc5f58-3811-4f5f-bbc2-a8c2a9454bc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[@class=&quot;MuiGrid-root muiltr-1ij0jnt&quot;]/div[@class=&quot;MuiGrid-root styles_headerContainer__zvolI muiltr-rfnosa&quot;]/div[@class=&quot;base-header-wrapper_baseHeaderWrapper__Hlubz&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainer__W84Zx undefined muiltr-1qsxih2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container HMZ_gap24 muiltr-1tsmbea&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item muiltr-1ucwsv6&quot;]/div[@class=&quot;MuiGrid-root desktop muiltr-rfnosa&quot;]/div[@class=&quot;MuiGrid-root muiltr-7tzcdh&quot;]/div[@class=&quot;MuiGrid-root muiltr-rfnosa&quot;]/div[@class=&quot;text-with-icon_textWithIcon__7_ffC&quot;]/img[1]</value>
-      <webElementGuid>3be692da-7231-434e-bba1-bf640ab82685</webElementGuid>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[@class=&quot;MuiGrid-root muiltr-1ij0jnt&quot;]/div[@class=&quot;MuiGrid-root styles_headerContainer__zvolI muiltr-rfnosa&quot;]/div[@class=&quot;base-header-wrapper_baseHeaderWrapper__Hlubz&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainer__W84Zx undefined muiltr-1qsxih2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container HMZ_gap24 muiltr-1tsmbea&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item muiltr-1ucwsv6&quot;]/div[@class=&quot;MuiGrid-root styles_responsive__4iOH9 muiltr-j99uq3&quot;]/img[1]</value>
+      <webElementGuid>597fcc06-7bff-4ec8-afe4-fe6578e8d82d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__next']/div/div/div/div[2]/div/div/div[4]/div[3]/div/div/div/img</value>
-      <webElementGuid>e53446dc-220c-4045-b80e-e6f923dff322</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:img</name>
-      <type>Main</type>
-      <value>//img[@alt='avatar']</value>
-      <webElementGuid>9f0c5caa-3ae7-4c14-b97c-b20ab99ac3cb</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[3]/div/div/div/img</value>
-      <webElementGuid>b604637b-ccc1-4e25-a560-d9f8f288d5cd</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//img[@alt = 'avatar' and @src = '/_next/static/media/avatar.7acdf4bf.svg']</value>
-      <webElementGuid>59a70369-b380-420f-97b0-72c63e561a57</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
       <value>//div[@id='__next']/div/div/div/div[2]/div/div/div[4]/div/img</value>
-      <webElementGuid>ba2cce36-1bd4-47af-8ca7-fd3152ee77bf</webElementGuid>
+      <webElementGuid>609d52f4-d247-4b70-a915-2869cf3a5054</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +109,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='SearchIcon']</value>
-      <webElementGuid>21f8a969-1360-4e07-bf05-b5b289ed4153</webElementGuid>
+      <webElementGuid>7eff778d-871e-46c0-ae2e-bc6e0e786d9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/img</value>
-      <webElementGuid>1ba73b55-1bef-4f48-8f00-1001d7b9aaf2</webElementGuid>
+      <webElementGuid>5e5095ab-3a48-4d43-b961-140e0a69e1cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,38 +125,30 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@alt = 'SearchIcon' and @src = '/_next/static/media/search.e1143473.svg']</value>
-      <webElementGuid>d859aac5-ff0e-4b25-aa56-4ad8574fcb38</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='__next']/div/div/div/div[2]/div/div/div[4]/div[3]/div/div/div/img[2]</value>
-      <webElementGuid>339cb969-7525-4c32-b606-7425c7975257</webElementGuid>
+      <webElementGuid>016c3e9f-1b9d-4cb1-abee-7a11e51f9ceb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>(//img[@alt='thinArrow'])[2]</value>
-      <webElementGuid>398bb8d1-eddd-460a-a654-0fdb9db582d6</webElementGuid>
+      <value>//img[@alt='Category Image 7']</value>
+      <webElementGuid>a3b5efb4-403f-4e35-8c0a-be88f94bfbeb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/div/div/img[2]</value>
-      <webElementGuid>a73f6b4a-b8b3-4d27-868d-e867a6003b8b</webElementGuid>
+      <value>//div[7]/div/div/img</value>
+      <webElementGuid>8fb0510c-4244-44f2-bb9e-21f0eebe461f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@alt = 'thinArrow' and @src = '/_next/static/media/thinArrow.387e17cc.svg']</value>
-      <webElementGuid>5d8a4aaa-7039-4bff-99ab-cbf24572d9f5</webElementGuid>
+      <value>//img[@alt = 'Category Image 7' and @src = 'https://eg-rv.homzmart.net/catalog/category/Kitchen_Bathroom_ID_576__3.png']</value>
+      <webElementGuid>792206e3-8958-49b5-be45-0d03bbd472c8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

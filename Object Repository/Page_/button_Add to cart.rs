@@ -3,11 +3,11 @@
    <description></description>
    <name>button_Add to cart</name>
    <tag></tag>
-   <elementGuidId>aca45c82-3dfe-4982-8616-a1880ddcc6d7</elementGuidId>
+   <elementGuidId>4ed39b6f-c5a2-41fb-a629-0d9344570766</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[11]</value>
+         <value>(//button[@type='button'])[5]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -15,6 +15,12 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;cart Add to cart&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>fd7e3882-658d-4186-99a4-66b9bddaccd4</webElementGuid>
+      <webElementGuid>a8071b5b-f645-40d1-a2ee-2a7b0c490ccd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary undefined base-button_baseButton__4kanA ProductDetails_addToshopping___sy3s muiltr-moby93</value>
-      <webElementGuid>3238f8d4-0991-426e-8541-85348e02af07</webElementGuid>
+      <webElementGuid>c73c7827-d241-49c2-af7d-6137b36d63e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>529f69f9-1144-4fb0-abf6-a92da084a1b5</webElementGuid>
+      <webElementGuid>4fb4f481-ea97-4e29-a842-631ec178d9cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>30752f89-22fd-4580-ab1d-beb9c020b61a</webElementGuid>
+      <webElementGuid>a74a985b-682e-46fa-a2fc-666f87262b9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add to cart</value>
-      <webElementGuid>b2847101-c2c8-4a00-89a0-6c77e077c9a9</webElementGuid>
+      <webElementGuid>90dc785c-1eea-4267-a71a-3c0b7e07b2c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,15 +69,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[2]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainer__W84Zx base-container_sm_p0__WNSf7 muiltr-1qsxih2&quot;]/div[@class=&quot;ProductDetails_detailsPage__rigKh&quot;]/div[@class=&quot;ProductDetails_sectionOne__Eu_BD&quot;]/div[@class=&quot;ProductDetails_product__details__gl63Y&quot;]/div[@class=&quot;ProductDetails_addToCart__qYYSD&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary undefined base-button_baseButton__4kanA ProductDetails_addToshopping___sy3s muiltr-moby93&quot;]</value>
-      <webElementGuid>f1d0325f-54f5-421f-a45c-ef13e2dc6f7f</webElementGuid>
+      <webElementGuid>b0748a54-4655-4104-a41b-a8d44712bcbb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[11]</value>
-      <webElementGuid>a4f5d450-2645-4f52-bee2-ae37ccce224a</webElementGuid>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>7fc21e7b-447d-468a-882f-697ef03e7763</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,15 +85,15 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div[2]/div/div/div/div[2]/div[5]/button</value>
-      <webElementGuid>e101c9e0-3b64-4ee9-8809-7eb0c2006d34</webElementGuid>
+      <webElementGuid>719fb685-b09d-4698-9a4d-761a9f2f1c05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='EGP 16440'])[1]/following::button[1]</value>
-      <webElementGuid>a8fe81b6-293f-49e8-bebe-b429de84af90</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EGP 15540'])[1]/following::button[1]</value>
+      <webElementGuid>95a02e29-2157-4a6a-8046-60e9fc10d3ae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Free Shipping'])[1]/preceding::button[1]</value>
-      <webElementGuid>e64fa8ea-f54e-4675-83a2-8065b8a93c6a</webElementGuid>
+      <webElementGuid>730886c8-9d65-45f9-9ad2-7a4e78d14caa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add to cart']/parent::*</value>
-      <webElementGuid>82b5ad52-a097-456b-849e-b25dd4052fb2</webElementGuid>
+      <webElementGuid>289975c5-a618-45da-a6bc-7e97f5253412</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/button</value>
-      <webElementGuid>ba72a12c-241e-443d-ad79-00bc9c2e7ced</webElementGuid>
+      <webElementGuid>14060774-71b8-4918-af01-801cc674a685</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,47 +125,23 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Add to cart' or . = 'Add to cart')]</value>
-      <webElementGuid>0cdefad4-f803-4b0c-a5c3-e972e677c175</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='__next']/div/div[2]/div/div/div/div[2]/div[4]/button</value>
-      <webElementGuid>a203397f-7f46-40f1-b638-929a6e194cac</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[4]/button</value>
-      <webElementGuid>95ca628d-7ceb-46aa-b6c6-7b3442c4dcf1</webElementGuid>
+      <webElementGuid>277f7365-5c0f-4e02-be28-06c4183e2767</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[7]</value>
-      <webElementGuid>2425d33f-f1d5-49dc-831f-391b545385ce</webElementGuid>
+      <value>(//button[@type='button'])[11]</value>
+      <webElementGuid>3c3ceb9b-7fdb-457e-b505-c4d5911e57f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[3]</value>
-      <webElementGuid>45c78a23-32be-492c-ab22-9092a0dcfffa</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>(//button[@type='button'])[17]</value>
-      <webElementGuid>46b3c844-a23f-43e9-b599-c7815ec004e7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EGP 16440'])[1]/following::button[1]</value>
+      <webElementGuid>b638b731-2b0a-4540-b796-28a1832c538b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -167,23 +149,15 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div[2]/div/div/div/div[2]/div[6]/button</value>
-      <webElementGuid>37c509b3-4886-40bd-855e-db2533b3e0fb</webElementGuid>
+      <webElementGuid>3dc0346d-4b2d-43f1-8c98-e3f53d628873</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='EGP 5200'])[1]/following::button[1]</value>
-      <webElementGuid>906cf909-ee38-4bf8-968e-b464d927424f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recommended by Homzmart'])[1]/preceding::button[1]</value>
-      <webElementGuid>80ac8440-be45-47be-aebb-52b0afc11f22</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EGP 1601'])[1]/following::button[1]</value>
+      <webElementGuid>4df3ff8f-6314-42f7-9775-4f32ab8d50ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -191,22 +165,54 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/button</value>
-      <webElementGuid>ff441cd3-cd59-4591-9509-0318d907ba9a</webElementGuid>
+      <webElementGuid>caa5bf82-3276-48ce-8ed1-3668408a0ecf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='EGP 778'])[1]/following::button[1]</value>
-      <webElementGuid>00c692dd-6951-4bdc-a7f9-fff6621ad3a3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EGP 20760'])[1]/following::button[1]</value>
+      <webElementGuid>66b023fe-0ee0-4e5a-9be9-6f996958ff05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[13]</value>
+      <webElementGuid>ec194a30-9143-4c21-a71e-f241495cc0a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::button[1]</value>
-      <webElementGuid>06fc9828-c005-413c-8ad6-9a4f49528b1a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Black'])[1]/following::button[1]</value>
+      <webElementGuid>6f345eab-3d15-460c-a41e-042f65e1282d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beige'])[1]/following::button[1]</value>
+      <webElementGuid>68ae0399-eb40-455b-911c-16d9aaf62569</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>737c3aa6-0687-4756-8c79-0a10edfbeb4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EGP 12240'])[1]/following::button[1]</value>
+      <webElementGuid>afdbc518-2b01-4821-a8bf-1253e530bba6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

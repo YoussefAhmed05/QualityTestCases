@@ -1,0 +1,26 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS03_Search_Functionality,Chrome 131.0.0.0,,,18-12-2024 23:36:31,18-12-2024 23:37:41,1m - 9.894s,FAILED
+,,,,,,,
+Test Cases/TC09_Filters,Chrome 131.0.0.0,,,18-12-2024 23:36:31,18-12-2024 23:36:46,15.278s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,18-12-2024 23:36:31,18-12-2024 23:36:33,1.982s,PASSED
+maximizeWindow(),Chrome 131.0.0.0,,,18-12-2024 23:36:33,18-12-2024 23:36:33,0.083s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,18-12-2024 23:36:33,18-12-2024 23:36:36,2.610s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo""))",Chrome 131.0.0.0,,,18-12-2024 23:36:36,18-12-2024 23:36:43,6.487s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/li_Sofas""))",Chrome 131.0.0.0,,,18-12-2024 23:36:43,18-12-2024 23:36:43,0.526s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Sofas Online in Egypt - Wide Selec_51da64/input_Price low to high_radio-buttons-group""))",Chrome 131.0.0.0,,,18-12-2024 23:36:43,18-12-2024 23:36:45,1.901s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Sofas Online in Egypt - Wide Selec_51da64/div_Apply""))",Chrome 131.0.0.0,,,18-12-2024 23:36:45,18-12-2024 23:36:46,1.505s,PASSED
+,,,,,,,
+Test Cases/TC19_Apply_Multiple_Filters,Chrome 131.0.0.0,,,18-12-2024 23:36:46,18-12-2024 23:36:55,8.453s,FAILED
+"openBrowser("""")",Chrome 131.0.0.0,,,18-12-2024 23:36:47,18-12-2024 23:36:47,0.970s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,18-12-2024 23:36:47,18-12-2024 23:36:50,2.823s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo""))",Chrome 131.0.0.0,,,18-12-2024 23:36:50,18-12-2024 23:36:55,4.602s,FAILED
+,,,,,,,
+Test Cases/TC20_Reset_Filters,Chrome 131.0.0.0,,,18-12-2024 23:36:55,18-12-2024 23:37:24,28.918s,FAILED
+"openBrowser("""")",Chrome 131.0.0.0,,,18-12-2024 23:36:55,18-12-2024 23:36:56,0.935s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,18-12-2024 23:36:56,18-12-2024 23:36:58,2.263s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img""))",Chrome 131.0.0.0,,,18-12-2024 23:36:58,18-12-2024 23:37:24,25.659s,FAILED
+,,,,,,,
+Test Cases/TC03_Search,Chrome 131.0.0.0,,,18-12-2024 23:37:24,18-12-2024 23:37:41,17.070s,FAILED
+"openBrowser("""")",Chrome 131.0.0.0,,,18-12-2024 23:37:24,18-12-2024 23:37:25,0.941s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,18-12-2024 23:37:25,18-12-2024 23:37:41,15.977s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img""))",Chrome 131.0.0.0,,,18-12-2024 23:37:41,18-12-2024 23:37:41,0.032s,FAILED

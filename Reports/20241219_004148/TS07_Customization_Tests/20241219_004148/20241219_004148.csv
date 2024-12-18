@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS07_Customization_Tests,Chrome 131.0.0.0,,,19-12-2024 00:41:53,19-12-2024 00:42:44,51.329s,FAILED
+,,,,,,,
+Test Cases/TC24_Design_Your_Kitchen,Chrome 131.0.0.0,,,19-12-2024 00:41:53,19-12-2024 00:42:44,51.172s,FAILED
+"openBrowser("""")",Chrome 131.0.0.0,,,19-12-2024 00:41:53,19-12-2024 00:41:55,1.927s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,19-12-2024 00:41:55,19-12-2024 00:41:56,1.585s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img_End-of-Year Clearance Get extra 15 disc_aeb651""))",Chrome 131.0.0.0,,,19-12-2024 00:41:56,19-12-2024 00:42:02,5.404s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img_Shop By Category_undefined""))",Chrome 131.0.0.0,,,19-12-2024 00:42:02,19-12-2024 00:42:12,10.195s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/div_Full Kitchen""))",Chrome 131.0.0.0,,,19-12-2024 00:42:12,19-12-2024 00:42:13,0.609s,PASSED
+"click(findTestObject(""Object Repository/Page_/img""))",Chrome 131.0.0.0,,,19-12-2024 00:42:13,19-12-2024 00:42:44,31.259s,FAILED

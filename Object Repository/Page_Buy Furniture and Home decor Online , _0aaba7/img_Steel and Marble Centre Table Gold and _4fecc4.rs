@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>d728c558-1681-4749-b773-ae6eb1abde87</webElementGuid>
+      <webElementGuid>b3b8c6fb-1693-4169-a413-4c42ac64f0b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>Metal and Beech Wood Office Chair -</value>
-      <webElementGuid>400c8201-f245-479f-a368-dbea2c73fe7d</webElementGuid>
+      <webElementGuid>5597d059-3516-46e5-ba90-5aacf17e5edb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>loading</name>
       <type>Main</type>
       <value>lazy</value>
-      <webElementGuid>c94e2882-ec2a-4f60-b078-2046373e225f</webElementGuid>
+      <webElementGuid>5c087669-1c86-4daf-a076-e15b899b5cd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>width</name>
       <type>Main</type>
       <value>100</value>
-      <webElementGuid>b8f4bea2-2bcc-4a88-9a59-48ff6d701bec</webElementGuid>
+      <webElementGuid>763de434-5817-43a9-9864-f6d1b3e3f35a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>height</name>
       <type>Main</type>
       <value>100</value>
-      <webElementGuid>9ac5bbca-ddae-408b-a2fb-01139bb4bdb8</webElementGuid>
+      <webElementGuid>3351027c-56b0-4e14-b105-19fd24a9e36f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>decoding</name>
       <type>Main</type>
       <value>async</value>
-      <webElementGuid>41f2aca2-46e3-4c47-96c0-d6e42b0d523d</webElementGuid>
+      <webElementGuid>4830c6f0-c508-4cfc-9338-5e879c20bcbf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>data-nimg</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>c8d237e9-2843-404c-90dd-4fb8b68fd468</webElementGuid>
+      <webElementGuid>da433f76-43f2-4e57-9f8c-ad06cd3d2c7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>class</name>
       <type>Main</type>
       <value>undefined </value>
-      <webElementGuid>1ea6f905-2ab4-4852-b440-ff6473893330</webElementGuid>
+      <webElementGuid>f62f6f1b-6bc6-43c0-9538-7d0b3867df1f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,7 +87,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://eg-rv.homzmart.net/catalog/product/d/h/dh_image_copy_.jpg</value>
-      <webElementGuid>20b582ab-8a41-4886-acec-2ae069279ad1</webElementGuid>
+      <webElementGuid>ce8656ed-a9fa-48f6-81cd-7e05dcff3e89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/main[1]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainerBody__PjcNt undefined muiltr-1qsxih2&quot;]/div[@class=&quot;HMZ_mg_b_20&quot;]/div[@class=&quot;MegaDeals_container__megaDeals__wsjRp&quot;]/div[@class=&quot;base-slider_sliderWrapper__2AaZ4&quot;]/div[@class=&quot;swiper swiper-initialized swiper-horizontal swiper-css-mode undefined false base-slider_removePadding__swCnz&quot;]/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide swiper-slide-next&quot;]/div[@class=&quot;MegaDealItems_megaDeals__0yX4J&quot;]/div[@class=&quot;MegaDealItems_wraperInfo__megaDeals__yY_cy&quot;]/div[@class=&quot;MegaDealSupItems_card__megaDeals__Fou0r&quot;]/div[@class=&quot;MegaDealSupItems_image__card__megaDeals__dZrH3&quot;]/a[1]/img[@class=&quot;undefined&quot;]</value>
-      <webElementGuid>85cc9563-81ad-46fe-82a0-f3d493a0d3da</webElementGuid>
+      <webElementGuid>b8394b47-04eb-4f5d-918b-917031b5518c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/main/div/div[3]/div/div/div/div/div[3]/div/div[2]/div[4]/div/a/img</value>
-      <webElementGuid>4d7baf57-52db-499a-a330-25b87610edcc</webElementGuid>
+      <webElementGuid>27abdee6-bde7-49a4-b6fc-f2eca7199ed5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>//img[@alt='Metal and Beech Wood Office Chair -']</value>
-      <webElementGuid>90494b42-4b80-47a0-8047-977d80932bad</webElementGuid>
+      <webElementGuid>3b35ec31-d45a-4b1d-80e5-0b5f192121cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div[2]/div[4]/div/a/img</value>
-      <webElementGuid>59dc551b-2fbe-4c95-be38-fc490bf1f2fa</webElementGuid>
+      <webElementGuid>7fb2e224-3aa9-465f-8723-b9df1577d3f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +127,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@alt = 'Metal and Beech Wood Office Chair -' and @src = 'https://eg-rv.homzmart.net/catalog/product/d/h/dh_image_copy_.jpg']</value>
-      <webElementGuid>20e3c02a-2daf-47e8-b7c9-0b5c6c0acd91</webElementGuid>
+      <webElementGuid>33ac44ef-e6ef-442f-b50b-6b363cada5df</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

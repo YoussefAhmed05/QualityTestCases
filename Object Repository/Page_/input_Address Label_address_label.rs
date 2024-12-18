@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Address Label_address_label</name>
    <tag></tag>
-   <elementGuidId>d95c80f3-7262-48e6-bbad-4d96e2971011</elementGuidId>
+   <elementGuidId>59b6f6d4-70fa-44e3-a305-ab585a324cc9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -15,6 +15,12 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>input[name=&quot;address_label&quot;] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>145e80de-ed20-4d43-a111-f8772fdce89f</webElementGuid>
+      <webElementGuid>ac9c9092-e666-4cb1-bfb1-88bd86c5db74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +37,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>ac302207-48ee-4a22-86d1-05ca247e877b</webElementGuid>
+      <webElementGuid>4872e3c3-b9cd-45ec-9235-3feb861a5479</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>outlined-basic</value>
-      <webElementGuid>17f37e36-e1ec-4080-9a70-6c0a925f5391</webElementGuid>
+      <webElementGuid>a1df33e8-20d9-45f6-9ed7-522240753180</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>address_label</value>
-      <webElementGuid>661eae4c-aeb5-4544-b70b-499be6f448d2</webElementGuid>
+      <webElementGuid>d4943e1e-816a-4d62-a41e-1c0ec3cc1395</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +61,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>84dec79e-0ba1-4d8c-8248-acb884b6179e</webElementGuid>
+      <webElementGuid>8c046121-c97b-442d-af29-47f1719b5616</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiInputBase-input MuiOutlinedInput-input muiltr-1x5jdmq</value>
-      <webElementGuid>4ae987e3-44ca-40c6-bd94-d86af19f2c1a</webElementGuid>
+      <webElementGuid>2d62486f-ed17-4540-bb18-bf1e5eb8f1f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;base-modal_modal__YZwPP MuiModal-root muiltr-8ndowl&quot;]/div[@class=&quot;base-modal_base-modal__box__fGy_O MuiBox-root muiltr-0&quot;]/form[@class=&quot;address-form-inputs_addressForm_styles__xeWWA&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-12 muiltr-1367ec5&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-grid-xs-12 MuiGrid-grid-md-12 muiltr-14tstx0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item muiltr-1wxaqej&quot;]/div[@class=&quot;MuiFormControl-root MuiTextField-root muiltr-i44wyl&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-formControl muiltr-1h2wc6z&quot;]/input[@id=&quot;outlined-basic&quot;]</value>
-      <webElementGuid>97605cb2-c56f-46ba-98fd-49b37a377189</webElementGuid>
+      <webElementGuid>3b7b8bdb-8220-4136-9604-aa9e7ca2d7c3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@id='outlined-basic'])[7]</value>
-      <webElementGuid>a4e80200-5fe8-44d3-8e5a-a0a402f21c5c</webElementGuid>
+      <webElementGuid>1a3a6b85-4b16-4f8a-aee6-1b2bb9aa2672</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/div/input</value>
-      <webElementGuid>8e21d73a-c10d-452d-a477-36ec05172548</webElementGuid>
+      <webElementGuid>5144401d-042e-43c0-814e-5c8374c9af39</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'outlined-basic' and @name = 'address_label' and @type = 'text']</value>
-      <webElementGuid>efed7f16-e9c8-4863-becc-77078c1cfc87</webElementGuid>
+      <webElementGuid>b7e5e68f-c818-4115-8825-9063cda37cad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,40 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS03_Search_Functionality,Chrome 131.0.0.0,,,18-12-2024 23:56:59,18-12-2024 23:58:43,1m - 43.738s,PASSED
+,,,,,,,
+Test Cases/TC09_Filters,Chrome 131.0.0.0,,,18-12-2024 23:56:59,18-12-2024 23:57:26,27.181s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,18-12-2024 23:56:59,18-12-2024 23:57:01,1.905s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,18-12-2024 23:57:01,18-12-2024 23:57:05,3.856s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img""))",Chrome 131.0.0.0,,,18-12-2024 23:57:05,18-12-2024 23:57:17,11.864s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo""))",Chrome 131.0.0.0,,,18-12-2024 23:57:17,18-12-2024 23:57:19,2.403s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Tables""))",Chrome 131.0.0.0,,,18-12-2024 23:57:19,18-12-2024 23:57:20,0.339s,PASSED
+"click(findTestObject(""Object Repository/Page_Find the Perfect Table for Your Home -_28535e/input_Price low to high_radio-buttons-group""))",Chrome 131.0.0.0,,,18-12-2024 23:57:20,18-12-2024 23:57:22,2.623s,PASSED
+"click(findTestObject(""Object Repository/Page_Find the Perfect Table for Your Home -_28535e/div_Apply""))",Chrome 131.0.0.0,,,18-12-2024 23:57:22,18-12-2024 23:57:26,4.006s,PASSED
+,,,,,,,
+Test Cases/TC19_Apply_Multiple_Filters,Chrome 131.0.0.0,,,18-12-2024 23:57:26,18-12-2024 23:58:09,42.687s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,18-12-2024 23:57:26,18-12-2024 23:57:27,1.013s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,18-12-2024 23:57:27,18-12-2024 23:58:03,36.118s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img""))",Chrome 131.0.0.0,,,18-12-2024 23:58:03,18-12-2024 23:58:04,0.835s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo""))",Chrome 131.0.0.0,,,18-12-2024 23:58:04,18-12-2024 23:58:05,0.608s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Tables""))",Chrome 131.0.0.0,,,18-12-2024 23:58:05,18-12-2024 23:58:05,0.322s,PASSED
+"click(findTestObject(""Object Repository/Page_Find the Perfect Table for Your Home -_28535e/input_Price low to high_radio-buttons-group""))",Chrome 131.0.0.0,,,18-12-2024 23:58:05,18-12-2024 23:58:07,2.137s,PASSED
+"click(findTestObject(""Object Repository/Page_Find the Perfect Table for Your Home -_28535e/input__PrivateSwitchBase-input muiltr-1m9pwf3""))",Chrome 131.0.0.0,,,18-12-2024 23:58:07,18-12-2024 23:58:08,0.535s,PASSED
+"click(findTestObject(""Object Repository/Page_Find the Perfect Table for Your Home -_28535e/input_(1127)_PrivateSwitchBase-input muiltr_435b5c""))",Chrome 131.0.0.0,,,18-12-2024 23:58:08,18-12-2024 23:58:08,0.531s,PASSED
+"click(findTestObject(""Object Repository/Page_Find the Perfect Table for Your Home -_28535e/div_Apply""))",Chrome 131.0.0.0,,,18-12-2024 23:58:08,18-12-2024 23:58:09,0.509s,PASSED
+,,,,,,,
+Test Cases/TC20_Reset_Filters,Chrome 131.0.0.0,,,18-12-2024 23:58:09,18-12-2024 23:58:29,20.531s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,18-12-2024 23:58:09,18-12-2024 23:58:10,0.993s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,18-12-2024 23:58:10,18-12-2024 23:58:13,3.070s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img""))",Chrome 131.0.0.0,,,18-12-2024 23:58:13,18-12-2024 23:58:24,11.262s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Chairs""))",Chrome 131.0.0.0,,,18-12-2024 23:58:24,18-12-2024 23:58:25,0.632s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Chairs Online in Egypt - Affordabl_9619fd/input_Price low to high_radio-buttons-group""))",Chrome 131.0.0.0,,,18-12-2024 23:58:25,18-12-2024 23:58:27,1.584s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Chairs Online in Egypt - Affordabl_9619fd/input_(214)_PrivateSwitchBase-input muiltr-1m9pwf3""))",Chrome 131.0.0.0,,,18-12-2024 23:58:27,18-12-2024 23:58:27,0.556s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Chairs Online in Egypt - Affordabl_9619fd/input__PrivateSwitchBase-input muiltr-1m9pwf3""))",Chrome 131.0.0.0,,,18-12-2024 23:58:27,18-12-2024 23:58:28,0.503s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Chairs Online in Egypt - Affordabl_9619fd/div_Apply""))",Chrome 131.0.0.0,,,18-12-2024 23:58:28,18-12-2024 23:58:28,0.518s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Chairs Online in Egypt - Affordabl_9619fd/div_Reset""))",Chrome 131.0.0.0,,,18-12-2024 23:58:28,18-12-2024 23:58:29,1.361s,PASSED
+,,,,,,,
+Test Cases/TC03_Search,Chrome 131.0.0.0,,,18-12-2024 23:58:29,18-12-2024 23:58:43,13.166s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,18-12-2024 23:58:30,18-12-2024 23:58:31,1.010s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,18-12-2024 23:58:31,18-12-2024 23:58:34,3.352s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img""))",Chrome 131.0.0.0,,,18-12-2024 23:58:34,18-12-2024 23:58:41,7.222s,PASSED
+"setText(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo""), ""chair"")",Chrome 131.0.0.0,,,18-12-2024 23:58:41,18-12-2024 23:58:42,0.992s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo""), Keys.chord(ENTER))",Chrome 131.0.0.0,,,18-12-2024 23:58:42,18-12-2024 23:58:43,0.513s,PASSED

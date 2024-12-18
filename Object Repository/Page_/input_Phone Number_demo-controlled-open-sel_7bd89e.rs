@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Phone Number_demo-controlled-open-sel_7bd89e</name>
    <tag></tag>
-   <elementGuidId>d5dd179b-730c-44b5-b1f4-c72941c799c2</elementGuidId>
+   <elementGuidId>bced3965-5161-4820-9bc8-1b45eb449bc0</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -15,6 +15,12 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Phone Number&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d93cd895-3a8e-4bf4-adaa-0122750f4ca7</webElementGuid>
+      <webElementGuid>bcecd045-3505-45a8-9d2d-83df76b45200</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +37,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>eee7727a-8300-464b-8238-5fb1b89b2f1a</webElementGuid>
+      <webElementGuid>484a2f35-e119-40a5-96d8-6877f29ff7d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>demo-controlled-open-select-label</value>
-      <webElementGuid>d381bdcb-20ab-46c0-9226-2e70ce43c9b0</webElementGuid>
+      <webElementGuid>ca85e877-4741-4a78-ab3c-6f76414ba7b8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,15 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>e8548295-398f-4867-b315-48e8b5e4b5ae</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>3</value>
-      <webElementGuid>c829d67c-a90c-4edc-af85-ee5736739aef</webElementGuid>
+      <webElementGuid>d0ee89ff-f381-48f7-9a80-cf2439530feb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +61,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>10</value>
-      <webElementGuid>01f6ee41-0790-4e6b-bf8c-a79a0cf40fd2</webElementGuid>
+      <webElementGuid>1a74b5d5-0114-410e-8b94-cc705654cffc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,15 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiInputBase-input MuiOutlinedInput-input muiltr-1x5jdmq</value>
-      <webElementGuid>d83f4f4a-4486-4eeb-bef6-4fe5add3fc57</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-describedby</name>
-      <type>Main</type>
-      <value>demo-controlled-open-select-label-helper-text</value>
-      <webElementGuid>d1708bef-5995-478c-b253-84858b64ca6e</webElementGuid>
+      <webElementGuid>fe3ae893-602c-4d14-bb50-d99f856e8920</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;base-modal_modal__YZwPP MuiModal-root muiltr-8ndowl&quot;]/div[@class=&quot;base-modal_base-modal__box__fGy_O MuiBox-root muiltr-0&quot;]/form[@class=&quot;address-form-inputs_addressForm_styles__xeWWA&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-12 muiltr-1367ec5&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-grid-xs-12 MuiGrid-grid-md-12 muiltr-14tstx0&quot;]/div[@class=&quot;base-phone-input_basePhoneSelect__aKZL3&quot;]/div[@class=&quot;base-phone-input_phoneNumberInput__YqV0d&quot;]/div[@class=&quot;MuiFormControl-root MuiTextField-root muiltr-i44wyl&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-formControl muiltr-1h2wc6z&quot;]/input[@id=&quot;demo-controlled-open-select-label&quot;]</value>
-      <webElementGuid>c09db995-9b48-4e1d-a7dc-daf14dc2392e</webElementGuid>
+      <webElementGuid>121e9718-e7d4-44ff-b0a1-9dc616985784</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -95,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='demo-controlled-open-select-label']</value>
-      <webElementGuid>21d03306-5d96-4fd6-9345-a7dcd6e7a8f0</webElementGuid>
+      <webElementGuid>3f3b8320-7677-476d-852a-94464ecd88df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/div[2]/div/div/input</value>
-      <webElementGuid>d2534852-3848-44c6-9e24-6260060ff1b5</webElementGuid>
+      <webElementGuid>d43bd65b-cefd-4e8a-8710-0ccdd11c6170</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,22 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'demo-controlled-open-select-label' and @type = 'text']</value>
-      <webElementGuid>243ff1eb-ff41-4b53-a244-18a47fe3f04f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='__next']/div/div/div/div/div[2]/div/form/div/div[3]/div[2]/div/div/input</value>
-      <webElementGuid>fc28f156-c15c-43d3-81cd-5e768c0b3300</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div/div/input</value>
-      <webElementGuid>fdf77419-c696-4512-baf8-6aec58fcc11b</webElementGuid>
+      <webElementGuid>60832008-0fee-41de-9794-705e5366b218</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

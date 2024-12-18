@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>406646bd-9337-4001-9731-9d9e81f508f0</webElementGuid>
+      <webElementGuid>0dee2b5b-bc9f-4fe4-96b4-959a2feaa9cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>actionsButton_apply__it_iw</value>
-      <webElementGuid>7a68adda-b488-46df-b4e2-06832c3d34b6</webElementGuid>
+      <webElementGuid>b264892a-9c85-4713-af81-4781c1a6c776</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Apply</value>
-      <webElementGuid>d8f49868-0b69-4711-8387-d00a940693e2</webElementGuid>
+      <webElementGuid>81b2c8a7-c5ff-44d3-b52f-5f6efeac3bb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainer__W84Zx undefined muiltr-1qsxih2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 muiltr-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4 MuiGrid-grid-lg-3 muiltr-6fiaes&quot;]/section[@class=&quot;style_desktopSideBar__BSfaM&quot;]/aside[@class=&quot;listingSidebar_sidebarWrapper__8tX_g&quot;]/section[@class=&quot;HMZ_mg_b_24&quot;]/div[@class=&quot;actionsButton_actionsButtonsWrapper__Q9Gqs&quot;]/div[@class=&quot;actionsButton_actionsButton__drsYb&quot;]/div[@class=&quot;actionsButton_apply__it_iw&quot;]</value>
-      <webElementGuid>fd829acc-b347-45fb-b26f-92a201092c33</webElementGuid>
+      <webElementGuid>a872c158-7b66-4339-8bd1-bc404dded5e5</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div[2]/div/div/section[2]/aside/section/div/div[2]/div[2]</value>
-      <webElementGuid>a256fdfe-a070-46cc-af71-7744a0556975</webElementGuid>
+      <webElementGuid>c80c0137-5732-4ea4-8eba-ecfc216a6b9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/following::div[1]</value>
-      <webElementGuid>6627292b-b2ea-42fa-8b35-c2a561fde52e</webElementGuid>
+      <webElementGuid>f8325ec2-7cee-48cf-ab30-12ac55098eff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Show filters'])[1]/following::div[5]</value>
-      <webElementGuid>4eae25f1-3a8a-4e4b-8fe7-e83b2c14cb83</webElementGuid>
+      <webElementGuid>a5b6f339-5a88-41d9-8f96-a103fbe8cfca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Featured'])[1]/preceding::div[1]</value>
-      <webElementGuid>effad2f7-6e9a-4dc7-959d-7a44c9b15692</webElementGuid>
+      <webElementGuid>f9ba1ce4-f0a0-434e-8a24-eeb4446bf96f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Price: low to high'])[1]/preceding::div[1]</value>
-      <webElementGuid>fe0c55e1-ddb8-44cb-bacc-1ea8e2302b75</webElementGuid>
+      <webElementGuid>5361ab65-405e-480a-b99b-0024819daf06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Apply']/parent::*</value>
-      <webElementGuid>f584cbdc-a6c9-4d81-bc41-cfedb37047f7</webElementGuid>
+      <webElementGuid>161d365f-ed9d-46cc-a32d-d3bcc359afae</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section/div/div[2]/div[2]</value>
-      <webElementGuid>ad0cdb55-a52a-425b-90ea-99ccd06ea038</webElementGuid>
+      <webElementGuid>d935f59c-cb2d-4181-b2ce-febf4e4d2bb9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Apply' or . = 'Apply')]</value>
-      <webElementGuid>9d17cf93-e767-446f-b80b-963627576c66</webElementGuid>
+      <webElementGuid>fbc225ad-9689-4062-8a5e-a646f00f1634</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

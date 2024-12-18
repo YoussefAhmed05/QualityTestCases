@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>554f59e2-1860-49e2-8861-e221905f2da8</webElementGuid>
+      <webElementGuid>9082ae2e-001e-4083-a02a-425648d1cdef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>PrivateSwitchBase-input muiltr-1m9pwf3</value>
-      <webElementGuid>cd5b8a80-ed37-4c0b-8fd2-229a6b5ac5b1</webElementGuid>
+      <webElementGuid>8f7593c1-d4e9-4aef-bdd5-e1abfdc608cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>name</name>
       <type>Main</type>
       <value>radio-buttons-group</value>
-      <webElementGuid>ca9372f1-c3b6-4657-b407-3338030c7beb</webElementGuid>
+      <webElementGuid>e817e2a5-48c5-43be-9512-593231e9e8ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>type</name>
       <type>Main</type>
       <value>radio</value>
-      <webElementGuid>575a0cce-bd39-4da2-8b01-6727770689f5</webElementGuid>
+      <webElementGuid>345e5a04-efad-4060-b7f3-38696d6d244a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>value</name>
       <type>Main</type>
       <value>price_desc</value>
-      <webElementGuid>ab7ede3e-19a6-47dd-b4c8-e026bf1ca5ec</webElementGuid>
+      <webElementGuid>22e2087b-e64f-4388-a01f-248ec47ce2cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainer__W84Zx undefined muiltr-1qsxih2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 muiltr-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-4 MuiGrid-grid-lg-3 muiltr-6fiaes&quot;]/section[@class=&quot;style_desktopSideBar__BSfaM&quot;]/aside[@class=&quot;listingSidebar_sidebarWrapper__8tX_g&quot;]/section[@class=&quot;HMZ_mg_b_24&quot;]/div[@class=&quot;MuiFormControl-root HMZ_fullWidth muiltr-13sljp9&quot;]/div[@class=&quot;MuiFormGroup-root MuiRadioGroup-root muiltr-1h7anqn&quot;]/label[@class=&quot;MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd HMZ_mg_b_16 listingSidebar_borderBottomLine__g_vBI muiltr-1jaw3da&quot;]/span[@class=&quot;MuiButtonBase-root MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root MuiRadio-root MuiRadio-colorPrimary MuiRadio-root MuiRadio-colorPrimary BaseCheckRadioButton baseCheckBox muiltr-1a5icme&quot;]/input[@class=&quot;PrivateSwitchBase-input muiltr-1m9pwf3&quot;]</value>
-      <webElementGuid>90a650c0-68c9-4d50-b92e-7aad1200efb8</webElementGuid>
+      <webElementGuid>ee7e99f2-b62d-4c45-9340-66c6df2a704d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@name='radio-buttons-group'])[3]</value>
-      <webElementGuid>8fbe2579-956f-4f17-97ef-ebbc2ebd5f3a</webElementGuid>
+      <webElementGuid>c23433cb-82fa-4cb3-b032-65e7a42dfb5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div[2]/div/div/section[2]/aside/section[2]/div/div/label[3]/span/input</value>
-      <webElementGuid>e80befe4-dd86-443f-8da6-9a1f6611825d</webElementGuid>
+      <webElementGuid>3d94f720-74a0-4eef-a0b4-46d24e5dbd34</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label[3]/span/input</value>
-      <webElementGuid>c0f197ee-46fc-46e2-b8b3-490e23a10f47</webElementGuid>
+      <webElementGuid>06fa3c8b-ae4c-4750-a77e-95ebd63b942d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'radio-buttons-group' and @type = 'radio']</value>
-      <webElementGuid>ab6289aa-dc75-443c-9784-55460c593c4f</webElementGuid>
+      <webElementGuid>f9d9593c-2e91-42fc-b83a-90be729312fa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

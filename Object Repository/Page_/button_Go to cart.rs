@@ -3,11 +3,11 @@
    <description></description>
    <name>button_Go to cart</name>
    <tag></tag>
-   <elementGuidId>16acbdd2-9c73-4512-a87d-ddcc953bea51</elementGuidId>
+   <elementGuidId>10f11e1b-fa8d-4984-918d-89829afe5b69</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[23]</value>
+         <value>(//button[@type='button'])[11]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -15,6 +15,12 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Go to cart&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>0ae4daef-875a-4aab-bc7c-1c7badc7c27f</webElementGuid>
+      <webElementGuid>83c42d93-3f1f-48e8-b17d-7fc39dd473d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary base-button_secondary__fZeR8 base-button_baseButton__4kanA styles_BaseButton__PLH9m muiltr-moby93</value>
-      <webElementGuid>5618451b-f1e0-42a5-8af8-9a2c8e1c6b1b</webElementGuid>
+      <webElementGuid>06e64dbd-b8e9-4df3-bb78-3dcd7d8c2164</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>df305aac-3d42-46db-8395-80e22fc63348</webElementGuid>
+      <webElementGuid>3c2ea095-4d32-475c-ba31-34c470e40760</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>41fef1b8-4a23-491b-a129-06ac6221625f</webElementGuid>
+      <webElementGuid>6f0c75bd-801f-433b-9d06-4756e01c4d8d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Go to cart</value>
-      <webElementGuid>5c3b5790-8919-457c-900d-fd89d9df8903</webElementGuid>
+      <webElementGuid>ad3504ff-52d6-4df2-823d-ebc495f28dd9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,39 +69,39 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;MuiDrawer-root MuiDrawer-modal MuiModal-root muiltr-y28f86&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation16 MuiDrawer-paper MuiDrawer-paperAnchorRight styles_drawer__ZmSzS muiltr-1ab2xsx&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainer__W84Zx undefined muiltr-1qsxih2&quot;]/div[@class=&quot;MuiGrid-root muiltr-1kliqlf&quot;]/a[1]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary base-button_secondary__fZeR8 base-button_baseButton__4kanA styles_BaseButton__PLH9m muiltr-moby93&quot;]</value>
-      <webElementGuid>8e5492d1-1e08-4bef-b9c3-c6c0193cb3a9</webElementGuid>
+      <webElementGuid>31da783b-db06-494f-aff5-9d5c9bcaaa95</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[23]</value>
-      <webElementGuid>260f6729-714b-4a1c-9f3a-e480ce6b540f</webElementGuid>
+      <value>(//button[@type='button'])[11]</value>
+      <webElementGuid>ac6d2b23-75c7-4f05-a320-ab9257e76ad3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alexandria'])[1]/following::button[11]</value>
-      <webElementGuid>005deb5d-d9a5-488e-972c-3381ac0b6e34</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alexandria'])[1]/following::button[5]</value>
+      <webElementGuid>bd6f67fc-a19d-494a-908d-d9a31256f960</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mansoura,Dakahlia'])[1]/following::button[11]</value>
-      <webElementGuid>5d4c3adc-7b90-4c82-a3e4-bf7b476d8f7e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mansoura,Dakahlia'])[1]/following::button[5]</value>
+      <webElementGuid>6b4b940d-26a8-4920-89cd-f38f47fcc171</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wood Manufactured In The European Union Wardrobe 3 Shutters Dark Blue and Brown - 190x160x50 cm'])[2]/preceding::button[1]</value>
-      <webElementGuid>44b60a36-1d2b-42b4-89aa-46cc59e7a7e0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MDF Dressing White - 200x180x50 cm'])[2]/preceding::button[1]</value>
+      <webElementGuid>5edc5fcc-8fbd-4fd9-a731-e1df90c99eba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Go to cart']/parent::*</value>
-      <webElementGuid>f45fbbf3-64b4-474f-b71a-bd104478bc6d</webElementGuid>
+      <webElementGuid>f56f34d4-ef03-487e-8adc-e27292a741de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/button</value>
-      <webElementGuid>24a77a2b-e15a-4889-b3b4-6ec22e09f705</webElementGuid>
+      <webElementGuid>322fe85b-625f-43ba-8b96-d6085c866257</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,54 +125,86 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Go to cart' or . = 'Go to cart')]</value>
-      <webElementGuid>3056ddae-4d20-463c-a1e4-989a71bc5b09</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Natural Wood and Linen Fabric Sofa Bed - Grey'])[1]/preceding::button[1]</value>
-      <webElementGuid>74a10753-5f01-4497-aca0-c4dd67a699e3</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gamma Bluetooth Sound Bar Speaker Heavy Bass Usb Sd Card Aux Black - GT -119'])[1]/preceding::button[1]</value>
-      <webElementGuid>a9c28965-cf79-45bc-a293-e866770b8ebd</webElementGuid>
+      <webElementGuid>3d2eac2f-729a-47b9-a258-0bc1cd3a8c74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[35]</value>
-      <webElementGuid>6654bde9-edda-4f4d-81c8-ac727798e505</webElementGuid>
+      <value>(//button[@type='button'])[23]</value>
+      <webElementGuid>9d8c1844-b157-4953-b92b-4a81a415d0c9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alexandria'])[1]/following::button[17]</value>
-      <webElementGuid>02919cba-8f1d-465b-9a1b-5fffb635e8d1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alexandria'])[1]/following::button[11]</value>
+      <webElementGuid>994628fd-75e9-490c-acc4-45aa83dc7c86</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mansoura,Dakahlia'])[1]/following::button[17]</value>
-      <webElementGuid>b3626962-8c7d-4476-a08b-adbe78d7a9fe</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mansoura,Dakahlia'])[1]/following::button[11]</value>
+      <webElementGuid>04e3ef03-1705-4791-9938-37ab003cb33e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Natural Wood and Linen Fabric Sofa Bed - Grey'])[2]/preceding::button[1]</value>
-      <webElementGuid>000a21f7-91ed-4257-ba05-dae3e576732a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wood Manufactured In The European Union Wardrobe 3 Shutters Dark Blue and Brown - 190x160x50 cm'])[2]/preceding::button[1]</value>
+      <webElementGuid>7db483b2-a705-47c8-820f-bb464e56942d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Steel and Marble Centre Table Gold and White - 2 Pieces'])[2]/preceding::button[1]</value>
+      <webElementGuid>97723024-0409-41ab-8edb-faef1f9de8e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MDF Wood Dressing 210x220x45x40 cm - Black and Beige'])[2]/preceding::button[1]</value>
+      <webElementGuid>d09c9355-4dfd-453f-9a10-44608621e826</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[15]</value>
+      <webElementGuid>c923b779-e0a4-4407-8453-bd3b6ea87248</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alexandria'])[1]/following::button[7]</value>
+      <webElementGuid>2377df70-684a-4920-a952-e25b85ff539a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mansoura,Dakahlia'])[1]/following::button[7]</value>
+      <webElementGuid>00b5cd3d-227e-4339-93e4-a0b97f2209a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MDF Dressing Beige - 200x50x200 cm'])[2]/preceding::button[1]</value>
+      <webElementGuid>0841f8f3-7c9e-402f-9c13-31abd7d3a682</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,29 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS07_Product_View_Tests,Chrome 131.0.0.0,,,19-12-2024 00:36:20,19-12-2024 00:37:13,52.839s,PASSED
+,,,,,,,
+Test Cases/TC06_View_Product,Chrome 131.0.0.0,,,19-12-2024 00:36:20,19-12-2024 00:36:32,11.927s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,19-12-2024 00:36:20,19-12-2024 00:36:22,2.091s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,19-12-2024 00:36:22,19-12-2024 00:36:24,1.706s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/div_Luma Bella Coffee Maker 4 Cups 250 ml 6_41a885""))",Chrome 131.0.0.0,,,19-12-2024 00:36:24,19-12-2024 00:36:32,7.943s,PASSED
+,,,,,,,
+Test Cases/TC25_View_Reviews,Chrome 131.0.0.0,,,19-12-2024 00:36:32,19-12-2024 00:36:49,16.933s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,19-12-2024 00:36:32,19-12-2024 00:36:33,1.053s,PASSED
+closeBrowser(),Chrome 131.0.0.0,,,19-12-2024 00:36:33,19-12-2024 00:36:33,0.144s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,19-12-2024 00:36:33,19-12-2024 00:36:34,0.866s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,19-12-2024 00:36:34,19-12-2024 00:36:37,2.720s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img_EGP_undefined""))",Chrome 131.0.0.0,,,19-12-2024 00:36:37,19-12-2024 00:36:46,9.409s,PASSED
+"click(findTestObject(""Object Repository/Page_/p_See all reviews (5)""))",Chrome 131.0.0.0,,,19-12-2024 00:36:46,19-12-2024 00:36:49,2.639s,PASSED
+,,,,,,,
+Test Cases/TC17_View_Full_Description,Chrome 131.0.0.0,,,19-12-2024 00:36:49,19-12-2024 00:36:59,10.148s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,19-12-2024 00:36:49,19-12-2024 00:36:50,1.009s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,19-12-2024 00:36:50,19-12-2024 00:36:52,2.234s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img_EGP_undefined""))",Chrome 131.0.0.0,,,19-12-2024 00:36:52,19-12-2024 00:36:56,3.875s,PASSED
+"click(findTestObject(""Object Repository/Page_/span_Show full description""))",Chrome 131.0.0.0,,,19-12-2024 00:36:56,19-12-2024 00:36:59,2.807s,PASSED
+closeBrowser(),Chrome 131.0.0.0,,,19-12-2024 00:36:59,19-12-2024 00:36:59,0.180s,PASSED
+,,,,,,,
+Test Cases/TC18_View_Seller_Products,Chrome 131.0.0.0,,,19-12-2024 00:36:59,19-12-2024 00:37:13,13.630s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,19-12-2024 00:36:59,19-12-2024 00:37:00,0.770s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,19-12-2024 00:37:00,19-12-2024 00:37:03,3.223s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img_EGP_undefined""))",Chrome 131.0.0.0,,,19-12-2024 00:37:03,19-12-2024 00:37:10,6.536s,PASSED
+"click(findTestObject(""Object Repository/Page_/p_Explore more items from  This Seller""))",Chrome 131.0.0.0,,,19-12-2024 00:37:10,19-12-2024 00:37:13,2.849s,PASSED
+closeBrowser(),Chrome 131.0.0.0,,,19-12-2024 00:37:13,19-12-2024 00:37:13,0.209s,PASSED

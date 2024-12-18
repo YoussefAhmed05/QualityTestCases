@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enter your phone number or email Enter _56918f</name>
+   <tag></tag>
+   <elementGuidId>917947ee-7728-458f-bb39-4443ef58d949</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div[2]/div/form/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiGrid-root.MuiGrid-container.MuiGrid-item.undefined.HMZ_gap18.muiltr-1ul47bz</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Enter your phone number or email Enter your phone number or email or&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0643e190-5790-4840-a329-c56254be08af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiGrid-root MuiGrid-container MuiGrid-item undefined HMZ_gap18 muiltr-1ul47bz</value>
+      <webElementGuid>d639515d-6e44-48f3-911c-0a23abaa097c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enter your phone number or email Enter your phone number or email or</value>
+      <webElementGuid>ab95cc0a-cbb8-4ae5-a830-8cd1e09b6f86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg MuiContainer-fixed muiltr-x3h831&quot;]/div[@class=&quot;AccountMangmentLayout_accountMangment_container__u98U8&quot;]/div[@class=&quot;AccountMangmentLayout_centered_content__vkp9B HMZ_gap24&quot;]/div[@class=&quot;AccountMangmentLayout_children__16Gjr&quot;]/div[@class=&quot;logIn_logIn_container___Wv3y HMZ_gap24&quot;]/form[@class=&quot;logIn_LogIn_Form___6PkP&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item undefined HMZ_gap18 muiltr-1ul47bz&quot;]</value>
+      <webElementGuid>456ca604-8a40-4d57-940a-a7b8ee614731</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div[2]/div/form/div</value>
+      <webElementGuid>b4d353a9-b7f3-4122-a5ac-d2b9d53e6cb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login or Register'])[1]/following::div[1]</value>
+      <webElementGuid>b2a42178-0d98-4299-bc5e-28a6cd2ada83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>2c7a619f-0f66-403b-b6a8-14892ffc0b94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Enter your phone number or email Enter your phone number or email or' or . = 'Enter your phone number or email Enter your phone number or email or')]</value>
+      <webElementGuid>3a9d3c7f-24f7-472e-9a77-a9810eece1d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

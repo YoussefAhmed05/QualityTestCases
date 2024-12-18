@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_please Select CityCairoAlexandriaGizaNo_1f6022</name>
+   <tag></tag>
+   <elementGuidId>0f31de3b-7eaa-4b58-8577-7fdd5ff0afb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='menu-region']/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation8.MuiPopover-paper.MuiMenu-paper.MuiMenu-paper.muiltr-pwxzbm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#menu-region div >> internal:has-text=&quot;please Select CityCairoAlexandriaGizaNorth CoastEin SokhnaGharbiaKafr El SheikhB&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>80f2ee8c-a0d9-4911-80cf-cf185bdb4685</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper MuiMenu-paper MuiMenu-paper muiltr-pwxzbm</value>
+      <webElementGuid>823d1a04-816b-4f73-bfc3-44e8fa5871ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>cfa20bd5-2191-4ae3-ae8d-842aa651195c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>please Select CityCairoAlexandriaGizaNorth CoastEin SokhnaGharbiaKafr El SheikhBeheiraMenofiaQalyubiaSharkiaDakahliaGounaHurghadaAssiutMinyaCross_borderPort SaidIsmailiaSuezFaiyumBeni Suef</value>
+      <webElementGuid>4afb4d76-9f46-44bc-b8e0-a6bdfc37cd08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-region&quot;)/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 MuiPopover-paper MuiMenu-paper MuiMenu-paper muiltr-pwxzbm&quot;]</value>
+      <webElementGuid>cda8aad7-5901-45ec-89e2-39cfc76c4775</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='menu-region']/div[3]</value>
+      <webElementGuid>b1016192-3b0c-4078-936d-f5639b0c3af6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[2]/following::div[5]</value>
+      <webElementGuid>a1f89e5b-ae67-48a7-94e8-67dbb8908600</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work'])[2]/following::div[7]</value>
+      <webElementGuid>570b0f34-a98a-4ac9-b611-bc648e83c1e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[3]</value>
+      <webElementGuid>8b84e2d9-839f-49c4-91a3-4097ca69f3aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'please Select CityCairoAlexandriaGizaNorth CoastEin SokhnaGharbiaKafr El SheikhBeheiraMenofiaQalyubiaSharkiaDakahliaGounaHurghadaAssiutMinyaCross_borderPort SaidIsmailiaSuezFaiyumBeni Suef' or . = 'please Select CityCairoAlexandriaGizaNorth CoastEin SokhnaGharbiaKafr El SheikhBeheiraMenofiaQalyubiaSharkiaDakahliaGounaHurghadaAssiutMinyaCross_borderPort SaidIsmailiaSuezFaiyumBeni Suef')]</value>
+      <webElementGuid>a5344c3d-75ce-4e22-a151-530de757f46f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div[3]</value>
+      <webElementGuid>1f7be39f-3974-420d-8845-7edfebe52740</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,17 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS04_Cart_Management,Chrome 131.0.0.0,,,19-12-2024 00:19:10,19-12-2024 00:20:42,1m - 31.849s,FAILED
+,,,,,,,
+Test Cases/TC05_Add_to_Cart,Chrome 131.0.0.0,,,19-12-2024 00:19:10,19-12-2024 00:19:24,13.527s,PASSED
+"openBrowser("""")",Chrome 131.0.0.0,,,19-12-2024 00:19:11,19-12-2024 00:19:13,1.988s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,19-12-2024 00:19:13,19-12-2024 00:19:14,1.569s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/h3_MDF Wood Dressing 210x220x45x40 cm - Bla_476ce3""))",Chrome 131.0.0.0,,,19-12-2024 00:19:14,19-12-2024 00:19:19,5.031s,PASSED
+"click(findTestObject(""Object Repository/Page_/img_Excluding official holidays and vacatio_f2668b""))",Chrome 131.0.0.0,,,19-12-2024 00:19:19,19-12-2024 00:19:23,3.666s,PASSED
+"click(findTestObject(""Object Repository/Page_/img_Excluding official holidays and vacatio_f2668b""))",Chrome 131.0.0.0,,,19-12-2024 00:19:23,19-12-2024 00:19:24,0.753s,PASSED
+"click(findTestObject(""Object Repository/Page_/img_Add to cart_ProductDetails_shopping_car_4933c6""))",Chrome 131.0.0.0,,,19-12-2024 00:19:24,19-12-2024 00:19:24,0.327s,PASSED
+,,,,,,,
+Test Cases/TC16_Remove_from_Cart,Chrome 131.0.0.0,,,19-12-2024 00:19:24,19-12-2024 00:20:42,1m - 18.149s,FAILED
+"openBrowser("""")",Chrome 131.0.0.0,,,19-12-2024 00:19:24,19-12-2024 00:19:25,1.029s,PASSED
+"navigateToUrl(""https://homzmart.com/en"")",Chrome 131.0.0.0,,,19-12-2024 00:19:25,19-12-2024 00:20:07,41.614s,PASSED
+"click(findTestObject(""Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/h3_MDF Wood Dressing 210x220x45x40 cm - Bla_476ce3""))",Chrome 131.0.0.0,,,19-12-2024 00:20:07,19-12-2024 00:20:08,1.835s,PASSED
+"doubleClick(findTestObject(""Object Repository/Page_/img_Excluding official holidays and vacatio_f2668b""))",Chrome 131.0.0.0,,,19-12-2024 00:20:08,19-12-2024 00:20:11,2.278s,PASSED
+"click(findTestObject(""Object Repository/Page_/button_Add to cart""))",Chrome 131.0.0.0,,,19-12-2024 00:20:11,19-12-2024 00:20:42,31.316s,FAILED

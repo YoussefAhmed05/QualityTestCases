@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Enter your phone number or email_outl_281146</name>
    <tag></tag>
-   <elementGuidId>4e1a0616-55af-409b-a168-837f925d6ae8</elementGuidId>
+   <elementGuidId>ae7eaee0-f949-4f4b-b471-bb1548c194dd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -15,6 +15,12 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Enter your phone number or email&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2690bb62-c9c8-4550-9acc-a679fad0b6f0</webElementGuid>
+      <webElementGuid>f64a4d17-2e53-4f77-80d8-9e998a8fa0af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +37,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>953d075e-f552-48c2-a5b8-9447af8ffd31</webElementGuid>
+      <webElementGuid>1cf823c6-27cf-45d4-8fa7-de05f431f9f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>outlined-basic</value>
-      <webElementGuid>602d5868-34a7-43e6-bb29-d6a49861319d</webElementGuid>
+      <webElementGuid>f35782d9-a997-4dc0-b0c8-b99344cdd953</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>eb3b7aca-189b-4d8e-ba11-ebb00385ee19</webElementGuid>
+      <webElementGuid>7efde576-2edc-44cd-ba65-d221dc581c14</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiInputBase-input MuiOutlinedInput-input muiltr-1x5jdmq</value>
-      <webElementGuid>6acb9507-268c-4acc-8dd9-8d2a9b5d04cc</webElementGuid>
+      <webElementGuid>af3f0e12-51d6-4ce1-ad92-905fbb5b56ea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,15 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;outlined-basic&quot;)</value>
-      <webElementGuid>27c689f9-a384-490a-bf1a-efdc7e585e8d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>qotb@gmail.com</value>
-      <webElementGuid>33e64ff0-1abb-4104-ac25-5d61e90cc116</webElementGuid>
+      <webElementGuid>2a2e46fc-1c59-4afc-8c63-b9fc12232ca0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='outlined-basic']</value>
-      <webElementGuid>8995d48c-25c7-4ed8-994b-627fa00d7de6</webElementGuid>
+      <webElementGuid>cc0f2953-4c37-4dc9-8d7b-f05d2a623e59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div/div/div[2]/div/form/div/div/div/input</value>
-      <webElementGuid>a961aca2-5680-4e9a-83c0-ce5d008ebcd3</webElementGuid>
+      <webElementGuid>ea9b235f-d8b0-4713-b19a-47c3e758009b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>6db83298-7206-464b-b316-649e2ce47b93</webElementGuid>
+      <webElementGuid>d476f592-765d-47a2-bf6a-e006481dbba7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'outlined-basic' and @type = 'text']</value>
-      <webElementGuid>0ebee7e7-69aa-465b-bd2c-c969a7b2e8a4</webElementGuid>
+      <webElementGuid>51d30852-19cf-49d4-943b-4f7ae84240f3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

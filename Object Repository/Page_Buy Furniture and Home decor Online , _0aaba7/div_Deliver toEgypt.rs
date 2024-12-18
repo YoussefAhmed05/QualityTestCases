@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Deliver toEgypt</name>
+   <tag></tag>
+   <elementGuidId>410b4d03-93ab-475a-aaac-1848b5333d42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[2]/div/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-with-icon_textWithIcon__7_ffC</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Deliver toEgypt$/ >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>23c6d128-61e3-4b22-b099-e6aaf2065719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-with-icon_textWithIcon__7_ffC</value>
+      <webElementGuid>16dbe65c-d244-454a-a8f3-c723a51248f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Deliver toEgypt</value>
+      <webElementGuid>d5e08ee6-78c7-463e-87e3-38013e6802a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[@class=&quot;MuiGrid-root muiltr-1ij0jnt&quot;]/div[@class=&quot;MuiGrid-root styles_headerContainer__zvolI muiltr-rfnosa&quot;]/div[@class=&quot;base-header-wrapper_baseHeaderWrapper__Hlubz&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainer__W84Zx undefined muiltr-1qsxih2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container HMZ_gap24 muiltr-1tsmbea&quot;]/div[@class=&quot;MuiGrid-root desktop muiltr-rfnosa&quot;]/div[@class=&quot;MuiGrid-root muiltr-rfnosa&quot;]/div[@class=&quot;text-with-icon_textWithIcon__7_ffC&quot;]</value>
+      <webElementGuid>67997f95-c1fe-47a9-a70e-493727aacc20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[2]/div/div/div[2]/div/div</value>
+      <webElementGuid>938fd8e9-e67d-4e91-9736-fb5c41b9c17d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End-of-Year Clearance! Get extra 15% discount with code: EXTRA15'])[1]/following::div[8]</value>
+      <webElementGuid>20283d2e-a2de-4c8d-81b4-7afc828263cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/preceding::div[2]</value>
+      <webElementGuid>cb0aac48-488c-410d-aafd-702c6282e2f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div</value>
+      <webElementGuid>547a69ef-833b-4a5e-aaf5-4333d848d89a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Deliver toEgypt' or . = 'Deliver toEgypt')]</value>
+      <webElementGuid>2fd603aa-3471-4705-8286-9d090f0490ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

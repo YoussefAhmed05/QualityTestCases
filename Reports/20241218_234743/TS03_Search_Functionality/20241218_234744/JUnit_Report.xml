@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS03_Search_Functionality" time="124.714" tests="4" failures="1" errors="0">
+   <testsuite name="TS03_Search_Functionality" tests="4" failures="1" errors="0" time="124.714" skipped="0" timestamp="18-12-2024T23:47:50" hostname="CompuMart - 192.168.47.1" id="Test Suites/TS03_Search_Functionality">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\CompuMart\\Desktop\\4.1\\442Quality\\Quality Project\\Katalon\\Reports\\20241218_234743\\TS03_Search_Functionality\\20241218_234744"/>
+         <property name="logFiles" value="C:\\Users\\CompuMart\\Desktop\\4.1\\442Quality\\Quality Project\\Katalon\\Reports\\20241218_234743\\TS03_Search_Functionality\\20241218_234744\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\CompuMart\\Desktop\\4.1\\442Quality\\Quality Project\\Katalon\\Reports\\20241218_234743\\TS03_Search_Functionality\\20241218_234744\\1734558584464.png"/>
+         <property name="hostName" value="CompuMart - 192.168.47.1"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.0.1.223"/>
+         <property name="browser" value="Chrome 131.0.0.0"/>
+         <property name="hostAddress" value="192.168.47.1"/>
+         <property name="sessionId" value="fb1b1029f2e933295d55282048447cc1"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TC09_Filters" time="18.311" classname="Test Cases/TC09_Filters" status="PASSED">
+         <system-out><![CDATA[18-12-2024T23:47:50 - [TEST_CASE][PASSED] - Test Cases/TC09_Filters: Test Cases/TC09_Filters
+
+18-12-2024T23:47:50 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-12-2024T23:47:51 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+18-12-2024T23:47:51 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-12-2024T23:47:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-12-2024T23:47:53 - [TEST_STEP][PASSED] - navigateToUrl("https://homzmart.com/en"): Navigate to 'https://homzmart.com/en' successfully
+
+18-12-2024T23:47:54 - [MESSAGE][PASSED] - Navigate to 'https://homzmart.com/en' successfully
+
+18-12-2024T23:47:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img' is clicked on
+
+18-12-2024T23:48:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img' is clicked on
+
+18-12-2024T23:48:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo' is clicked on
+
+18-12-2024T23:48:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo' is clicked on
+
+18-12-2024T23:48:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Tables")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Tables' is clicked on
+
+18-12-2024T23:48:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Tables' is clicked on
+
+18-12-2024T23:48:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Find the Perfect Table for Your Home -_28535e/input_Price low to high_radio-buttons-group")): Object: 'Object Repository/Page_Find the Perfect Table for Your Home -_28535e/input_Price low to high_radio-buttons-group' is clicked on
+
+18-12-2024T23:48:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Find the Perfect Table for Your Home -_28535e/input_Price low to high_radio-buttons-group' is clicked on
+
+18-12-2024T23:48:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Find the Perfect Table for Your Home -_28535e/div_Apply")): Object: 'Object Repository/Page_Find the Perfect Table for Your Home -_28535e/div_Apply' is clicked on
+
+18-12-2024T23:48:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Find the Perfect Table for Your Home -_28535e/div_Apply' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC19_Apply_Multiple_Filters" time="19.409" classname="Test Cases/TC19_Apply_Multiple_Filters" status="PASSED">
+         <system-out><![CDATA[18-12-2024T23:48:08 - [TEST_CASE][PASSED] - Test Cases/TC19_Apply_Multiple_Filters: Test Cases/TC19_Apply_Multiple_Filters
+
+18-12-2024T23:48:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-12-2024T23:48:08 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+18-12-2024T23:48:09 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+18-12-2024T23:48:09 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-12-2024T23:48:10 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-12-2024T23:48:10 - [TEST_STEP][PASSED] - navigateToUrl("https://homzmart.com/en"): Navigate to 'https://homzmart.com/en' successfully
+
+18-12-2024T23:48:12 - [MESSAGE][PASSED] - Navigate to 'https://homzmart.com/en' successfully
+
+18-12-2024T23:48:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img' is clicked on
+
+18-12-2024T23:48:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img' is clicked on
+
+18-12-2024T23:48:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo' is clicked on
+
+18-12-2024T23:48:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo' is clicked on
+
+18-12-2024T23:48:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Tables")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Tables' is clicked on
+
+18-12-2024T23:48:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Tables' is clicked on
+
+18-12-2024T23:48:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Find the Perfect Table for Your Home -_28535e/input_Price low to high_radio-buttons-group")): Object: 'Object Repository/Page_Find the Perfect Table for Your Home -_28535e/input_Price low to high_radio-buttons-group' is clicked on
+
+18-12-2024T23:48:26 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Find the Perfect Table for Your Home -_28535e/input_Price low to high_radio-buttons-group' is clicked on
+
+18-12-2024T23:48:26 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Find the Perfect Table for Your Home -_28535e/input__PrivateSwitchBase-input muiltr-1m9pwf3")): Object: 'Object Repository/Page_Find the Perfect Table for Your Home -_28535e/input__PrivateSwitchBase-input muiltr-1m9pwf3' is clicked on
+
+18-12-2024T23:48:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Find the Perfect Table for Your Home -_28535e/input__PrivateSwitchBase-input muiltr-1m9pwf3' is clicked on
+
+18-12-2024T23:48:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Find the Perfect Table for Your Home -_28535e/input_(1127)_PrivateSwitchBase-input muiltr_435b5c")): Object: 'Object Repository/Page_Find the Perfect Table for Your Home -_28535e/input_(1127)_PrivateSwitchBase-input muiltr_435b5c' is clicked on
+
+18-12-2024T23:48:27 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Find the Perfect Table for Your Home -_28535e/input_(1127)_PrivateSwitchBase-input muiltr_435b5c' is clicked on
+
+18-12-2024T23:48:27 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Find the Perfect Table for Your Home -_28535e/div_Apply")): Object: 'Object Repository/Page_Find the Perfect Table for Your Home -_28535e/div_Apply' is clicked on
+
+18-12-2024T23:48:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Find the Perfect Table for Your Home -_28535e/div_Apply' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC20_Reset_Filters" time="76.368" classname="Test Cases/TC20_Reset_Filters" status="FAILED">
+         <failure type="FAILED" message="Test Cases/TC20_Reset_Filters FAILED.&#xa;Reason:&#xa;com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Chairs'&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)&#xa;	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)&#xa;	at TC20_Reset_Filters.run(TC20_Reset_Filters:26)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)&#xa;	at TempTestSuite1734558464861.run(TempTestSuite1734558464861.groovy:35)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Chairs' located by '//li[@id='grouped-demo-option-1']/div/p' not found&#xa;	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1426)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)&#xa;	... 20 more&#xa;"/>
+         <system-out><![CDATA[18-12-2024T23:48:28 - [TEST_CASE][FAILED] - Test Cases/TC20_Reset_Filters: Test Cases/TC20_Reset_Filters FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Chairs'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at TC20_Reset_Filters.run(TC20_Reset_Filters:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1734558464861.run(TempTestSuite1734558464861.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Chairs' located by '//li[@id='grouped-demo-option-1']/div/p' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1426)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more
+
+
+18-12-2024T23:48:28 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-12-2024T23:48:28 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+18-12-2024T23:48:28 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+18-12-2024T23:48:28 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-12-2024T23:48:29 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-12-2024T23:48:29 - [TEST_STEP][PASSED] - navigateToUrl("https://homzmart.com/en"): Navigate to 'https://homzmart.com/en' successfully
+
+18-12-2024T23:48:29 - [MESSAGE][PASSED] - Navigate to 'https://homzmart.com/en' successfully
+
+18-12-2024T23:48:29 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img' is clicked on
+
+18-12-2024T23:49:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img' is clicked on
+
+18-12-2024T23:49:13 - [TEST_STEP][FAILED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Chairs")): Unable to click on object 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Chairs' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Chairs'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at TC20_Reset_Filters.run(TC20_Reset_Filters:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1734558464861.run(TempTestSuite1734558464861.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Chairs' located by '//li[@id='grouped-demo-option-1']/div/p' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1426)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Script1734546924119.run(Script1734546924119.groovy:26)
+	... 15 more
+)
+
+18-12-2024T23:49:44 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //li[@id='grouped-demo-option-1']/div/p'. Please recheck the objects properties to make sure the desired element is located. 
+
+18-12-2024T23:49:44 - [MESSAGE][FAILED] - Unable to click on object 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Chairs' (Root cause: com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Chairs'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at TC20_Reset_Filters.run(TC20_Reset_Filters:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1734558464861.run(TempTestSuite1734558464861.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Chairs' located by '//li[@id='grouped-demo-option-1']/div/p' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1426)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at Script1734546924119.run(Script1734546924119.groovy:26)
+	... 15 more
+)
+[[ATTACHMENT|C:\\Users\\CompuMart\\Desktop\\4.1\\442Quality\\Quality Project\\Katalon\\Reports\\20241218_234743\\TS03_Search_Functionality\\20241218_234744\\1734558584464.png]]]]></system-out>
+         <system-err><![CDATA[18-12-2024T23:48:28 - [TEST_CASE][FAILED] - Test Cases/TC20_Reset_Filters: Test Cases/TC20_Reset_Filters FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Chairs'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at TC20_Reset_Filters.run(TC20_Reset_Filters:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1734558464861.run(TempTestSuite1734558464861.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Chairs' located by '//li[@id='grouped-demo-option-1']/div/p' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1426)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC03_Search" time="10.444" classname="Test Cases/TC03_Search" status="PASSED">
+         <system-out><![CDATA[18-12-2024T23:49:44 - [TEST_CASE][PASSED] - Test Cases/TC03_Search: Test Cases/TC03_Search
+
+18-12-2024T23:49:44 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-12-2024T23:49:44 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+18-12-2024T23:49:45 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+18-12-2024T23:49:45 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-12-2024T23:49:45 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-12-2024T23:49:45 - [TEST_STEP][PASSED] - navigateToUrl("https://homzmart.com/en"): Navigate to 'https://homzmart.com/en' successfully
+
+18-12-2024T23:49:48 - [MESSAGE][PASSED] - Navigate to 'https://homzmart.com/en' successfully
+
+18-12-2024T23:49:48 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img' is clicked on
+
+18-12-2024T23:49:53 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img' is clicked on
+
+18-12-2024T23:49:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo"), "chair"): Text 'chair' is set on object 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo'
+
+18-12-2024T23:49:54 - [MESSAGE][PASSED] - Text 'chair' is set on object 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo'
+
+18-12-2024T23:49:54 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo'
+
+18-12-2024T23:49:55 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/input__grouped-demo']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[18-12-2024T23:47:50 - [TEST_SUITE][FAILED] - TS03_Search_Functionality: Test Cases/TC20_Reset_Filters FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Chairs'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at TC20_Reset_Filters.run(TC20_Reset_Filters:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1734558464861.run(TempTestSuite1734558464861.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Chairs' located by '//li[@id='grouped-demo-option-1']/div/p' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1426)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more]]></system-out>
+      <system-err><![CDATA[18-12-2024T23:47:50 - [TEST_SUITE][FAILED] - TS03_Search_Functionality: Test Cases/TC20_Reset_Filters FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Unable to click on object 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Chairs'
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:117)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:43)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.click(ClickKeyword.groovy:75)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword.execute(ClickKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.click(WebUiBuiltInKeywords.groovy:696)
+	at TC20_Reset_Filters.run(TC20_Reset_Filters:26)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:161)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:176)
+	at TempTestSuite1734558464861.run(TempTestSuite1734558464861.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_Chairs' located by '//li[@id='grouped-demo-option-1']/div/p' not found
+	at com.kms.katalon.core.webui.common.WebUiCommonHelper.findWebElement(WebUiCommonHelper.java:1426)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIAbstractKeyword.findWebElement(WebUIAbstractKeyword.groovy:27)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.doCall(ClickKeyword.groovy:66)
+	at com.kms.katalon.core.webui.keyword.builtin.ClickKeyword$_click_closure1.call(ClickKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:35)
+	... 20 more]]></system-err>
+   </testsuite>
+</testsuites>

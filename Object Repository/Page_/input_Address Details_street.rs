@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Address Details_street</name>
    <tag></tag>
-   <elementGuidId>cc18d6cb-220f-46fa-8265-d50a1aed4c40</elementGuidId>
+   <elementGuidId>e0dfc431-61c5-4a81-9320-4a5c3e00b84c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -15,6 +15,12 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>input[name=&quot;street&quot;] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e2aef87d-1e8b-49e6-b988-0f3927d97134</webElementGuid>
+      <webElementGuid>6043138d-dd84-44fd-a062-17042007e78b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +37,7 @@
       <name>aria-invalid</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>430e9189-ff2a-459d-b43c-0719d6c25884</webElementGuid>
+      <webElementGuid>de24cb0c-152d-48d3-96ed-aa789cf645e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>outlined-basic</value>
-      <webElementGuid>5108c922-16cc-4dae-a68a-0f9aa8d2e981</webElementGuid>
+      <webElementGuid>2190ec5b-ef42-4573-8fd3-8ffd38e734af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>street</value>
-      <webElementGuid>d2a060ac-ae56-4e72-b46f-416cfc2b7bba</webElementGuid>
+      <webElementGuid>4a768955-4de9-41a5-a742-ef599426f709</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +61,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d68afda6-97e0-429a-8fe9-30d2d6aa8641</webElementGuid>
+      <webElementGuid>50734242-82f7-459e-9be4-b36a294ed299</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +69,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiInputBase-input MuiOutlinedInput-input muiltr-1x5jdmq</value>
-      <webElementGuid>189dc726-c35e-4d60-b0c2-ef3a7c4359ee</webElementGuid>
+      <webElementGuid>7034cd47-38cc-491e-bc73-33234c371b51</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;base-modal_modal__YZwPP MuiModal-root muiltr-8ndowl&quot;]/div[@class=&quot;base-modal_base-modal__box__fGy_O MuiBox-root muiltr-0&quot;]/form[@class=&quot;address-form-inputs_addressForm_styles__xeWWA&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-12 muiltr-1367ec5&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-grid-xs-12 MuiGrid-grid-md-12 muiltr-14tstx0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item muiltr-1wxaqej&quot;]/div[@class=&quot;MuiFormControl-root MuiTextField-root muiltr-i44wyl&quot;]/div[@class=&quot;MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-formControl muiltr-1h2wc6z&quot;]/input[@id=&quot;outlined-basic&quot;]</value>
-      <webElementGuid>da488e0c-b195-41be-bb9c-488f225137df</webElementGuid>
+      <webElementGuid>11147c1f-bf3f-4b1a-bd8c-d7826006b440</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//input[@id='outlined-basic'])[6]</value>
-      <webElementGuid>dc5792ac-3641-4e44-bd5c-d7dd62af8272</webElementGuid>
+      <webElementGuid>9c580970-a4f6-41f3-9acb-63a31dc0a4a8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div/input</value>
-      <webElementGuid>c5fec42c-ea10-4528-9174-4107803e03e5</webElementGuid>
+      <webElementGuid>497a32a0-ccb6-410f-8e50-d78e2aef78fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'outlined-basic' and @name = 'street' and @type = 'text']</value>
-      <webElementGuid>723de961-c718-4fb2-8a9c-3b7d0d91e118</webElementGuid>
+      <webElementGuid>9da9886f-a3fb-4b35-872f-3548eaebaf42</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

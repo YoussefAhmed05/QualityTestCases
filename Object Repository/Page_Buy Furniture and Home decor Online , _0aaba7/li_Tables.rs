@@ -3,7 +3,7 @@
    <description></description>
    <name>li_Tables</name>
    <tag></tag>
-   <elementGuidId>d1587307-aad0-4477-9b4b-d813618295f3</elementGuidId>
+   <elementGuidId>3fe44cf9-0691-498e-82ba-ebf32ceadd41</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -15,6 +15,12 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;Category icon Tables&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>li</value>
-      <webElementGuid>b117af35-72d8-4711-8c1f-bc9d174acf60</webElementGuid>
+      <webElementGuid>1537d6aa-36e5-4e7e-b5ff-9f12750573ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>1c502009-15c4-4921-8037-cf054a5a1738</webElementGuid>
+      <webElementGuid>08903e0b-790e-4848-a8d1-84419efbc578</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>option</value>
-      <webElementGuid>5a7b4339-43a9-47f5-8f35-7dd2adcec58f</webElementGuid>
+      <webElementGuid>9334c4ae-093e-44c1-a977-06b67fc265d4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>grouped-demo-option-0</value>
-      <webElementGuid>6420236f-7570-4779-aff3-6992ba9b7805</webElementGuid>
+      <webElementGuid>ce84c13e-9973-4e4e-a9cc-c0885b80282a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +61,7 @@
       <name>data-option-index</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>1e75ee1e-5e08-410b-9faa-78d0b012d986</webElementGuid>
+      <webElementGuid>04b5b48e-7ba9-4eb8-aaf0-a060c01ae825</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +69,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>3d3d1810-c17d-4974-9919-d542292416c1</webElementGuid>
+      <webElementGuid>6a036946-c20a-4290-9ff7-c786a8999399</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +77,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>6d5c76ab-a537-48bc-954a-ed2457831464</webElementGuid>
+      <webElementGuid>3c961295-3079-49c2-8207-ade9d22a4d64</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +85,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiAutocomplete-option Mui-focused</value>
-      <webElementGuid>4c75939a-68f0-49c4-bad1-302721c4eb0d</webElementGuid>
+      <webElementGuid>a591060e-e8c5-49e9-8292-67a5c18a64e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,7 +93,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tables</value>
-      <webElementGuid>3056f08a-5d9a-415f-b47a-2b3db6a9df8f</webElementGuid>
+      <webElementGuid>87eebf71-68c4-4378-87a0-6991c79a7003</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;grouped-demo-option-0&quot;)</value>
-      <webElementGuid>75306a42-1987-45d0-ab96-4fd32ec51d97</webElementGuid>
+      <webElementGuid>b6480041-ba7f-4cf8-b0ff-654a9ca637e1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -103,7 +109,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//li[@id='grouped-demo-option-0']</value>
-      <webElementGuid>194f0397-8044-440f-bc90-cb91d5fbae8d</webElementGuid>
+      <webElementGuid>8fcc52c0-daf8-4762-b912-f36b63d626f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//ul[@id='grouped-demo-listbox']/div/div/li</value>
-      <webElementGuid>db4a8d44-6060-4fa2-8dfa-62e62473d75c</webElementGuid>
+      <webElementGuid>f3689f40-35e1-4cf0-88d8-31cf33000444</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alexandria'])[1]/following::li[1]</value>
-      <webElementGuid>6c122d45-f493-4593-8a87-632ec0fd3074</webElementGuid>
+      <webElementGuid>feee428f-08f3-407d-9217-8f90d88710f4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li</value>
-      <webElementGuid>a310f34e-cdc7-4bb6-bfdd-8d4d0aa640c4</webElementGuid>
+      <webElementGuid>50c9ad54-0904-4b86-bf35-58523f839b76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//li[@id = 'grouped-demo-option-0' and (text() = 'Tables' or . = 'Tables')]</value>
-      <webElementGuid>950f5dc0-5220-4693-9c8f-a133f6cf20b9</webElementGuid>
+      <webElementGuid>9c493570-76f6-4e6e-a1f9-b5e7992636fb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

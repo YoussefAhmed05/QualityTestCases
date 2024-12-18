@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS07_Product_View_Tests" time="52.839" tests="4" failures="0" errors="0">
+   <testsuite name="TS07_Product_View_Tests" tests="4" failures="0" errors="0" time="52.839" skipped="0" timestamp="19-12-2024T00:36:20" hostname="CompuMart - 192.168.47.1" id="Test Suites/TS07_Product_View_Tests">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\CompuMart\\Desktop\\4.1\\442Quality\\Quality Project\\Katalon\\Reports\\20241219_003615\\TS07_Product_View_Tests\\20241219_003615"/>
+         <property name="logFiles" value="C:\\Users\\CompuMart\\Desktop\\4.1\\442Quality\\Quality Project\\Katalon\\Reports\\20241219_003615\\TS07_Product_View_Tests\\20241219_003615\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="CompuMart - 192.168.47.1"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.0.1.223"/>
+         <property name="browser" value="Chrome 131.0.0.0"/>
+         <property name="hostAddress" value="192.168.47.1"/>
+         <property name="sessionId" value="27cd3e6ee391c3eede19f20f9b7b2f6c"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TC06_View_Product" time="11.927" classname="Test Cases/TC06_View_Product" status="PASSED">
+         <system-out><![CDATA[19-12-2024T00:36:20 - [TEST_CASE][PASSED] - Test Cases/TC06_View_Product: Test Cases/TC06_View_Product
+
+19-12-2024T00:36:20 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+19-12-2024T00:36:21 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+19-12-2024T00:36:21 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+19-12-2024T00:36:22 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+19-12-2024T00:36:22 - [TEST_STEP][PASSED] - navigateToUrl("https://homzmart.com/en"): Navigate to 'https://homzmart.com/en' successfully
+
+19-12-2024T00:36:24 - [MESSAGE][PASSED] - Navigate to 'https://homzmart.com/en' successfully
+
+19-12-2024T00:36:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/div_Luma Bella Coffee Maker 4 Cups 250 ml 6_41a885")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/div_Luma Bella Coffee Maker 4 Cups 250 ml 6_41a885' is clicked on
+
+19-12-2024T00:36:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/div_Luma Bella Coffee Maker 4 Cups 250 ml 6_41a885' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC25_View_Reviews" time="16.933" classname="Test Cases/TC25_View_Reviews" status="PASSED">
+         <system-out><![CDATA[19-12-2024T00:36:32 - [TEST_CASE][PASSED] - Test Cases/TC25_View_Reviews: Test Cases/TC25_View_Reviews
+
+19-12-2024T00:36:32 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+19-12-2024T00:36:32 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+19-12-2024T00:36:32 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+19-12-2024T00:36:32 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+19-12-2024T00:36:33 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+19-12-2024T00:36:33 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+19-12-2024T00:36:33 - [MESSAGE][PASSED] - Browser is closed
+
+19-12-2024T00:36:33 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+19-12-2024T00:36:33 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+19-12-2024T00:36:33 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+19-12-2024T00:36:34 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+19-12-2024T00:36:34 - [TEST_STEP][PASSED] - navigateToUrl("https://homzmart.com/en"): Navigate to 'https://homzmart.com/en' successfully
+
+19-12-2024T00:36:37 - [MESSAGE][PASSED] - Navigate to 'https://homzmart.com/en' successfully
+
+19-12-2024T00:36:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img_EGP_undefined")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img_EGP_undefined' is clicked on
+
+19-12-2024T00:36:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img_EGP_undefined' is clicked on
+
+19-12-2024T00:36:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/p_See all reviews (5)")): Object: 'Object Repository/Page_/p_See all reviews (5)' is clicked on
+
+19-12-2024T00:36:49 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/p_See all reviews (5)' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC17_View_Full_Description" time="10.148" classname="Test Cases/TC17_View_Full_Description" status="PASSED">
+         <system-out><![CDATA[19-12-2024T00:36:49 - [TEST_CASE][PASSED] - Test Cases/TC17_View_Full_Description: Test Cases/TC17_View_Full_Description
+
+19-12-2024T00:36:49 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+19-12-2024T00:36:49 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+19-12-2024T00:36:49 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+19-12-2024T00:36:49 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+19-12-2024T00:36:50 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+19-12-2024T00:36:50 - [TEST_STEP][PASSED] - navigateToUrl("https://homzmart.com/en"): Navigate to 'https://homzmart.com/en' successfully
+
+19-12-2024T00:36:52 - [MESSAGE][PASSED] - Navigate to 'https://homzmart.com/en' successfully
+
+19-12-2024T00:36:52 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img_EGP_undefined")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img_EGP_undefined' is clicked on
+
+19-12-2024T00:36:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img_EGP_undefined' is clicked on
+
+19-12-2024T00:36:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/span_Show full description")): Object: 'Object Repository/Page_/span_Show full description' is clicked on
+
+19-12-2024T00:36:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/span_Show full description' is clicked on
+
+19-12-2024T00:36:59 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+19-12-2024T00:36:59 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC18_View_Seller_Products" time="13.63" classname="Test Cases/TC18_View_Seller_Products" status="PASSED">
+         <system-out><![CDATA[19-12-2024T00:36:59 - [TEST_CASE][PASSED] - Test Cases/TC18_View_Seller_Products: Test Cases/TC18_View_Seller_Products
+
+19-12-2024T00:36:59 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+19-12-2024T00:36:59 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+19-12-2024T00:36:59 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+19-12-2024T00:37:00 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+19-12-2024T00:37:00 - [TEST_STEP][PASSED] - navigateToUrl("https://homzmart.com/en"): Navigate to 'https://homzmart.com/en' successfully
+
+19-12-2024T00:37:03 - [MESSAGE][PASSED] - Navigate to 'https://homzmart.com/en' successfully
+
+19-12-2024T00:37:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img_EGP_undefined")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img_EGP_undefined' is clicked on
+
+19-12-2024T00:37:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/img_EGP_undefined' is clicked on
+
+19-12-2024T00:37:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/p_Explore more items from  This Seller")): Object: 'Object Repository/Page_/p_Explore more items from  This Seller' is clicked on
+
+19-12-2024T00:37:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/p_Explore more items from  This Seller' is clicked on
+
+19-12-2024T00:37:13 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+19-12-2024T00:37:13 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[19-12-2024T00:36:20 - [TEST_SUITE][PASSED] - TS07_Product_View_Tests: Test Cases/TC18_View_Seller_Products]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

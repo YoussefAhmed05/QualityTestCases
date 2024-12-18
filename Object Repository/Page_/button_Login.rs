@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Login</name>
    <tag></tag>
-   <elementGuidId>ae4fc0dc-b7dd-4429-b916-ad129683ebbb</elementGuidId>
+   <elementGuidId>dd2444f7-3cb7-4c3c-954e-1ea5846aaa3a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -15,6 +15,12 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Login&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e14b0854-55cf-4b1b-8022-5cadd18d33a6</webElementGuid>
+      <webElementGuid>f31623d2-d894-4c17-82f6-dffd80b16b6e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary undefined base-button_baseButton__4kanA undefined muiltr-moby93</value>
-      <webElementGuid>8e242178-268f-4caa-9bd4-60b080d13418</webElementGuid>
+      <webElementGuid>d08d99d4-e54e-47ff-91ad-4938042b9af9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>6ad235e5-6eb5-4c9c-ab03-05b39299591b</webElementGuid>
+      <webElementGuid>9613ed06-d9a4-4e52-9b9c-f45a83fa6bd1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>533e0d39-2d68-48e8-97d4-8de87a607040</webElementGuid>
+      <webElementGuid>5e65a3ba-0c8d-4f13-9f99-44902dd1d571</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Login</value>
-      <webElementGuid>70571d13-8814-4810-b0bf-c6ef82283749</webElementGuid>
+      <webElementGuid>cabb561f-047c-4aa8-83dd-48af631063fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg MuiContainer-fixed muiltr-x3h831&quot;]/div[@class=&quot;AccountMangmentLayout_accountMangment_container__u98U8&quot;]/div[@class=&quot;AccountMangmentLayout_centered_content__vkp9B HMZ_gap24&quot;]/div[@class=&quot;AccountMangmentLayout_children__16Gjr&quot;]/div[@class=&quot;ExistScreen_logIn_container__aNjc7 HMZ_gap24&quot;]/form[@class=&quot;ExistScreen_LogIn_Form__0Y7J1&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item undefined HMZ_gap24 muiltr-1ul47bz&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary undefined base-button_baseButton__4kanA undefined muiltr-moby93&quot;]</value>
-      <webElementGuid>8bb9baf1-d0c0-4721-956a-4a2845269dde</webElementGuid>
+      <webElementGuid>f57337b2-908d-4a6b-a235-50871f7b4a7b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>79334019-af93-49cf-bd92-a8098aeb7abc</webElementGuid>
+      <webElementGuid>7c208b53-a4b6-4a16-92f9-c730b06eda00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div/div/div[2]/div/form/div/button</value>
-      <webElementGuid>412ad31a-3d75-4a36-b471-999b6154f5b0</webElementGuid>
+      <webElementGuid>df5b2516-68d1-4764-ba45-c548a6f8c848</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password?'])[1]/following::button[1]</value>
-      <webElementGuid>4b2d2a42-4e4c-4fe1-8c8d-2700cadf5f8d</webElementGuid>
+      <webElementGuid>29837256-bc34-4e9c-8116-50817b3ab042</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep me logged'])[1]/following::button[1]</value>
-      <webElementGuid>60a01c22-8e5c-40bf-acdb-45a47668c303</webElementGuid>
+      <webElementGuid>0d9625ab-9b64-482f-8afa-18482e0c09af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button</value>
-      <webElementGuid>a734e1c1-cbbd-4645-b094-2c67c4774d5d</webElementGuid>
+      <webElementGuid>8c6c7880-b38d-47df-9d1a-a32f9287cf4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>968e8509-d288-4c30-a27b-eb418774f74f</webElementGuid>
+      <webElementGuid>ab8ebd2d-2c50-49bc-8608-f1d52cc23a12</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

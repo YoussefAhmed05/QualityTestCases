@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Show full description</name>
+   <tag></tag>
+   <elementGuidId>388a8efe-d2da-4fba-8273-b6771975d7c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div/div[2]/div[9]/div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ProductDescription_see_more_text__bUP9W</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Show full description&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b39bf753-2ad6-4813-8c9f-1505f3212d27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ProductDescription_see_more_text__bUP9W</value>
+      <webElementGuid>2fccecd7-259b-477b-83db-6841a7784e87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show full description</value>
+      <webElementGuid>664e3b73-660c-4412-b9ad-1b20e9735c4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[2]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainer__W84Zx base-container_sm_p0__WNSf7 muiltr-1qsxih2&quot;]/div[@class=&quot;ProductDetails_detailsPage__rigKh&quot;]/div[@class=&quot;ProductDetails_sectionOne__Eu_BD&quot;]/div[@class=&quot;ProductDetails_product__details__gl63Y&quot;]/div[@class=&quot;ProductDescription_Description_container__sYOoE pdp-new-section-responsive-line&quot;]/div[@class=&quot;ProductDescription_description_header__MM6uy&quot;]/span[@class=&quot;undefined  desktop&quot;]/span[@class=&quot;ProductDescription_see_more_text__bUP9W&quot;]</value>
+      <webElementGuid>7cdc705d-e0e7-4a52-b2cf-18b97f4b487a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div[2]/div[9]/div/span/span</value>
+      <webElementGuid>186dbbe8-bd72-453e-9734-43ba40e600f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::span[2]</value>
+      <webElementGuid>89e4f4de-80c6-4ce8-962c-640b3035f276</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elegant wardrobe.'])[1]/preceding::span[1]</value>
+      <webElementGuid>6199b3b5-7d97-4b1a-bbaa-f76542926340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Consists of 4 hangers, 5 shelves and 3 drawers.'])[1]/preceding::span[1]</value>
+      <webElementGuid>2cfa678c-5635-442a-9e49-6300a8d1eb3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Show full description']/parent::*</value>
+      <webElementGuid>a76e5cf8-96eb-4124-ace1-78b5d70671e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/span/span</value>
+      <webElementGuid>4a8cab73-fd4b-4354-bc04-20f4517acac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Show full description' or . = 'Show full description')]</value>
+      <webElementGuid>8dcf5991-41aa-47c2-8c7d-20a905024595</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

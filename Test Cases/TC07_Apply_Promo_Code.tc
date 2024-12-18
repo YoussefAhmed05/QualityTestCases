@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07_Apply_Promo_Code</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>875a791d-5754-41da-bc4d-a42bb9a6a6bc</testCaseGuid>
+</TestCaseEntity>

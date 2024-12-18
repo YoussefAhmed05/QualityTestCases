@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_2766 EGP</name>
+   <tag></tag>
+   <elementGuidId>f52d3d84-34bc-4b02-ba97-3d3631833f29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div/div[3]/div/div/div/div/div[3]/div/div[2]/div[4]/div[2]/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5c3a62d7-5020-4fe4-8b8f-da468aec61ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2766 EGP</value>
+      <webElementGuid>ef29b6b8-84e2-46b4-9dc4-be04a2f3a5e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/main[1]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainerBody__PjcNt undefined muiltr-1qsxih2&quot;]/div[@class=&quot;HMZ_mg_b_20&quot;]/div[@class=&quot;MegaDeals_container__megaDeals__wsjRp&quot;]/div[@class=&quot;base-slider_sliderWrapper__2AaZ4&quot;]/div[@class=&quot;swiper swiper-initialized swiper-horizontal swiper-css-mode undefined false base-slider_removePadding__swCnz&quot;]/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide swiper-slide-next&quot;]/div[@class=&quot;MegaDealItems_megaDeals__0yX4J&quot;]/div[@class=&quot;MegaDealItems_wraperInfo__megaDeals__yY_cy&quot;]/div[@class=&quot;MegaDealSupItems_card__megaDeals__Fou0r&quot;]/div[@class=&quot;MegaDealSupItems_info__megaDeals__gs_UI&quot;]/div[@class=&quot;MegaDealSupItems_price__megaDeals__YDl45&quot;]/p[1]</value>
+      <webElementGuid>c47b1dc9-46b2-40e7-9e3a-2b4e8facb72f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div/div[3]/div/div/div/div/div[3]/div/div[2]/div[4]/div[2]/div[2]/p</value>
+      <webElementGuid>c6c06b98-26d0-428c-81e7-c2069f996c10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Metal and Beech Wood Office Chair -'])[1]/following::p[1]</value>
+      <webElementGuid>2d437f7f-41d3-4a4a-a5ee-aaeaceeb7b1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Office Furnitur'])[1]/following::p[1]</value>
+      <webElementGuid>8a4e9f43-f1f4-4c8c-91b1-415af7ad6cfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your perfect Christmas gift is just a click away'])[1]/preceding::p[1]</value>
+      <webElementGuid>c36fa705-7e4c-4f85-8b48-a2a12e4a730f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[4]/preceding::p[1]</value>
+      <webElementGuid>c2a7e42e-613a-486c-a3ac-ff656b0c8133</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2766']/parent::*</value>
+      <webElementGuid>88f12658-cb12-446f-81aa-d90da3e7c250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[4]/div[2]/div[2]/p</value>
+      <webElementGuid>dd805877-c525-4410-9cc2-95ceab3f7613</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '2766 EGP' or . = '2766 EGP')]</value>
+      <webElementGuid>1d4e14e0-b2d6-4bb6-99d7-7b17e216da3a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

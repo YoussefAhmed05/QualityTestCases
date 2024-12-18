@@ -3,18 +3,24 @@
    <description></description>
    <name>button_Confirm</name>
    <tag></tag>
-   <elementGuidId>475a0fd7-ec38-416b-a9aa-89328e7a7644</elementGuidId>
+   <elementGuidId>a2e780e3-1555-43e6-848f-0e44c80f7c14</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[2]</value>
+         <value>(//button[@type='button'])[8]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-colorPrimary.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-colorPrimary.undefined.base-button_baseButton__4kanA.undefined.muiltr-moby93</value>
+         <value>div.MuiGrid-root.MuiGrid-grid-xs-12.MuiGrid-grid-md-2.muiltr-1ev0h6w > button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-colorPrimary.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-sizeMedium.MuiButton-containedSizeMedium.MuiButton-colorPrimary.undefined.base-button_baseButton__4kanA.undefined.muiltr-moby93</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Confirm&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>1eedeb4d-c661-4239-8d61-9303f52341e3</webElementGuid>
+      <webElementGuid>40b26a9b-0ee5-4147-9398-3aba728804d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary undefined base-button_baseButton__4kanA undefined muiltr-moby93</value>
-      <webElementGuid>04a410fe-45a1-4051-b358-5936d21e5d60</webElementGuid>
+      <webElementGuid>78b1ec7c-0f44-40e9-b4a8-c0e737039a24</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>a2e8f576-1ea0-44ea-a906-95a9b88cdfe4</webElementGuid>
+      <webElementGuid>15190784-952b-4615-922c-4f6a10751fdc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>99dc07a0-fe88-438a-8e01-7111ff8a0a6a</webElementGuid>
+      <webElementGuid>b6043ea7-2367-4fd6-9d43-6175918d0cb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Confirm</value>
-      <webElementGuid>8ced8966-81de-436e-b5de-6178e963a5d1</webElementGuid>
+      <webElementGuid>b969b285-280d-4149-a8b0-7807fb31794d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,31 +69,31 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;base-modal_modal__YZwPP MuiModal-root muiltr-8ndowl&quot;]/div[@class=&quot;base-modal_base-modal__box__fGy_O MuiBox-root muiltr-0&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-item muiltr-1w0ycf9&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-grid-xs-12 MuiGrid-grid-md-2 muiltr-1ev0h6w&quot;]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary undefined base-button_baseButton__4kanA undefined muiltr-moby93&quot;]</value>
-      <webElementGuid>720f1d3d-e870-4fc5-8c02-c65ac91a75d0</webElementGuid>
+      <webElementGuid>f3ada72c-e789-460e-8ed3-a72701424f44</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[2]</value>
-      <webElementGuid>83ed157c-0d8a-4c3b-8b71-ae6219863ed7</webElementGuid>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>e6d54504-c7dd-4526-8645-bd4a64e50e2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='random32'])[1]/following::button[1]</value>
-      <webElementGuid>bab7f1a2-5527-479e-88a9-b17caeaaa9c9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='home'])[3]/following::button[1]</value>
+      <webElementGuid>8bbb303f-da0a-4fac-9abb-f0eb1d11a23c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Locations'])[1]/following::button[2]</value>
-      <webElementGuid>3e42919b-3f6a-48b0-ba88-919edca834fc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='home'])[2]/following::button[1]</value>
+      <webElementGuid>d9c00ef8-d670-4f14-a159-b2be4eb700c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,15 +101,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Locations'])[2]/preceding::button[1]</value>
-      <webElementGuid>308b63eb-e30d-4bf2-a825-f025853b0485</webElementGuid>
+      <webElementGuid>21a04fbc-dafe-4535-abee-a33ba90cb7b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='random32'])[2]/preceding::button[2]</value>
-      <webElementGuid>22bd86da-7847-43ab-9bbe-06a5e4d03f1c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='home'])[4]/preceding::button[2]</value>
+      <webElementGuid>ab29d432-71c6-404f-80f1-2b9108ed0a47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,15 +117,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Confirm']/parent::*</value>
-      <webElementGuid>b67901f9-6797-4fb4-9a9c-0bfafee04210</webElementGuid>
+      <webElementGuid>c42d4fbf-689f-4bdd-b41f-74b0b29021fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button</value>
-      <webElementGuid>83503ceb-a223-4534-a120-9e252063e701</webElementGuid>
+      <value>//div[3]/div[2]/button</value>
+      <webElementGuid>d77d2bfb-7c35-4ae8-b3f1-ea315c89a449</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,6 +133,62 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Confirm' or . = 'Confirm')]</value>
-      <webElementGuid>3b5c925e-2e23-4efb-92bb-bc340b4b1743</webElementGuid>
+      <webElementGuid>bb3a0cf0-c0e0-4efd-b39e-ae0376c2df2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='home'])[1]/following::button[1]</value>
+      <webElementGuid>8f9009d3-6032-45c0-a9fe-34c3187cd3d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='home'])[3]/preceding::button[2]</value>
+      <webElementGuid>142eafa0-068c-48b4-8108-fb0c3c990c7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>e606d89c-e8f3-46cc-88bf-797314d0e130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delivery Locations'])[1]/following::button[2]</value>
+      <webElementGuid>0910bcb6-3e6e-4ba3-a310-d62191336345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='home'])[2]/preceding::button[2]</value>
+      <webElementGuid>5c9b9a16-90ea-48af-a978-edbbd4a9eaa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>a9bcb5c4-6770-49d8-b451-f4e53b88804d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>f727d78d-9725-41f3-91a9-92a609f032f6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS02_User_Profile_Tests" time="212.399" tests="3" failures="0" errors="0">
+   <testsuite name="TS02_User_Profile_Tests" tests="3" failures="0" errors="0" time="212.399" skipped="0" timestamp="18-12-2024T23:28:02" hostname="CompuMart - 192.168.47.1" id="Test Suites/TS02_User_Profile_Tests">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\CompuMart\\Desktop\\4.1\\442Quality\\Quality Project\\Katalon\\Reports\\20241218_232757\\TS02_User_Profile_Tests\\20241218_232757"/>
+         <property name="logFiles" value="C:\\Users\\CompuMart\\Desktop\\4.1\\442Quality\\Quality Project\\Katalon\\Reports\\20241218_232757\\TS02_User_Profile_Tests\\20241218_232757\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="CompuMart - 192.168.47.1"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.0.1.223"/>
+         <property name="browser" value="Chrome 131.0.0.0"/>
+         <property name="hostAddress" value="192.168.47.1"/>
+         <property name="sessionId" value="f24ec9429f875a091670c2985da76833"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/TC12_Change_Password" time="78.265" classname="Test Cases/TC12_Change_Password" status="PASSED">
+         <system-out><![CDATA[18-12-2024T23:28:02 - [TEST_CASE][PASSED] - Test Cases/TC12_Change_Password: Test Cases/TC12_Change_Password
+
+18-12-2024T23:28:02 - [TEST_STEP][PASSED] - newPassword = "Pass" + Random().nextInt(100000) + "@": null
+
+18-12-2024T23:28:02 - [TEST_STEP][PASSED] - encryptedPassword = "aP/zuRNtJbw=": null
+
+18-12-2024T23:28:02 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-12-2024T23:28:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+18-12-2024T23:28:03 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-12-2024T23:28:04 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-12-2024T23:28:04 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+18-12-2024T23:28:04 - [MESSAGE][PASSED] - Current window maximized
+
+18-12-2024T23:28:04 - [TEST_STEP][PASSED] - navigateToUrl("https://homzmart.com/en"): Navigate to 'https://homzmart.com/en' successfully
+
+18-12-2024T23:28:06 - [MESSAGE][PASSED] - Navigate to 'https://homzmart.com/en' successfully
+
+18-12-2024T23:28:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Account")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Account' is clicked on
+
+18-12-2024T23:28:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Account' is clicked on
+
+18-12-2024T23:28:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/button_Sign in")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/button_Sign in' is clicked on
+
+18-12-2024T23:28:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/button_Sign in' is clicked on
+
+18-12-2024T23:28:11 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_/input_Enter your phone number or email_outl_281146"), "test777@gmail.com"): Text 'test777@gmail.com' is set on object 'Object Repository/Page_/input_Enter your phone number or email_outl_281146'
+
+18-12-2024T23:28:14 - [MESSAGE][PASSED] - Text 'test777@gmail.com' is set on object 'Object Repository/Page_/input_Enter your phone number or email_outl_281146'
+
+18-12-2024T23:28:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/button_Continue")): Object: 'Object Repository/Page_/button_Continue' is clicked on
+
+18-12-2024T23:28:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/button_Continue' is clicked on
+
+18-12-2024T23:28:14 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_/input_Enter your password_outlined-basic"), currentPassword): Text ****** has been set on object 'Object Repository/Page_/input_Enter your password_outlined-basic'
+
+18-12-2024T23:28:15 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_/input_Enter your password_outlined-basic'
+
+18-12-2024T23:28:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/button_Login")): Object: 'Object Repository/Page_/button_Login' is clicked on
+
+18-12-2024T23:28:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/button_Login' is clicked on
+
+18-12-2024T23:28:17 - [TEST_STEP][PASSED] - if (verifyElementPresent(findTestObject("Object Repository/Page_/div_Skip"), 5, OPTIONAL)): null
+
+18-12-2024T23:28:19 - [MESSAGE][PASSED] - Object 'Object Repository/Page_/div_Skip' is present
+
+18-12-2024T23:28:19 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/div_Skip")): Object: 'Object Repository/Page_/div_Skip' is clicked on
+
+18-12-2024T23:28:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/div_Skip' is clicked on
+
+18-12-2024T23:28:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/div_Hi, FirstName.My Account")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/div_Hi, FirstName.My Account' is clicked on
+
+18-12-2024T23:28:24 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/div_Hi, FirstName.My Account' is clicked on
+
+18-12-2024T23:28:24 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Profile"), 5): Scroll to object 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Profile' successfully
+
+18-12-2024T23:28:34 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Profile' successfully
+
+18-12-2024T23:28:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Profile")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Profile' is clicked on
+
+18-12-2024T23:28:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Profile' is clicked on
+
+18-12-2024T23:28:34 - [TEST_STEP][PASSED] - waitForElementClickable(findTestObject("Object Repository/Page_Homzmart/p_Change"), 10): Object 'Object Repository/Page_Homzmart/p_Change' is clickable
+
+18-12-2024T23:29:17 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Homzmart/p_Change' is clickable
+
+18-12-2024T23:29:17 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Object Repository/Page_Homzmart/p_Change"), 5): Scroll to object 'Object Repository/Page_Homzmart/p_Change' successfully
+
+18-12-2024T23:29:17 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Homzmart/p_Change' successfully
+
+18-12-2024T23:29:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Homzmart/p_Change")): Object: 'Object Repository/Page_Homzmart/p_Change' is clicked on
+
+18-12-2024T23:29:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Homzmart/p_Change' is clicked on
+
+18-12-2024T23:29:18 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Homzmart/input_Old Password_oldPassword"), currentPassword): Text 'aP/zuRNtJbw=' is set on object 'Object Repository/Page_Homzmart/input_Old Password_oldPassword'
+
+18-12-2024T23:29:18 - [MESSAGE][PASSED] - Text 'aP/zuRNtJbw=' is set on object 'Object Repository/Page_Homzmart/input_Old Password_oldPassword'
+
+18-12-2024T23:29:18 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Homzmart/input_New Password_newPassword"), newPassword): Text 'Pass32950@' is set on object 'Object Repository/Page_Homzmart/input_New Password_newPassword'
+
+18-12-2024T23:29:19 - [MESSAGE][PASSED] - Text 'Pass32950@' is set on object 'Object Repository/Page_Homzmart/input_New Password_newPassword'
+
+18-12-2024T23:29:19 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Homzmart/input_Confirm Password_confirmPassword"), newPassword): Text 'Pass32950@' is set on object 'Object Repository/Page_Homzmart/input_Confirm Password_confirmPassword'
+
+18-12-2024T23:29:20 - [MESSAGE][PASSED] - Text 'Pass32950@' is set on object 'Object Repository/Page_Homzmart/input_Confirm Password_confirmPassword'
+
+18-12-2024T23:29:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Homzmart/button_Save")): Object: 'Object Repository/Page_Homzmart/button_Save' is clicked on
+
+18-12-2024T23:29:20 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Homzmart/button_Save' is clicked on
+
+18-12-2024T23:29:20 - [TEST_STEP][PASSED] - currentPassword = encryptedPassword: null
+
+18-12-2024T23:29:20 - [TEST_STEP][PASSED] - println("Password successfully changed to: " + newPassword): null
+
+18-12-2024T23:29:20 - [TEST_STEP][PASSED] - println("Encrypted Password saved in GlobalVariable: " + currentPassword): null
+
+18-12-2024T23:29:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+18-12-2024T23:29:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC11_Edit_Profile" time="103.526" classname="Test Cases/TC11_Edit_Profile" status="PASSED">
+         <system-out><![CDATA[18-12-2024T23:29:20 - [TEST_CASE][PASSED] - Test Cases/TC11_Edit_Profile: Test Cases/TC11_Edit_Profile
+
+18-12-2024T23:29:20 - [TEST_STEP][PASSED] - randomFirstName = "FirstName" + Random().nextInt(10000): null
+
+18-12-2024T23:29:20 - [TEST_STEP][PASSED] - randomLastName = "LastName" + Random().nextInt(10000): null
+
+18-12-2024T23:29:20 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-12-2024T23:29:20 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+18-12-2024T23:29:20 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-12-2024T23:29:21 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-12-2024T23:29:21 - [TEST_STEP][PASSED] - navigateToUrl("https://homzmart.com/en"): Navigate to 'https://homzmart.com/en' successfully
+
+18-12-2024T23:30:03 - [MESSAGE][PASSED] - Navigate to 'https://homzmart.com/en' successfully
+
+18-12-2024T23:30:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Account")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Account' is clicked on
+
+18-12-2024T23:30:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Account' is clicked on
+
+18-12-2024T23:30:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/button_Sign in")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/button_Sign in' is clicked on
+
+18-12-2024T23:30:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/button_Sign in' is clicked on
+
+18-12-2024T23:30:06 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_/input_Enter your phone number or email_outl_281146"), "qota3er5b@gmail.com"): Text 'qota3er5b@gmail.com' is set on object 'Object Repository/Page_/input_Enter your phone number or email_outl_281146'
+
+18-12-2024T23:30:08 - [MESSAGE][PASSED] - Text 'qota3er5b@gmail.com' is set on object 'Object Repository/Page_/input_Enter your phone number or email_outl_281146'
+
+18-12-2024T23:30:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/svg_Continue_MuiSvgIcon-root MuiSvgIcon-fon_408109")): Object: 'Object Repository/Page_/svg_Continue_MuiSvgIcon-root MuiSvgIcon-fon_408109' is clicked on
+
+18-12-2024T23:30:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/svg_Continue_MuiSvgIcon-root MuiSvgIcon-fon_408109' is clicked on
+
+18-12-2024T23:30:09 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_/input_Enter your password_outlined-basic"), "6KJkoHE/sDrMzjnwUVj344BcLI/3x6TS"): Text ****** has been set on object 'Object Repository/Page_/input_Enter your password_outlined-basic'
+
+18-12-2024T23:30:10 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_/input_Enter your password_outlined-basic'
+
+18-12-2024T23:30:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/svg_Login_MuiSvgIcon-root MuiSvgIcon-fontSi_579575")): Object: 'Object Repository/Page_/svg_Login_MuiSvgIcon-root MuiSvgIcon-fontSi_579575' is clicked on
+
+18-12-2024T23:30:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/svg_Login_MuiSvgIcon-root MuiSvgIcon-fontSi_579575' is clicked on
+
+18-12-2024T23:30:10 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/div_Skip")): Object: 'Object Repository/Page_/div_Skip' is clicked on
+
+18-12-2024T23:30:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/div_Skip' is clicked on
+
+18-12-2024T23:30:12 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/div_Hi, qotbbbbbb.My Account")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/div_Hi, qotbbbbbb.My Account' is clicked on
+
+18-12-2024T23:30:18 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/div_Hi, qotbbbbbb.My Account' is clicked on
+
+18-12-2024T23:30:18 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Profile")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Profile' is clicked on
+
+18-12-2024T23:30:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Profile' is clicked on
+
+18-12-2024T23:30:19 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Homzmart/input_First Name_firstname"), randomFirstName): Text 'FirstName3000' is set on object 'Object Repository/Page_Homzmart/input_First Name_firstname'
+
+18-12-2024T23:31:03 - [MESSAGE][PASSED] - Text 'FirstName3000' is set on object 'Object Repository/Page_Homzmart/input_First Name_firstname'
+
+18-12-2024T23:31:03 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Homzmart/input_Last Name_lastname"), randomLastName): Text 'LastName4668' is set on object 'Object Repository/Page_Homzmart/input_Last Name_lastname'
+
+18-12-2024T23:31:03 - [MESSAGE][PASSED] - Text 'LastName4668' is set on object 'Object Repository/Page_Homzmart/input_Last Name_lastname'
+
+18-12-2024T23:31:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Homzmart/span_Update Profile")): Object: 'Object Repository/Page_Homzmart/span_Update Profile' is clicked on
+
+18-12-2024T23:31:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Homzmart/span_Update Profile' is clicked on
+
+18-12-2024T23:31:04 - [TEST_STEP][PASSED] - println("Random First Name: " + randomFirstName): null
+
+18-12-2024T23:31:04 - [TEST_STEP][PASSED] - println("Random Last Name: " + randomLastName): null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC10_View_Profile" time="30.435" classname="Test Cases/TC10_View_Profile" status="PASSED">
+         <system-out><![CDATA[18-12-2024T23:31:04 - [TEST_CASE][PASSED] - Test Cases/TC10_View_Profile: Test Cases/TC10_View_Profile
+
+18-12-2024T23:31:04 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+18-12-2024T23:31:04 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+18-12-2024T23:31:04 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+18-12-2024T23:31:04 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+18-12-2024T23:31:05 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+18-12-2024T23:31:05 - [TEST_STEP][PASSED] - navigateToUrl("https://homzmart.com/en"): Navigate to 'https://homzmart.com/en' successfully
+
+18-12-2024T23:31:07 - [MESSAGE][PASSED] - Navigate to 'https://homzmart.com/en' successfully
+
+18-12-2024T23:31:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Account")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Account' is clicked on
+
+18-12-2024T23:31:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Account' is clicked on
+
+18-12-2024T23:31:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/button_Sign in")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/button_Sign in' is clicked on
+
+18-12-2024T23:31:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/button_Sign in' is clicked on
+
+18-12-2024T23:31:11 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_/input_Enter your phone number or email_outl_281146"), "qota3er5b@gmail.com"): Text 'qota3er5b@gmail.com' is set on object 'Object Repository/Page_/input_Enter your phone number or email_outl_281146'
+
+18-12-2024T23:31:14 - [MESSAGE][PASSED] - Text 'qota3er5b@gmail.com' is set on object 'Object Repository/Page_/input_Enter your phone number or email_outl_281146'
+
+18-12-2024T23:31:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/button_Continue")): Object: 'Object Repository/Page_/button_Continue' is clicked on
+
+18-12-2024T23:31:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/button_Continue' is clicked on
+
+18-12-2024T23:31:15 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_/input_Enter your password_outlined-basic"), "6KJkoHE/sDrMzjnwUVj344BcLI/3x6TS"): Text ****** has been set on object 'Object Repository/Page_/input_Enter your password_outlined-basic'
+
+18-12-2024T23:31:22 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_/input_Enter your password_outlined-basic'
+
+18-12-2024T23:31:22 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/svg_Login_MuiSvgIcon-root MuiSvgIcon-fontSi_579575")): Object: 'Object Repository/Page_/svg_Login_MuiSvgIcon-root MuiSvgIcon-fontSi_579575' is clicked on
+
+18-12-2024T23:31:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/svg_Login_MuiSvgIcon-root MuiSvgIcon-fontSi_579575' is clicked on
+
+18-12-2024T23:31:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_/div_Skip")): Object: 'Object Repository/Page_/div_Skip' is clicked on
+
+18-12-2024T23:31:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_/div_Skip' is clicked on
+
+18-12-2024T23:31:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Account")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Account' is clicked on
+
+18-12-2024T23:31:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Account' is clicked on
+
+18-12-2024T23:31:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Profile")): Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Profile' is clicked on
+
+18-12-2024T23:31:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Buy Furniture and Home decor Online , _0aaba7/p_My Profile' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[18-12-2024T23:28:02 - [TEST_SUITE][PASSED] - TS02_User_Profile_Tests: Test Cases/TC10_View_Profile]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

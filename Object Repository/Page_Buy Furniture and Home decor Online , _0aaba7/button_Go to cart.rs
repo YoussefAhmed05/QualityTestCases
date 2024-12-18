@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Go to cart</name>
    <tag></tag>
-   <elementGuidId>56679089-47dc-4070-94d1-a7a8ca996875</elementGuidId>
+   <elementGuidId>ca3793cd-f4b1-4d4f-83ff-b58f7989216a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -15,6 +15,12 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Go to cart&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9e37c13b-9963-4276-b375-d8cb1115461e</webElementGuid>
+      <webElementGuid>741527ec-7a78-4b8e-b654-0e125b8b263d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary base-button_secondary__fZeR8 base-button_baseButton__4kanA styles_BaseButton__PLH9m muiltr-moby93</value>
-      <webElementGuid>9164d81c-01b5-4e63-9b27-78548e004f72</webElementGuid>
+      <webElementGuid>66b5b834-26e8-4bde-8980-a19d53097fa9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>ef265f1f-02ec-48c5-a1b3-e21f76199920</webElementGuid>
+      <webElementGuid>abedee8a-a016-486d-96ff-75afc875d579</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a31a1aa0-6ba6-4296-a978-6a61e88e61da</webElementGuid>
+      <webElementGuid>2f957875-bbb8-42a5-8714-53d0eb4bb3b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Go to cart</value>
-      <webElementGuid>ebb0fe92-ba0f-4d7a-8301-f947575bd70a</webElementGuid>
+      <webElementGuid>70d1deb5-b4ff-48a0-951e-c352b167fb9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;MuiDrawer-root MuiDrawer-modal MuiModal-root muiltr-y28f86&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-elevation16 MuiDrawer-paper MuiDrawer-paperAnchorRight styles_drawer__ZmSzS muiltr-1ab2xsx&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainer__W84Zx undefined muiltr-1qsxih2&quot;]/div[@class=&quot;MuiGrid-root muiltr-1kliqlf&quot;]/a[1]/button[@class=&quot;MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary base-button_secondary__fZeR8 base-button_baseButton__4kanA styles_BaseButton__PLH9m muiltr-moby93&quot;]</value>
-      <webElementGuid>90e3ed1f-71c5-45aa-acad-bd18e11a34ca</webElementGuid>
+      <webElementGuid>e53963aa-8692-4dcf-a0e4-4d8d53f8e9ed</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[4]</value>
-      <webElementGuid>766eae1d-d6f9-4c47-8579-339df47ea5f0</webElementGuid>
+      <webElementGuid>2ed7cf3d-8c18-4488-b9f1-89a6fcbcaadc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alexandria'])[1]/following::button[1]</value>
-      <webElementGuid>cbd88148-9a6a-4d64-bfd5-c702cbfa90c6</webElementGuid>
+      <webElementGuid>d1b42b32-d852-4e1f-af41-e2b0764ab97b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,15 +93,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mansoura,Dakahlia'])[1]/following::button[1]</value>
-      <webElementGuid>76bc6d62-5ab8-4532-93b4-44c97d0bb7b0</webElementGuid>
+      <webElementGuid>fdf75f65-9d8e-4915-80c8-720cef69bbc8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wood Manufactured In The European Union Wardrobe 3 Shutters Dark Blue and Brown - 190x160x50 cm'])[1]/preceding::button[1]</value>
-      <webElementGuid>13a04018-ab13-4d9f-bc4c-aa97dcff0d79</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MDF Wood Dressing 210x220x45x40 cm - Black and Beige'])[2]/preceding::button[1]</value>
+      <webElementGuid>97e1bee6-1713-45e1-b567-7ef5b4dbae66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Go to cart']/parent::*</value>
-      <webElementGuid>b5ffcf9c-7cdf-400e-81a4-87820e275a3a</webElementGuid>
+      <webElementGuid>3492fa70-3f4a-4361-ba9c-1d6a7607188a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/a/button</value>
-      <webElementGuid>21c28efc-cad7-4044-bbfb-15e123eab9f1</webElementGuid>
+      <webElementGuid>9369b36a-3445-455d-9055-8e9189464614</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,6 +125,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'Go to cart' or . = 'Go to cart')]</value>
-      <webElementGuid>e57a8649-af40-4379-8bd5-ed45429e47a9</webElementGuid>
+      <webElementGuid>bc8143b8-b901-4d3f-a241-102136f09d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MDF Dressing Beige - 200x50x200 cm'])[2]/preceding::button[1]</value>
+      <webElementGuid>08a2d8df-c0bd-4ba4-9011-8144a2d71d39</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

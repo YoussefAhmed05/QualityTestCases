@@ -3,11 +3,11 @@
    <description></description>
    <name>img_EGP_undefined</name>
    <tag></tag>
-   <elementGuidId>496199aa-0fd7-42d7-9918-bb7df66e9d34</elementGuidId>
+   <elementGuidId>a3aba479-5336-4bf7-bd12-a3d22bb4b2a9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='__next']/div/main/div/div[5]/div/div[2]/div/div/div[4]/div/a/div/img</value>
+         <value>//div[@id='__next']/div/main/div/div[9]/div/div[2]/div/div/div[3]/div/a/div/img</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -15,6 +15,12 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;MDF Dressing Beige - 200x50x200 cm MDF Dressing Beige - 200x50x200 cm star icon 4.5 (5 Reviews) EGP 21,600.00 EGP 33,840.00 36%Off Upon Demand&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,15 +29,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>2d304f0e-7f69-40a1-9a39-642fed3379b8</webElementGuid>
+      <webElementGuid>a9cbbba3-3c82-43bb-9f79-ce2ffc467f3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>alt</name>
       <type>Main</type>
-      <value>Gamma Bluetooth Sound Bar Speaker Heavy Bass Usb Sd Card Aux Black - GT -119</value>
-      <webElementGuid>0cb7c378-3aa1-4ee9-82c6-b962fa57d8bd</webElementGuid>
+      <value>MDF Dressing Beige - 200x50x200 cm</value>
+      <webElementGuid>2d0f1be3-d7ed-427f-ad5a-57d9753aaf7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +45,7 @@
       <name>loading</name>
       <type>Main</type>
       <value>lazy</value>
-      <webElementGuid>9b5e88b6-fe8e-474f-993a-c92beb03e44c</webElementGuid>
+      <webElementGuid>e3cbcbd8-5d63-4b5a-adbe-18416f2dc0a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +53,7 @@
       <name>width</name>
       <type>Main</type>
       <value>270</value>
-      <webElementGuid>1ecddb0d-9e2a-49da-964f-f5c6f27832bb</webElementGuid>
+      <webElementGuid>e8a0bdb7-3f9f-4328-944f-2e888a70b30b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +61,7 @@
       <name>height</name>
       <type>Main</type>
       <value>270</value>
-      <webElementGuid>9d632fcc-23e3-4531-bc8f-7f887f7c50a3</webElementGuid>
+      <webElementGuid>dc01ae0c-9cb0-465b-b0be-74e4a9e873b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +69,7 @@
       <name>decoding</name>
       <type>Main</type>
       <value>async</value>
-      <webElementGuid>6d7bc0f8-51dc-4300-92f3-3589767b1635</webElementGuid>
+      <webElementGuid>759271f1-9923-4666-8ff2-eb9e3a19c95f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +77,7 @@
       <name>data-nimg</name>
       <type>Main</type>
       <value>1</value>
-      <webElementGuid>12b88b98-fefd-4414-aaa3-8bce67a5feb4</webElementGuid>
+      <webElementGuid>5f3f30d3-4c5b-4035-9495-d7028eac3577</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,15 +85,15 @@
       <name>class</name>
       <type>Main</type>
       <value>undefined </value>
-      <webElementGuid>3d5c55df-2af3-4468-afd1-3aa1ff1a4b14</webElementGuid>
+      <webElementGuid>7efc24a6-847a-4660-b7b9-630711ce235d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>https://eg-rv.homzmart.net/catalog/product/n/s/ns14102027_-env.jpg</value>
-      <webElementGuid>6f60559b-3791-41db-b8c7-18b4541890a9</webElementGuid>
+      <value>https://eg-rv.homzmart.net/catalog/product/o/v/overlay_main_1024_1__4.jpg</value>
+      <webElementGuid>006ed68c-10d4-40c0-a898-77336d4dc99c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,38 +101,38 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/main[1]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainerBody__PjcNt undefined muiltr-1qsxih2&quot;]/div[@class=&quot;HMZ_mg_b_20&quot;]/div[1]/div[@class=&quot;base-slider_sliderWrapper__2AaZ4&quot;]/div[@class=&quot;swiper swiper-initialized swiper-horizontal swiper-css-mode undefined false&quot;]/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide&quot;]/div[@class=&quot;MuiGrid-root base-productCard_productCard_container__JWX6i muiltr-rfnosa&quot;]/a[1]/div[@class=&quot;MuiGrid-root base-productCard_productImageContainer__UCk92 muiltr-rfnosa&quot;]/img[@class=&quot;undefined&quot;]</value>
-      <webElementGuid>8351f861-feb0-4283-a798-638610a4ab1e</webElementGuid>
+      <webElementGuid>df5c7006-ed55-426a-a03a-25cf663ec0ee</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__next']/div/main/div/div[5]/div/div[2]/div/div/div[4]/div/a/div/img</value>
-      <webElementGuid>fd0be4e8-0279-47a3-abfb-b3ca3a0a4ec5</webElementGuid>
+      <value>//div[@id='__next']/div/main/div/div[9]/div/div[2]/div/div/div[3]/div/a/div/img</value>
+      <webElementGuid>97470517-87d4-46c3-9b92-fd8a30e05ad5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:img</name>
       <type>Main</type>
-      <value>//img[@alt='Gamma Bluetooth Sound Bar Speaker Heavy Bass Usb Sd Card Aux Black - GT -119']</value>
-      <webElementGuid>bb62d930-883a-4371-8101-938483414081</webElementGuid>
+      <value>//img[@alt='MDF Dressing Beige - 200x50x200 cm']</value>
+      <webElementGuid>452a4fff-8deb-4afb-9782-41a9a86aa0ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div[4]/div/a/div/img</value>
-      <webElementGuid>1f0d27f8-5a0a-4ea8-9401-adbc3cb36031</webElementGuid>
+      <value>//div[9]/div/div[2]/div/div/div[3]/div/a/div/img</value>
+      <webElementGuid>db4cb234-6c1d-40c5-bdfa-6de1f8e889c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@alt = 'Gamma Bluetooth Sound Bar Speaker Heavy Bass Usb Sd Card Aux Black - GT -119' and @src = 'https://eg-rv.homzmart.net/catalog/product/n/s/ns14102027_-env.jpg']</value>
-      <webElementGuid>2b888194-06e1-41fe-97a1-618faa3b18bc</webElementGuid>
+      <value>//img[@alt = 'MDF Dressing Beige - 200x50x200 cm' and @src = 'https://eg-rv.homzmart.net/catalog/product/o/v/overlay_main_1024_1__4.jpg']</value>
+      <webElementGuid>bbd14834-5dc1-49db-9d6e-dfb0aa90ae7a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

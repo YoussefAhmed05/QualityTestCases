@@ -3,11 +3,11 @@
    <description></description>
    <name>div_Save_MuiBackdrop-root MuiBackdrop-invis_fb27ad</name>
    <tag></tag>
-   <elementGuidId>4e5a2db9-aeaa-472b-9016-8094b6669265</elementGuidId>
+   <elementGuidId>015aaa9c-92f3-41b2-ae4a-ed1f035dd96e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='menu-region']/div</value>
+         <value>//div[@id='menu-city']/div</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -15,6 +15,12 @@
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#menu-city div >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
@@ -23,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>c4fd8ab6-14c5-415e-a163-539776b6b75a</webElementGuid>
+      <webElementGuid>5801f342-8e95-4696-80df-1c1ef32c300c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +37,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>4c9f3e8b-8224-427a-b135-9cd972418016</webElementGuid>
+      <webElementGuid>21a45769-4f73-4ac4-844c-9f0d2d7ff5d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,23 +45,23 @@
       <name>class</name>
       <type>Main</type>
       <value>MuiBackdrop-root MuiBackdrop-invisible MuiModal-backdrop muiltr-esi9ax</value>
-      <webElementGuid>1b7954f9-3de8-4f95-9f6f-bda3bcc59fd5</webElementGuid>
+      <webElementGuid>fd702b67-81cb-4402-8168-0de7fb809528</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;menu-region&quot;)/div[@class=&quot;MuiBackdrop-root MuiBackdrop-invisible MuiModal-backdrop muiltr-esi9ax&quot;]</value>
-      <webElementGuid>a92c0ea0-5126-44f7-837a-d27ed170f7c7</webElementGuid>
+      <value>id(&quot;menu-city&quot;)/div[@class=&quot;MuiBackdrop-root MuiBackdrop-invisible MuiModal-backdrop muiltr-esi9ax&quot;]</value>
+      <webElementGuid>1dbe51ae-0c8d-4e7e-9ddd-fe61824fa085</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='menu-region']/div</value>
-      <webElementGuid>2491e808-9cad-4610-ab4f-2944099477be</webElementGuid>
+      <value>//div[@id='menu-city']/div</value>
+      <webElementGuid>89672b03-0902-4f54-b440-f52203e05c0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,6 +69,22 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div</value>
-      <webElementGuid>baca9355-a5d9-4645-b1ad-50c718bc1372</webElementGuid>
+      <webElementGuid>03a73761-2469-4608-b451-f86f08b0d21e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div</value>
+      <webElementGuid>8b601409-f9c4-4ae8-a8ef-059f811886a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div</value>
+      <webElementGuid>957e0273-31d1-4e05-800d-dd548253587a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

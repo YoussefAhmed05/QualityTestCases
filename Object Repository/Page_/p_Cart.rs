@@ -11,7 +11,7 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.text-with-icon_secondText__yDE6Z > p.base-typography_p__HIGSb.undefined.undefined.undefined</value>
+         <value>div.MuiGrid-root.muiltr-6s0udb > div.text-with-icon_textWithIcon__7_ffC > div.text-with-icon_secondText__yDE6Z > p.base-typography_p__HIGSb.undefined.undefined.undefined</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>1ff22164-5433-47f5-828d-19f490fc1309</webElementGuid>
+      <webElementGuid>559ecd13-e701-4a24-9ad0-a595a709d6ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>base-typography_p__HIGSb undefined undefined undefined</value>
-      <webElementGuid>c16efd20-afd6-4f10-88fe-a5e4ec45ff00</webElementGuid>
+      <webElementGuid>6c1513b0-61ff-461f-b4f8-414fe89bca1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Cart</value>
-      <webElementGuid>2d1bfed5-f87b-4812-af85-7e9e2137bb3f</webElementGuid>
+      <webElementGuid>ecc605b5-38a3-4495-8d08-af714c20d6a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;__className_818b7e&quot;]/div[@class=&quot;MuiGrid-root muiltr-1ij0jnt&quot;]/div[@class=&quot;MuiGrid-root styles_headerContainer__zvolI muiltr-rfnosa&quot;]/div[@class=&quot;base-header-wrapper_baseHeaderWrapper__Hlubz&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg base-container_baseContainer__W84Zx undefined muiltr-1qsxih2&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container HMZ_gap24 muiltr-1tsmbea&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item muiltr-1ucwsv6&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item muiltr-1wxaqej&quot;]/div[@class=&quot;MuiGrid-root muiltr-rfnosa&quot;]/div[@class=&quot;MuiGrid-root muiltr-6s0udb&quot;]/div[@class=&quot;text-with-icon_textWithIcon__7_ffC&quot;]/div[@class=&quot;text-with-icon_secondText__yDE6Z&quot;]/p[@class=&quot;base-typography_p__HIGSb undefined undefined undefined&quot;]</value>
-      <webElementGuid>215990cc-ddb1-4ace-af1d-69989aeef5c4</webElementGuid>
+      <webElementGuid>96b03f17-d033-43bf-89de-52052231ed72</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,63 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div/div/div/div[2]/div/div/div[4]/div[5]/div/div/div/div/p</value>
-      <webElementGuid>110c78ba-8cfd-4d0c-9f9a-51256a692ed6</webElementGuid>
+      <webElementGuid>bfaa4415-bf51-432a-a7db-dbe80d385e1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::p[4]</value>
+      <webElementGuid>d9210026-56ab-46d0-8d89-20e49288ab66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deliver to'])[1]/following::p[5]</value>
+      <webElementGuid>8e1ff7cf-70a7-4e7d-a21e-b494f5a770d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Furniture'])[1]/preceding::p[1]</value>
+      <webElementGuid>1c029943-168f-4887-a746-bd081cd20dc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Storage'])[1]/preceding::p[2]</value>
+      <webElementGuid>b5901742-bbb2-44da-a2fe-22a3ad6ea187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cart']/parent::*</value>
+      <webElementGuid>724d81be-79f1-4826-9227-59888c2d0675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/p</value>
+      <webElementGuid>01c23ece-01ce-4da8-8ea0-aaf72465e4a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Cart' or . = 'Cart')]</value>
+      <webElementGuid>1a8e2b18-acfe-4103-9a8d-228b58dd076f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,63 +126,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[1]/following::p[4]</value>
-      <webElementGuid>36f94435-7970-47e7-859e-4eb4e0120786</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Furniture'])[1]/preceding::p[1]</value>
-      <webElementGuid>e0d5bb1f-92f4-4bb9-a2f1-3f52dbc3ea04</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Storage'])[1]/preceding::p[2]</value>
-      <webElementGuid>b749f3aa-a41d-4778-a8a7-cdfe8b7cd7c1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Cart']/parent::*</value>
-      <webElementGuid>5b13f625-6184-4079-9747-9afb5a41dd5f</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[5]/div/div/div/div/p</value>
-      <webElementGuid>a54ce851-598c-4697-a3fc-975efe9886f6</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//p[(text() = 'Cart' or . = 'Cart')]</value>
-      <webElementGuid>03505e45-33ed-4a97-9414-6c6aaed2b849</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi, qotb'])[1]/following::p[2]</value>
       <webElementGuid>f0136677-c762-459f-94c2-be23274a04b4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deliver to'])[1]/following::p[5]</value>
-      <webElementGuid>6df3a6a1-b81d-433e-b2ff-fe7ff718aaab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
